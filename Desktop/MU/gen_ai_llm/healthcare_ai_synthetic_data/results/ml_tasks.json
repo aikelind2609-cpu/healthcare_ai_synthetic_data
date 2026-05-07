@@ -1,0 +1,15 @@
+{
+  "task1_eligibility": {
+    "task": "Patient Eligibility",
+    "auroc": 0.9996,
+    "target": 0.8,
+    "status": "PASS"
+  },
+  "task2_disease_onset": {
+    "task": "Disease Onset",
+    "auroc": 0.9996,
+    "target": 0.75,
+    "status": "PASS"
+  },
+  "overall_status": "PASS"
+}
