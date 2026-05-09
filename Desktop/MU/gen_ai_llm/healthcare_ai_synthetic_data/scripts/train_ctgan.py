@@ -27,7 +27,9 @@ print(f"✓ CTGAN initialized")
 
 # Train
 print("\n[3/3] Training CTGAN (this may take 5-10 mins)...")
-ctgan.fit(df, epochs=50)
+cat_cols = df.select_dtypes(include=['object']).columns.tolist()
+print(f"Categorical columns: {cat_cols}")
+ctgan.fit(df, discrete_columns=cat_cols, epochs=50)
 print(f"✓ Training complete")
 
 # Save model

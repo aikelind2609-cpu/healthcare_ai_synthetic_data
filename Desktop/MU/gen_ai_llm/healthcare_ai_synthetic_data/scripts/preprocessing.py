@@ -31,4 +31,12 @@ admissions.to_csv('data/processed/cleaned_dataset.csv', index=False)
 print(f"✓ Saved to data/processed/cleaned_dataset.csv")
 print(f"✓ Shape: {admissions.shape}")
 
+# First fix nulls in preprocessing
+df = pd.read_csv('data/processed/cleaned_dataset.csv')
+print('Nulls before:', df.isnull().sum().sum())
+df = df.dropna()
+print('Nulls after:', df.isnull().sum().sum())
+df.to_csv('data/processed/cleaned_dataset.csv', index=False)
+print('Saved. Shape:', df.shape)
+
 print("\nPREPROCESSING COMPLETE!")

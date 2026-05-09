@@ -1,6 +1,6 @@
 {
-  "pearson_correlation": 0.7333144999551734,
-  "kl_divergence": 0.042726315112613024,
+  "pearson_correlation": -1.4077250998394748,
+  "kl_divergence": 0.9437293271324649,
   "pearson_status": "FAIL",
-  "kl_status": "PASS"
+  "kl_status": "FAIL"
 }

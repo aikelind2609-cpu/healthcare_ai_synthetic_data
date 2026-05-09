@@ -15,9 +15,13 @@ df = pd.read_csv('data/synthetic_data_ctgan.csv')
 print(f"✓ Loaded: {df.shape}")
 
 # Create target (binary: high lab value or not)
-df['target'] = (df['lab_value'] > df['lab_value'].median()).astype(int)
+# Use first numeric column as target
+numeric_cols = df.select_dtypes(include=['number']).columns
+first_col = numeric_cols[0]
+print(f"Using column '{first_col}' as target")
+df['target'] = (df[first_col] > df[first_col].median()).astype(int)
 
-X = df.drop('target', axis=1)
+X = df.drop('target', axis=1).select_dtypes(include=['number'])
 y = df['target']
 
 print(f"✓ Features: {X.shape[1]}")

@@ -24,8 +24,13 @@ print(f"✓ Testing set: {X_test.shape}")
 
 # Create attack dataset
 print("\n[2/3] Creating attack dataset...")
-X_members = X_train.iloc[:500].values  # From training (members)
-X_non_members = X_test.iloc[:500].values  # From testing (non-members)
+X_train_num = X_train.select_dtypes(include=['number'])
+X_test_num = X_test.select_dtypes(include=['number'])
+
+# Make sure same columns
+common_cols = X_train_num.columns.intersection(X_test_num.columns)
+X_members = X_train_num[common_cols].iloc[:min(500, len(X_train_num))].values
+X_non_members = X_test_num[common_cols].iloc[:min(500, len(X_test_num))].values
 
 X_attack = np.vstack([X_members, X_non_members])
 y_attack = np.hstack([np.ones(len(X_members)), np.zeros(len(X_non_members))])

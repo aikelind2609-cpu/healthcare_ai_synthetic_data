@@ -5,21 +5,21 @@
     "interpretation": "Privacy concern detected"
   },
   "fidelity": {
-    "pearson_correlation": 0.7333144999551734,
-    "kl_divergence": 0.042726315112613024,
+    "pearson_correlation": -1.4077250998394748,
+    "kl_divergence": 0.9437293271324649,
     "pearson_status": "FAIL",
-    "kl_status": "PASS"
+    "kl_status": "FAIL"
   },
   "ml_tasks": {
     "task1_eligibility": {
       "task": "Patient Eligibility",
-      "auroc": 0.9996,
+      "auroc": 0.9998000000000001,
       "target": 0.8,
       "status": "PASS"
     },
     "task2_disease_onset": {
       "task": "Disease Onset",
-      "auroc": 0.9996,
+      "auroc": 0.9998000000000001,
       "target": 0.75,
       "status": "PASS"
     },
