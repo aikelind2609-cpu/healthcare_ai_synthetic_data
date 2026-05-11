@@ -1,5 +1,20 @@
 {
-  "mia_auc": 1.0,
-  "status": "FAIL",
-  "interpretation": "Privacy concern detected"
+  "mia": {
+    "ctgan_auc": 0.9982934556210947,
+    "wgan_gp_auc": 0.9989483602588114,
+    "ctgan_status": "FAIL",
+    "wgan_gp_status": "FAIL"
+  },
+  "attribute_disclosure": {
+    "ctgan_rate": 0.0,
+    "wgan_gp_rate": 0.0,
+    "ctgan_status": "PASS",
+    "wgan_gp_status": "PASS"
+  },
+  "dp_sgd": {
+    "ctgan_epsilon": 6.016890556926192,
+    "ctgan_delta": 0.0008539709649871904,
+    "wgan_gp_epsilon": 8.78823115751546,
+    "wgan_gp_delta": 0.0008539709649871904
+  }
 }

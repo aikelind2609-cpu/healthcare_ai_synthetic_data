@@ -1,42 +1,49 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.impute import SimpleImputer
+from sklearn.model_selection import train_test_split
 
 print("=" * 60)
-print("DATA PREPROCESSING PIPELINE")
+print("STEP 2: DATA PREPROCESSING")
 print("=" * 60)
 
-# Load data
-print("\n[1/4] Loading data...")
-admissions = pd.read_csv('data/raw/admissions.csv')
-print(f"✓ Loaded admissions: {admissions.shape}")
+print("\n[1/5] Loading data...")
+df = pd.read_csv('data/raw/rare_disease_ehr.csv')
+print(f"✓ Loaded: {df.shape}")
 
-# Handle missing values
-print("\n[2/4] Handling missing values...")
-imputer = SimpleImputer(strategy='median')
-numeric_cols = admissions.select_dtypes(include=[np.number]).columns
-admissions[numeric_cols] = imputer.fit_transform(admissions[numeric_cols])
-print(f"✓ Missing values filled")
+print("\n[2/5] Handling missing values...")
+num_cols = df.select_dtypes(include=[np.number]).columns
+cat_cols = df.select_dtypes(include=['object']).columns
 
-# Normalize features
-print("\n[3/4] Normalizing features...")
+num_imputer = SimpleImputer(strategy='median')
+df[num_cols] = num_imputer.fit_transform(df[num_cols])
+
+cat_imputer = SimpleImputer(strategy='most_frequent')
+df[cat_cols] = cat_imputer.fit_transform(df[cat_cols])
+print(f"✓ Nulls: {df.isnull().sum().sum()}")
+
+print("\n[3/5] Encoding categorical variables...")
+for col in cat_cols:
+    le = LabelEncoder()
+    df[col] = le.fit_transform(df[col].astype(str))
+    print(f"  {col}: {len(le.classes_)} categories")
+
+print("\n[4/5] Normalizing...")
 scaler = StandardScaler()
-admissions[numeric_cols] = scaler.fit_transform(admissions[numeric_cols])
-print(f"✓ Features normalized")
+df[num_cols] = scaler.fit_transform(df[num_cols])
+print(f"✓ Normalized")
 
-# Save cleaned data
-print("\n[4/4] Saving cleaned data...")
-admissions.to_csv('data/processed/cleaned_dataset.csv', index=False)
-print(f"✓ Saved to data/processed/cleaned_dataset.csv")
-print(f"✓ Shape: {admissions.shape}")
+print("\n[5/5] Saving...")
+train_df, test_df = train_test_split(df, test_size=0.2, random_state=42)
 
-# First fix nulls in preprocessing
-df = pd.read_csv('data/processed/cleaned_dataset.csv')
-print('Nulls before:', df.isnull().sum().sum())
-df = df.dropna()
-print('Nulls after:', df.isnull().sum().sum())
 df.to_csv('data/processed/cleaned_dataset.csv', index=False)
-print('Saved. Shape:', df.shape)
+train_df.to_csv('data/processed/train_dataset.csv', index=False)
+test_df.to_csv('data/processed/test_dataset.csv', index=False)
 
-print("\nPREPROCESSING COMPLETE!")
+print(f"✓ Full: {df.shape}")
+print(f"✓ Train: {train_df.shape}")
+print(f"✓ Test: {test_df.shape}")
+print("=" * 60)
+print("PREPROCESSING COMPLETE!")
+print("=" * 60)

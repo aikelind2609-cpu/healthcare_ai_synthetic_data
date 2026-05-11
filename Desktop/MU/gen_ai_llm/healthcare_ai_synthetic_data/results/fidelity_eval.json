@@ -1,6 +1,22 @@
 {
-  "pearson_correlation": -1.4077250998394748,
-  "kl_divergence": 0.9437293271324649,
-  "pearson_status": "FAIL",
-  "kl_status": "FAIL"
+  "ctgan": {
+    "pearson_r": 0.9837943951585497,
+    "pearson_status": "PASS",
+    "kl_divergence": 0.2501007425973587,
+    "kl_status": "FAIL",
+    "ks_statistic": 0.3410190720182181,
+    "ks_status": "FAIL",
+    "correlation_distance": 0.2855610664680665,
+    "corr_status": "PASS"
+  },
+  "wgan_gp": {
+    "pearson_r": 0.9884862238522776,
+    "pearson_status": "PASS",
+    "kl_divergence": 2.215748397712349,
+    "kl_status": "FAIL",
+    "ks_statistic": 0.23654995730145176,
+    "ks_status": "FAIL",
+    "correlation_distance": 0.09208990623563294,
+    "corr_status": "PASS"
+  }
 }

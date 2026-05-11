@@ -1,0 +1,1172 @@
+GENDER,RACE,ETHNICITY,AGE,NUM_CONDITIONS,PRIMARY_DIAGNOSIS,HAS_RARE_DISEASE,NUM_MEDICATIONS,NUM_ENCOUNTERS,PRIMARY_ENCOUNTER_TYPE,OBS_MEAN,OBS_STD,OBS_MIN,OBS_MAX,NUM_OBSERVATIONS
+M,white,hispanic,37,3.0,Viral sinusitis (disorder),0.0,2.0,6,ambulatory,49.85394736842105,81.56084590175928,0.1,495.1,76
+M,white,nonhispanic,42,1.0,Acute bronchitis (disorder),0.0,1.0,6,wellness,58.38586956521739,77.12243666856673,0.0,432.5,92
+M,white,nonhispanic,34,4.0,Acute bronchitis (disorder),0.0,3.0,12,wellness,50.915217391304346,65.7113182663677,0.0,417.2,92
+F,white,nonhispanic,48,3.0,Viral sinusitis (disorder),0.0,7.0,17,outpatient,55.217441860465115,72.7515064600209,0.0,440.7,86
+M,white,nonhispanic,29,5.0,Acute viral pharyngitis (disorder),0.0,1.0,13,wellness,59.06111111111111,71.39664750921823,0.0,437.5,126
+M,white,nonhispanic,8,3.0,Otitis media,0.0,4.0,13,wellness,49.29553571428572,45.797416010337734,0.0,276.6,112
+F,white,nonhispanic,22,4.0,Acute bronchitis (disorder),0.0,4.0,19,wellness,56.389374999999994,66.20022477766375,0.0,425.1,160
+F,white,nonhispanic,7,0.0,0,0.0,0.0,6,wellness,55.84264705882352,61.33630883048148,0.0,377.9,68
+F,white,hispanic,56,5.0,Body mass index 30+ - obesity (finding),0.0,13.0,34,ambulatory,58.07128712871287,71.18371068809728,0.0,460.4,101
+F,white,nonhispanic,9,2.0,Acute viral pharyngitis (disorder),0.0,2.0,14,wellness,50.78768115942029,47.46904247110821,0.0,336.4,138
+M,white,nonhispanic,21,2.0,Acute bronchitis (disorder),0.0,1.0,13,wellness,52.12317880794702,63.24312077868876,0.0,391.8,151
+F,white,nonhispanic,34,13.0,Normal pregnancy,0.0,4.0,47,ambulatory,58.15714285714285,94.87372834403055,0.0,441.6,98
+F,white,nonhispanic,37,7.0,Normal pregnancy,0.0,21.0,52,ambulatory,59.32647058823529,67.2172423154061,0.0,383.0,136
+F,white,nonhispanic,43,13.0,Normal pregnancy,0.0,10.0,44,ambulatory,60.75204081632653,75.68072005170609,0.6,388.0,98
+F,white,nonhispanic,68,8.0,Viral sinusitis (disorder),0.0,51.0,62,wellness,58.307203389830505,67.95846158560288,-0.3,454.1,236
+F,white,nonhispanic,69,14.0,Acute viral pharyngitis (disorder),0.0,94.0,64,wellness,55.41128404669261,61.494531555540824,0.0,446.1,257
+F,white,nonhispanic,67,8.0,Viral sinusitis (disorder),0.0,52.0,94,wellness,65.94935897435897,66.93644987723113,0.0,439.0,156
+M,white,nonhispanic,72,5.0,Viral sinusitis (disorder),0.0,0.0,16,wellness,67.86423841059603,68.39884730448887,0.0,425.6,151
+F,white,nonhispanic,68,3.0,Hypertension,0.0,49.0,91,wellness,64.70680272108844,70.75273522943912,0.0,428.7,147
+F,white,nonhispanic,42,9.0,Normal pregnancy,0.0,27.0,80,ambulatory,64.80304878048781,79.4416237607209,0.0,504.8,164
+F,white,nonhispanic,25,12.0,Otitis media,0.0,38.0,85,inpatient,62.82781456953642,70.1186643331055,0.0,469.9,151
+F,white,nonhispanic,27,6.0,Viral sinusitis (disorder),0.0,5.0,20,wellness,50.91407407407407,58.279786008174824,0.0,338.9,135
+F,white,hispanic,9,3.0,Otitis media,0.0,6.0,16,wellness,44.831914893617025,47.52111157783143,0.0,342.3,141
+F,white,nonhispanic,55,7.0,Viral sinusitis (disorder),0.0,137.0,58,wellness,56.727573529411764,58.970359156403006,0.0,406.2,272
+F,native,nonhispanic,40,10.0,Normal pregnancy,0.0,26.0,63,ambulatory,62.77284768211921,70.70677189046309,0.0,485.7,151
+F,white,nonhispanic,42,7.0,Viral sinusitis (disorder),0.0,6.0,32,ambulatory,57.723893805309736,79.26490427035552,0.0,428.0,113
+F,white,nonhispanic,25,9.0,Perennial allergic rhinitis with seasonal variation,0.0,8.0,92,ambulatory,53.87350000000001,62.671529828184546,0.0,391.7,200
+F,white,nonhispanic,59,11.0,Viral sinusitis (disorder),0.0,14.0,39,ambulatory,57.99748743718593,63.758250466016165,0.2,491.3,398
+M,white,nonhispanic,52,4.0,Viral sinusitis (disorder),0.0,29.0,32,wellness,69.83472222222223,72.36833070779504,0.0,408.9,144
+F,white,nonhispanic,60,11.0,Streptococcal sore throat (disorder),0.0,65.0,33,wellness,63.23690476190476,60.323679385078535,0.0,345.6,168
+F,asian,nonhispanic,33,6.0,Acute viral pharyngitis (disorder),0.0,6.0,47,outpatient,48.08651685393258,68.06156169068764,0.0,404.7,89
+F,white,nonhispanic,59,11.0,Normal pregnancy,0.0,50.0,61,wellness,57.47258883248731,60.85090869457248,0.1,386.1,394
+M,white,hispanic,38,5.0,Viral sinusitis (disorder),0.0,20.0,27,wellness,60.52302631578947,62.40498735205305,0.0,418.9,152
+F,white,nonhispanic,39,3.0,Otitis media,1.0,4.0,16,wellness,54.749264705882354,47.10642795851637,1.0,298.9,136
+M,asian,nonhispanic,20,4.0,Viral sinusitis (disorder),0.0,3.0,42,ambulatory,48.598192771084335,55.50715757601603,0.0,292.4,166
+M,white,nonhispanic,59,8.0,Facial laceration,0.0,39.0,43,wellness,63.93724137931034,63.55296997259186,0.8,379.7,145
+F,white,nonhispanic,7,0.0,0,0.0,0.0,8,wellness,49.78314606741573,63.796450521017974,0.0,464.3,89
+M,white,nonhispanic,67,2.0,Body mass index 30+ - obesity (finding),0.0,0.0,14,wellness,69.14305555555556,78.48385665621471,0.0,473.7,144
+F,white,nonhispanic,32,7.0,Normal pregnancy,0.0,8.0,50,ambulatory,55.287619047619046,70.85556502659546,0.0,372.3,105
+M,white,nonhispanic,57,2.0,Chronic sinusitis (disorder),0.0,0.0,8,wellness,62.035576923076924,71.88526175730571,0.1,505.7,104
+F,white,nonhispanic,13,6.0,Atopic dermatitis,0.0,7.0,24,wellness,48.188557213930345,57.21101396066986,0.0,511.9,201
+M,white,nonhispanic,57,7.0,Viral sinusitis (disorder),0.0,4.0,17,ambulatory,64.28816568047338,69.23150932144095,0.0,432.2,169
+M,white,nonhispanic,47,9.0,Viral sinusitis (disorder),0.0,5.0,12,wellness,59.912499999999994,65.98426054643741,0.4,284.4,144
+M,white,nonhispanic,53,10.0,Hypertension,0.0,38.0,44,wellness,54.83715415019763,56.0237106391014,0.0,244.5,253
+F,white,nonhispanic,39,16.0,Normal pregnancy,0.0,26.0,63,ambulatory,58.65500000000001,63.758880690508306,0.0,349.6,140
+F,white,nonhispanic,24,5.0,Otitis media,0.0,12.0,22,wellness,53.40066225165563,54.65751610003115,0.0,251.2,151
+M,white,nonhispanic,44,3.0,Viral sinusitis (disorder),0.0,3.0,8,wellness,60.75576923076923,73.19275764867776,0.0,410.1,104
+M,white,nonhispanic,14,7.0,Viral sinusitis (disorder),0.0,5.0,25,wellness,48.70184331797235,52.7534113019609,0.0,432.4,217
+M,white,nonhispanic,19,2.0,Streptococcal sore throat (disorder),0.0,1.0,13,wellness,52.500636942675165,59.39941238681908,0.0,437.9,157
+M,white,nonhispanic,44,3.0,Body mass index 30+ - obesity (finding),0.0,0.0,6,wellness,57.59090909090909,68.16604954817895,0.0,375.8,77
+F,white,nonhispanic,71,4.0,Chronic sinusitis (disorder),0.0,1.0,14,wellness,63.437588652482276,71.03766258522617,0.0,484.6,141
+F,white,nonhispanic,47,7.0,Normal pregnancy,0.0,6.0,37,ambulatory,54.55,66.67429825797021,0.4,341.1,84
+M,white,nonhispanic,28,6.0,Chronic pain,0.0,19.0,40,inpatient,49.03818181818182,65.5036737684373,0.0,417.3,165
+M,white,nonhispanic,11,1.0,Otitis media,0.0,2.0,14,wellness,52.090066225165565,52.39571961520887,0.0,420.6,151
+M,white,nonhispanic,50,13.0,Viral sinusitis (disorder),0.0,114.0,38,wellness,56.55210084033613,62.33938464104684,0.0,396.6,238
+F,white,nonhispanic,74,6.0,Acute bronchitis (disorder),0.0,4.0,20,wellness,66.63333333333333,77.49215680048788,-2.9,518.3,156
+F,white,nonhispanic,86,6.0,Body mass index 30+ - obesity (finding),0.0,9.0,20,wellness,69.5894472361809,60.01538556269021,0.0,271.0,199
+F,white,nonhispanic,6,0.0,0,0.0,0.0,2,wellness,61.690625,100.26665852864551,0.0,434.4,32
+M,white,hispanic,30,7.0,Viral sinusitis (disorder),0.0,3.0,15,ambulatory,56.74205607476635,73.93816391096772,0.0,417.0,107
+F,black,hispanic,17,7.0,Otitis media,0.0,7.0,21,wellness,49.5874251497006,48.58694998032341,0.0,269.6,167
+F,white,nonhispanic,18,5.0,Viral sinusitis (disorder),0.0,3.0,19,wellness,50.532544378698226,60.56219997251927,0.0,384.1,169
+F,white,hispanic,58,12.0,Viral sinusitis (disorder),0.0,43.0,51,wellness,61.4202166064982,67.96262151463347,0.0,438.3,277
+F,white,nonhispanic,67,10.0,Viral sinusitis (disorder),0.0,49.0,58,wellness,67.03710691823899,70.74333045761513,0.0,446.8,159
+M,white,nonhispanic,28,14.0,Viral sinusitis (disorder),0.0,82.0,61,outpatient,52.575428571428574,62.06272153450327,0.0,351.6,175
+F,white,nonhispanic,34,9.0,Normal pregnancy,0.0,6.0,58,ambulatory,46.64318181818182,63.891930660708404,0.0,402.1,88
+M,white,nonhispanic,57,2.0,Prediabetes,0.0,1.0,8,wellness,57.30335570469799,64.75074915157498,0.0,359.3,149
+M,white,nonhispanic,20,5.0,Otitis media,0.0,3.0,16,wellness,45.390972222222224,49.03752225855182,0.0,214.3,144
+M,asian,nonhispanic,85,6.0,Coronary Heart Disease,0.0,14.0,16,wellness,81.2295652173913,75.81277952484652,0.0,380.4,115
+F,white,nonhispanic,36,13.0,Viral sinusitis (disorder),0.0,8.0,50,ambulatory,54.241573033707866,92.63500811958524,0.0,490.5,89
+M,white,nonhispanic,8,2.0,Laceration of forearm,0.0,2.0,11,wellness,51.6019801980198,54.7657429059408,0.0,381.3,101
+F,white,nonhispanic,86,20.0,Normal pregnancy,1.0,115.0,108,wellness,71.98139534883721,68.36983553056425,0.0,447.8,516
+M,white,nonhispanic,86,10.0,Hypertension,0.0,113.0,115,wellness,63.27543352601156,64.7711498933527,0.0,441.1,346
+M,white,nonhispanic,49,4.0,Body mass index 30+ - obesity (finding),0.0,27.0,31,wellness,63.65902777777777,62.55050033976121,0.0,316.4,144
+F,white,nonhispanic,71,9.0,Viral sinusitis (disorder),0.0,50.0,58,wellness,56.88127659574468,64.23047169443672,0.0,429.7,235
+M,asian,nonhispanic,85,8.0,Body mass index 30+ - obesity (finding),0.0,21.0,20,wellness,72.47358490566037,67.9338001318886,0.0,454.8,106
+M,white,nonhispanic,68,12.0,Major depression disorder,1.0,40.0,103,inpatient,58.73797752808989,63.75344202295489,0.0,516.9,445
+M,white,nonhispanic,22,2.0,Body mass index 30+ - obesity (finding),0.0,1.0,12,wellness,58.71056338028169,63.877846310953075,0.0,351.3,142
+M,white,nonhispanic,58,10.0,Body mass index 30+ - obesity (finding),0.0,14.0,14,wellness,74.51407035175879,95.99581905360674,0.0,517.0,199
+F,white,nonhispanic,86,7.0,Miscarriage in first trimester,1.0,11.0,20,outpatient,79.61538461538461,71.05077274521584,1.0,368.4,52
+M,white,nonhispanic,51,4.0,Body mass index 30+ - obesity (finding),0.0,1.0,8,wellness,55.413414634146335,69.90151407285687,0.1,456.6,82
+F,white,nonhispanic,52,10.0,Acute bronchitis (disorder),0.0,19.0,55,ambulatory,57.08527131782946,70.73427839984036,0.0,382.8,129
+F,white,nonhispanic,43,10.0,Normal pregnancy,0.0,25.0,80,ambulatory,62.39861111111111,66.58767498265698,0.0,342.6,144
+M,white,nonhispanic,57,13.0,Major depression disorder,1.0,126.0,56,outpatient,65.87217194570135,60.977546462835456,0.0,465.6,884
+F,white,nonhispanic,83,7.0,Sprain of ankle,1.0,5.0,22,wellness,68.20891719745222,71.4214176163764,0.0,458.9,157
+M,asian,nonhispanic,85,6.0,Viral sinusitis (disorder),0.0,15.0,31,ambulatory,62.60421348314606,61.886757182703576,-0.5,385.4,356
+M,asian,nonhispanic,69,14.0,Viral sinusitis (disorder),0.0,28.0,32,wellness,62.79545454545455,61.34977556374992,-2.6,381.8,286
+M,white,nonhispanic,79,6.0,Hypertension,0.0,62.0,65,wellness,57.94784313725491,58.86832150508193,0.0,363.3,255
+M,white,nonhispanic,61,7.0,Acute bronchitis (disorder),0.0,44.0,50,wellness,61.06926605504587,75.56407004925124,0.0,501.9,218
+F,white,nonhispanic,22,4.0,Otitis media,0.0,2.0,14,wellness,54.41338028169014,63.021156223565676,0.0,448.2,142
+F,white,nonhispanic,86,6.0,Hypertension,0.0,81.0,84,wellness,61.63804034582133,60.09836584842842,0.2,387.7,347
+F,white,nonhispanic,30,4.0,Concussion with loss of consciousness,0.0,5.0,22,outpatient,49.17280701754386,67.7284391255786,0.0,439.2,114
+M,white,nonhispanic,17,8.0,Acute viral pharyngitis (disorder),0.0,28.0,36,ambulatory,55.783068783068785,68.00535201951706,0.0,487.4,189
+F,white,nonhispanic,58,7.0,Normal pregnancy,0.0,11.0,41,ambulatory,57.91472392638037,75.29798026010043,0.2,484.7,163
+M,asian,nonhispanic,42,3.0,Hypertension,0.0,18.0,21,wellness,70.09929078014184,75.2810178089441,0.2,454.9,141
+M,white,nonhispanic,13,3.0,Acute allergic reaction,0.0,5.0,22,wellness,44.680373831775704,45.884492535699394,0.0,277.8,214
+F,white,hispanic,42,9.0,Normal pregnancy,0.0,6.0,46,ambulatory,61.66705882352941,96.86876049121123,0.0,495.1,85
+M,white,hispanic,8,4.0,Acute bronchitis (disorder),0.0,5.0,16,wellness,46.966379310344834,66.06126924759089,0.0,470.2,116
+F,white,nonhispanic,28,7.0,Normal pregnancy,0.0,8.0,94,ambulatory,45.33953488372093,65.24040343773231,0.0,440.5,172
+F,white,hispanic,6,0.0,0,0.0,0.0,2,wellness,54.784375,78.82401430944023,0.0,406.7,32
+M,white,nonhispanic,29,5.0,Chronic sinusitis (disorder),0.0,6.0,15,wellness,52.163709677419355,66.1500626313113,0.0,371.9,124
+M,white,nonhispanic,22,10.0,Viral sinusitis (disorder),0.0,6.0,22,wellness,49.13970588235294,59.81922183256479,0.0,439.8,136
+F,white,nonhispanic,70,3.0,Miscarriage in first trimester,0.0,1.0,16,wellness,63.00277777777777,63.38758668758533,0.9,395.5,144
+F,white,nonhispanic,32,9.0,Normal pregnancy,0.0,69.0,72,ambulatory,63.647368421052626,78.235066025043,0.0,483.8,152
+F,white,nonhispanic,13,3.0,Laceration of hand,0.0,2.0,20,wellness,52.70653266331659,52.0153629941367,0.0,303.5,199
+M,white,hispanic,44,5.0,Seizure disorder,0.0,25.0,28,wellness,63.758620689655174,70.06886254310318,0.0,509.6,145
+M,white,nonhispanic,38,2.0,Hypertension,0.0,17.0,17,wellness,57.625757575757575,70.99286344222946,0.1,461.1,132
+M,white,nonhispanic,39,6.0,Appendicitis,0.0,18.0,24,wellness,67.34460431654676,80.23399761229366,0.0,441.9,139
+F,white,nonhispanic,41,9.0,Normal pregnancy,0.0,29.0,63,ambulatory,63.13624161073825,78.69352648155623,0.0,455.4,149
+F,white,nonhispanic,16,3.0,Facial laceration,0.0,3.0,18,wellness,50.391304347826086,48.69844681082392,0.0,304.3,184
+F,black,nonhispanic,46,7.0,Normal pregnancy,0.0,3.0,33,ambulatory,52.57943925233645,68.4166063620353,0.8,403.1,107
+F,white,nonhispanic,53,10.0,Viral sinusitis (disorder),0.0,12.0,56,outpatient,53.103053435114504,65.58521519476228,0.0,394.8,131
+M,white,nonhispanic,67,4.0,Hypertension,0.0,46.0,51,wellness,66.17019867549669,63.979005717711274,0.0,300.5,151
+M,white,nonhispanic,23,5.0,Sprain of ankle,0.0,2.0,16,wellness,52.4006993006993,70.82145522816018,0.0,431.0,143
+F,white,nonhispanic,62,6.0,Miscarriage in first trimester,0.0,7.0,25,wellness,64.83383458646617,60.496045309287275,0.9,307.5,133
+F,black,nonhispanic,55,14.0,Diabetes,1.0,37.0,55,outpatient,67.23444639718805,67.91579973474684,0.0,447.4,569
+F,black,nonhispanic,15,3.0,Viral sinusitis (disorder),0.0,2.0,23,wellness,50.64196428571428,55.57756045939362,0.0,392.2,224
+F,white,nonhispanic,42,10.0,Normal pregnancy,1.0,7.0,42,ambulatory,56.37473684210526,80.59052524483585,0.1,435.9,95
+F,white,nonhispanic,53,3.0,Perennial allergic rhinitis with seasonal variation,0.0,140.0,104,wellness,65.14930555555556,71.30346650183782,0.0,423.7,144
+M,white,nonhispanic,48,10.0,Acute bronchitis (disorder),0.0,32.0,43,wellness,70.38726114649681,79.87831990300947,0.0,511.3,157
+M,white,nonhispanic,67,4.0,Body mass index 30+ - obesity (finding),1.0,24.0,39,ambulatory,60.07048710601719,58.095262780373645,0.0,384.9,349
+M,white,nonhispanic,77,3.0,Prediabetes,0.0,0.0,14,wellness,56.91434599156118,61.46571840532876,0.9,385.6,237
+M,white,nonhispanic,59,13.0,Hypertension,1.0,89.0,53,wellness,63.28439306358381,60.84549779164566,0.0,442.4,519
+F,black,nonhispanic,52,7.0,Normal pregnancy,0.0,7.0,31,outpatient,55.2221052631579,68.33409818124564,0.0,438.4,95
+F,asian,nonhispanic,54,8.0,Diabetes,0.0,21.0,20,outpatient,71.66026785714286,85.87205563477204,0.0,484.8,224
+M,white,nonhispanic,82,6.0,Hypertension,0.0,56.0,60,wellness,74.29926470588236,77.67477735077438,0.0,423.2,136
+F,white,hispanic,70,5.0,Prediabetes,0.0,22.0,38,ambulatory,58.12328767123287,62.115218888302806,0.0,470.0,438
+M,asian,hispanic,51,11.0,Acute bronchitis (disorder),0.0,30.0,24,wellness,61.87427821522309,62.97058812038885,0.3,445.8,381
+M,black,nonhispanic,82,18.0,Diabetes,0.0,720.0,285,outpatient,69.67535923363491,65.74918169104318,0.0,437.4,1879
+M,white,nonhispanic,75,14.0,Viral sinusitis (disorder),1.0,600.0,452,outpatient,68.97503774534474,60.517951203433135,0.0,321.5,1987
+M,black,nonhispanic,11,3.0,Otitis media,0.0,4.0,17,wellness,52.00487804878048,52.78151261775438,0.0,459.2,164
+F,white,nonhispanic,68,7.0,Coronary Heart Disease,0.0,143.0,59,wellness,66.89103448275863,79.69416446401115,0.0,516.8,145
+F,white,nonhispanic,62,9.0,Malignant neoplasm of breast (disorder),1.0,7.0,49,ambulatory,54.177984084880634,72.31985078249177,-0.1,500.6,377
+F,black,nonhispanic,27,6.0,Acute bronchitis (disorder),0.0,6.0,29,ambulatory,50.12016129032258,60.613028168155495,0.0,447.6,124
+F,asian,nonhispanic,22,5.0,Acute viral pharyngitis (disorder),0.0,2.0,16,wellness,57.287499999999994,73.49355033306962,0.0,472.8,144
+M,white,nonhispanic,82,7.0,Chronic sinusitis (disorder),0.0,4.0,20,wellness,67.13310344827586,64.9742716764494,-0.3,337.1,145
+F,white,nonhispanic,37,7.0,Viral sinusitis (disorder),0.0,6.0,13,ambulatory,46.42784810126582,77.25034384905445,0.0,519.2,79
+F,white,nonhispanic,79,12.0,Cystitis,0.0,152.0,108,inpatient,56.14631815626757,90.75713361626549,0.0,510.3,1779
+F,white,nonhispanic,40,10.0,Prediabetes,0.0,13.0,18,ambulatory,62.43950617283951,75.13480172042969,0.0,439.7,162
+F,white,nonhispanic,25,5.0,Acute viral pharyngitis (disorder),0.0,5.0,19,wellness,57.852777777777774,69.47092055974791,0.0,501.3,144
+M,white,nonhispanic,14,3.0,Otitis media,0.0,3.0,20,wellness,50.160663507109,60.655640161218194,0.0,472.3,211
+M,white,nonhispanic,45,5.0,Viral sinusitis (disorder),0.0,3.0,9,ambulatory,56.795061728395055,74.55820696146498,0.0,450.3,81
+F,white,nonhispanic,61,2.0,Body mass index 30+ - obesity (finding),0.0,0.0,10,wellness,62.3640625,68.43566406231189,0.0,378.8,128
+M,white,nonhispanic,61,4.0,Viral sinusitis (disorder),0.0,1.0,14,wellness,57.02019704433498,64.41384249454055,0.3,436.7,203
+M,white,nonhispanic,76,4.0,Hypertension,0.0,44.0,47,wellness,62.78884297520661,82.53607886759772,0.0,971.8,242
+M,white,nonhispanic,39,6.0,Acute viral pharyngitis (disorder),0.0,18.0,24,wellness,63.81956521739131,71.95800058356797,0.0,370.7,138
+F,white,nonhispanic,25,3.0,Viral sinusitis (disorder),0.0,4.0,16,wellness,58.27682119205298,60.78668872234953,0.0,416.6,151
+F,white,nonhispanic,8,0.0,0,0.0,0.0,9,wellness,44.80792079207921,45.90257657946516,0.0,253.8,101
+M,black,nonhispanic,48,6.0,Acute viral pharyngitis (disorder),0.0,1.0,9,wellness,58.52164179104477,79.1392285660919,0.1,450.9,134
+F,white,nonhispanic,26,8.0,Normal pregnancy,0.0,46.0,49,ambulatory,57.57828947368421,62.03190902633962,0.1,347.0,152
+F,black,nonhispanic,52,11.0,Normal pregnancy,0.0,56.0,67,wellness,60.967867036011086,65.32730089619709,0.0,511.6,361
+F,white,nonhispanic,23,5.0,Acute viral pharyngitis (disorder),0.0,8.0,27,outpatient,49.41888111888112,65.14856040376448,0.0,323.1,143
+F,white,nonhispanic,79,8.0,Acute viral pharyngitis (disorder),0.0,1.0,18,wellness,58.206779661016945,66.72473812046668,0.6,510.5,236
+M,white,nonhispanic,33,3.0,Viral sinusitis (disorder),0.0,1.0,7,wellness,48.761538461538464,73.88310393420845,0.0,473.2,78
+M,white,nonhispanic,24,5.0,Perennial allergic rhinitis with seasonal variation,0.0,5.0,79,ambulatory,45.007909604519774,54.44116553918101,0.0,300.9,177
+F,white,nonhispanic,20,0.0,0,0.0,0.0,10,wellness,47.86896551724138,57.695830194556336,0.0,383.0,145
+M,white,nonhispanic,60,12.0,Viral sinusitis (disorder),0.0,47.0,53,wellness,67.30724137931034,72.25909396182425,0.0,429.2,290
+F,white,nonhispanic,19,3.0,Acute viral pharyngitis (disorder),0.0,28.0,30,ambulatory,47.85284974093265,58.416546641548216,0.0,428.6,193
+M,black,nonhispanic,21,4.0,Laceration of hand,0.0,2.0,14,wellness,52.945578231292515,65.56359689006818,0.0,397.2,147
+M,white,nonhispanic,76,9.0,Body mass index 30+ - obesity (finding),0.0,41.0,30,ambulatory,60.92372093023256,63.96872083185394,0.0,461.7,430
+F,black,nonhispanic,63,14.0,Viral sinusitis (disorder),0.0,133.0,95,outpatient,66.52158894645942,59.70706118164998,0.0,493.0,1158
+F,white,nonhispanic,28,5.0,Acute viral pharyngitis (disorder),0.0,5.0,17,wellness,54.23730158730159,67.08598271964358,0.0,405.8,126
+M,white,nonhispanic,10,1.0,Otitis media,0.0,2.0,14,wellness,50.549668874172184,59.95103210028685,0.0,478.9,151
+M,white,nonhispanic,7,0.0,0,0.0,0.0,8,wellness,52.47752808988764,54.662463755489696,0.0,390.6,89
+F,white,nonhispanic,33,8.0,Normal pregnancy,0.0,1.0,41,ambulatory,46.402325581395345,58.17733534177395,0.0,321.2,86
+M,white,nonhispanic,28,2.0,Cardiac Arrest,0.0,0.0,9,wellness,54.094690265486726,69.18484278767274,0.0,414.8,113
+M,white,nonhispanic,76,12.0,Viral sinusitis (disorder),0.0,25.0,53,ambulatory,59.18032786885246,63.11342957001628,0.0,464.4,488
+F,white,nonhispanic,55,6.0,Viral sinusitis (disorder),0.0,6.0,28,ambulatory,59.98425925925926,74.55732933380929,0.0,509.2,108
+F,white,nonhispanic,20,2.0,Acute viral pharyngitis (disorder),0.0,0.0,13,wellness,49.484931506849314,65.13116245775693,0.0,386.4,146
+F,white,nonhispanic,75,5.0,Miscarriage in first trimester,0.0,2.0,17,wellness,64.1078947368421,62.44748525026097,0.0,357.6,152
+F,white,nonhispanic,50,14.0,Viral sinusitis (disorder),0.0,38.0,45,wellness,59.07102272727273,62.86573366950547,0.0,415.5,176
+M,white,nonhispanic,103,3.0,Acute viral pharyngitis (disorder),0.0,2.0,16,wellness,49.64963503649635,46.8504961429056,0.0,373.6,137
+F,white,nonhispanic,20,4.0,Perennial allergic rhinitis with seasonal variation,0.0,6.0,36,ambulatory,43.915,59.96318283411484,0.0,439.1,160
+M,white,nonhispanic,76,6.0,Viral sinusitis (disorder),0.0,26.0,46,ambulatory,63.48282548476454,62.046922511157376,0.0,401.1,361
+M,white,nonhispanic,46,2.0,Acute bronchitis (disorder),0.0,3.0,10,ambulatory,62.78303571428571,76.59078566223927,0.0,484.6,112
+F,asian,nonhispanic,47,5.0,Miscarriage in first trimester,0.0,4.0,17,outpatient,52.76060606060606,67.97384404636131,0.0,359.0,132
+M,white,nonhispanic,52,3.0,Viral sinusitis (disorder),0.0,28.0,30,wellness,69.48013245033113,77.14463387677941,0.0,475.2,151
+F,asian,nonhispanic,34,14.0,Normal pregnancy,0.0,9.0,30,ambulatory,47.96837606837607,66.75268385353847,0.0,438.3,117
+F,white,nonhispanic,62,6.0,Prediabetes,0.0,48.0,63,wellness,56.53109243697479,62.8816586567659,0.2,407.2,238
+F,white,nonhispanic,50,9.0,Viral sinusitis (disorder),0.0,3.0,20,ambulatory,62.68703703703704,85.13905403503098,0.0,504.7,108
+F,white,nonhispanic,72,5.0,Chronic sinusitis (disorder),0.0,58.0,61,wellness,62.76240601503759,59.559627114732876,0.1,403.1,133
+M,white,nonhispanic,6,1.0,Otitis media,0.0,2.0,6,wellness,50.81525423728814,64.22675565997913,0.0,319.9,59
+F,white,hispanic,41,6.0,Viral sinusitis (disorder),0.0,4.0,26,ambulatory,54.61190476190476,72.58701866212635,0.0,368.1,84
+F,white,nonhispanic,53,11.0,Normal pregnancy,0.0,40.0,67,ambulatory,66.90592105263158,71.6250467064583,0.0,442.9,152
+F,white,nonhispanic,12,3.0,Acute viral pharyngitis (disorder),0.0,1.0,18,wellness,51.81223404255319,53.598474610233644,0.0,389.2,188
+M,white,nonhispanic,74,11.0,Viral sinusitis (disorder),0.0,152.0,53,wellness,76.81503759398495,73.80220442654998,0.0,470.4,133
+F,white,nonhispanic,42,6.0,Normal pregnancy,0.0,8.0,41,ambulatory,50.575,64.21113207815777,0.0,334.6,88
+F,black,nonhispanic,62,13.0,Normal pregnancy,0.0,8.0,28,ambulatory,53.37952380952381,54.62778715048561,0.0,261.8,210
+M,white,nonhispanic,28,3.0,Acute viral pharyngitis (disorder),0.0,4.0,13,wellness,60.82777777777778,70.37150611823563,0.0,414.9,144
+F,white,nonhispanic,90,4.0,Hypertension,0.0,68.0,69,wellness,63.825517241379316,61.5890026476029,-3.4,312.1,145
+M,asian,nonhispanic,16,7.0,Acute viral pharyngitis (disorder),0.0,5.0,27,wellness,49.7906976744186,53.78112362954842,0.0,477.4,215
+F,white,nonhispanic,48,13.0,Viral sinusitis (disorder),0.0,14.0,38,outpatient,54.22857142857143,64.36977676535173,0.0,433.2,168
+F,white,nonhispanic,22,8.0,Viral sinusitis (disorder),0.0,9.0,80,ambulatory,48.51851851851852,66.95767658090212,0.0,515.5,189
+M,white,nonhispanic,69,11.0,Acute viral pharyngitis (disorder),0.0,73.0,79,wellness,60.92578475336323,82.4328658885293,0.0,1294.5,446
+M,white,nonhispanic,24,4.0,Acute viral pharyngitis (disorder),0.0,2.0,15,wellness,52.40897435897436,73.2443655186636,0.0,445.2,156
+M,white,nonhispanic,32,1.0,Viral sinusitis (disorder),0.0,1.0,7,wellness,54.10576923076923,71.39110089346697,0.0,373.1,104
+M,white,nonhispanic,74,7.0,Viral sinusitis (disorder),0.0,3.0,22,wellness,59.379583333333336,68.43906705535407,0.5,499.2,240
+M,white,nonhispanic,18,7.0,Otitis media,0.0,5.0,18,wellness,50.62911392405063,55.082327848849,0.0,348.9,158
+M,white,nonhispanic,31,3.0,Viral sinusitis (disorder),0.0,0.0,9,wellness,50.752884615384616,65.79737350784032,0.0,300.2,104
+M,white,nonhispanic,22,6.0,Viral sinusitis (disorder),0.0,4.0,18,wellness,55.91748251748252,66.6757386822892,0.0,434.6,143
+F,white,nonhispanic,32,6.0,Acute viral pharyngitis (disorder),1.0,10.0,26,outpatient,51.02325581395349,58.853522408290914,0.0,326.6,86
+M,white,nonhispanic,9,2.0,Acute bronchitis (disorder),0.0,5.0,17,wellness,39.71578947368421,43.976718863753476,0.0,200.6,152
+F,asian,nonhispanic,7,0.0,0,0.0,0.0,6,wellness,52.73521126760563,67.29906621850928,0.0,469.4,71
+F,white,nonhispanic,87,6.0,Body mass index 30+ - obesity (finding),0.0,94.0,96,wellness,62.52832369942196,61.86830338354757,-2.5,438.4,346
+F,white,nonhispanic,32,11.0,Viral sinusitis (disorder),0.0,18.0,36,ambulatory,63.355405405405406,75.16110703947324,0.0,514.0,148
+M,black,hispanic,40,4.0,Acute viral pharyngitis (disorder),0.0,5.0,9,ambulatory,48.35945945945946,75.27603617102605,0.0,468.3,74
+F,asian,nonhispanic,73,10.0,Chronic sinusitis (disorder),1.0,26.0,38,ambulatory,57.939597315436245,60.853511329200096,0.0,490.9,447
+F,white,nonhispanic,73,10.0,Hypertension,0.0,54.0,166,inpatient,63.346385542168676,70.97980134501458,-2.5,416.9,166
+M,white,nonhispanic,52,3.0,Viral sinusitis (disorder),0.0,1.0,7,wellness,58.1719512195122,79.45284535906762,0.0,509.5,82
+M,asian,nonhispanic,67,7.0,Osteoarthritis of knee,0.0,2.0,18,wellness,56.21848739495798,61.913894157010446,0.0,418.0,238
+F,white,nonhispanic,30,7.0,Normal pregnancy,0.0,7.0,22,ambulatory,50.35210084033613,74.06073074693096,0.0,428.8,119
+F,white,nonhispanic,62,7.0,Viral sinusitis (disorder),0.0,3.0,16,ambulatory,63.115126050420166,63.74904271618312,0.0,379.0,119
+F,white,nonhispanic,7,3.0,Seizure disorder,0.0,4.0,10,wellness,47.270967741935486,51.06989548919824,-0.0,310.6,62
+F,white,nonhispanic,44,10.0,Normal pregnancy,0.0,4.0,50,ambulatory,59.21235955056179,76.31874221767177,0.0,363.7,89
+F,white,nonhispanic,7,0.0,0,0.0,0.0,8,wellness,53.1561797752809,46.88721223962539,0.0,230.6,89
+M,white,nonhispanic,54,11.0,Chronic intractable migraine without aura,0.0,36.0,77,wellness,55.618411552346565,65.31302764438642,0.0,512.3,277
+F,white,nonhispanic,49,4.0,Viral sinusitis (disorder),0.0,34.0,39,wellness,68.33716216216216,82.15642644064636,0.0,519.5,148
+F,asian,hispanic,34,5.0,Normal pregnancy,1.0,9.0,27,outpatient,56.29774436090225,74.42020586055975,0.0,499.1,133
+F,asian,nonhispanic,13,4.0,Concussion with no loss of consciousness,0.0,3.0,20,wellness,54.613297872340425,59.59946419542199,0.0,445.6,188
+F,white,nonhispanic,73,5.0,Polyp of colon,0.0,29.0,49,ambulatory,61.652,66.04873718450355,0.0,494.4,350
+M,black,nonhispanic,19,4.0,Whiplash injury to neck,0.0,4.0,14,wellness,52.428275862068965,66.63720047083338,0.0,439.8,145
+F,white,nonhispanic,64,9.0,Body mass index 30+ - obesity (finding),0.0,40.0,36,wellness,63.21205673758865,63.39831882003444,0.0,389.0,282
+F,white,nonhispanic,59,5.0,Viral sinusitis (disorder),0.0,0.0,12,wellness,56.25752688172043,66.45512342570963,0.0,398.0,186
+F,white,nonhispanic,23,6.0,Acute bronchitis (disorder),0.0,4.0,19,wellness,54.328947368421055,61.58109672928308,0.0,366.2,152
+F,black,nonhispanic,18,5.0,Otitis media,1.0,4.0,19,wellness,48.27610062893081,67.51849953631509,0.0,499.6,159
+F,white,nonhispanic,64,6.0,Prediabetes,0.0,4.0,18,wellness,54.928828828828834,67.1190047162297,0.0,453.3,222
+F,white,nonhispanic,27,8.0,Viral sinusitis (disorder),0.0,25.0,52,inpatient,43.93237410071943,59.66168291366677,0.0,433.6,139
+F,white,nonhispanic,21,5.0,Acute viral pharyngitis (disorder),0.0,3.0,21,wellness,52.122068965517244,70.28513600265619,0.0,517.8,145
+M,white,nonhispanic,46,7.0,Viral sinusitis (disorder),0.0,8.0,15,ambulatory,59.231192660550455,66.63305638490569,0.0,325.0,109
+M,white,nonhispanic,72,7.0,Chronic sinusitis (disorder),1.0,162.0,95,wellness,61.07121661721068,83.31330123755018,0.0,470.2,337
+F,white,nonhispanic,56,3.0,Sinusitis (disorder),0.0,1.0,9,wellness,58.44574468085107,62.92548360619803,0.3,363.1,94
+M,white,nonhispanic,79,10.0,Acute bronchitis (disorder),1.0,51.0,50,wellness,62.524,66.19872267398839,-2.7,451.1,350
+F,white,nonhispanic,82,13.0,Normal pregnancy,0.0,20.0,58,ambulatory,75.47307692307692,63.56760765041532,0.0,342.5,130
+F,white,nonhispanic,51,10.0,Normal pregnancy,0.0,14.0,34,ambulatory,49.236065573770496,58.14398210878525,0.0,340.1,122
+F,white,nonhispanic,34,8.0,Impacted molars,0.0,10.0,54,outpatient,46.68804347826087,76.51128602002227,0.0,505.8,92
+F,asian,nonhispanic,78,8.0,Hypertension,1.0,83.0,62,wellness,57.97766323024055,66.90251798805012,-3.4,661.8,291
+F,white,nonhispanic,65,8.0,Otitis media,0.0,16.0,26,wellness,58.60843373493976,64.53844089132816,0.0,483.5,166
+F,white,nonhispanic,73,8.0,Rupture of appendix,0.0,52.0,61,wellness,67.04285714285714,101.57832798709335,0.7,1147.1,182
+F,white,nonhispanic,23,8.0,Perennial allergic rhinitis,0.0,5.0,123,ambulatory,50.935519125683065,54.54749413195057,0.0,340.6,183
+M,white,nonhispanic,49,6.0,Acute bronchitis (disorder),0.0,3.0,14,ambulatory,57.31818181818182,72.04170998076481,0.4,412.0,143
+F,asian,nonhispanic,78,4.0,Miscarriage in first trimester,1.0,17.0,36,ambulatory,75.36379310344829,63.173141508840224,1.0,438.7,116
+F,white,nonhispanic,65,7.0,Chronic sinusitis (disorder),0.0,12.0,25,ambulatory,62.415057915057915,65.87563603900261,0.0,446.2,259
+F,asian,nonhispanic,99,17.0,Polyp of colon,1.0,68.0,111,ambulatory,57.85877551020408,61.941122965635515,-2.8,469.3,490
+F,white,nonhispanic,82,13.0,Sprain of wrist,0.0,69.0,77,wellness,57.846647230320706,59.992767440407455,0.0,420.3,343
+F,white,nonhispanic,10,3.0,Acute viral pharyngitis (disorder),0.0,2.0,17,wellness,52.2125,54.598287716037206,0.0,432.7,152
+F,white,nonhispanic,67,16.0,Viral sinusitis (disorder),0.0,55.0,66,wellness,64.47898089171974,59.33871701862368,0.0,337.2,157
+F,white,nonhispanic,73,6.0,Chronic obstructive bronchitis (disorder),1.0,50.0,54,wellness,64.1280701754386,68.74487982059455,0.8,509.2,171
+M,black,nonhispanic,18,8.0,Acute viral pharyngitis (disorder),0.0,8.0,26,wellness,53.8392670157068,64.6079168807541,0.0,512.8,191
+M,white,nonhispanic,45,4.0,Hypertension,0.0,26.0,28,wellness,71.13589743589743,68.08104179173138,0.0,352.6,156
+F,white,nonhispanic,26,9.0,Cardiac Arrest,0.0,13.0,99,inpatient,52.134415584415585,64.04549790024443,0.2,459.9,154
+F,white,nonhispanic,103,10.0,Hypertension,0.0,71.0,84,wellness,61.26577946768061,62.73404702828123,0.0,348.9,263
+F,asian,nonhispanic,78,7.0,Acute bronchitis (disorder),0.0,11.0,29,ambulatory,63.399065420560746,62.41264419469689,0.0,339.3,321
+F,white,nonhispanic,21,3.0,Viral sinusitis (disorder),0.0,3.0,15,wellness,51.06853146853147,68.9058935924344,0.0,501.4,143
+M,white,nonhispanic,18,3.0,Otitis media,0.0,4.0,17,wellness,53.65388888888889,65.61110101934601,0.0,424.4,180
+M,white,hispanic,54,5.0,Body mass index 30+ - obesity (finding),0.0,3.0,12,wellness,61.46021505376344,80.95412165539645,0.0,428.7,93
+F,white,nonhispanic,63,4.0,Viral sinusitis (disorder),0.0,1.0,55,outpatient,65.15328467153284,73.12901778916543,0.0,497.5,137
+F,white,nonhispanic,16,8.0,Viral sinusitis (disorder),0.0,3.0,27,wellness,52.93794642857143,52.64640689536781,0.0,425.8,224
+M,white,hispanic,12,2.0,Sprain of ankle,0.0,2.0,16,wellness,44.380981595092024,45.40243990853144,0.0,284.4,163
+F,white,nonhispanic,103,6.0,Viral sinusitis (disorder),0.0,6.0,21,wellness,68.74810126582278,65.32707588363039,0.0,396.8,158
+M,white,nonhispanic,88,7.0,Chronic sinusitis (disorder),0.0,49.0,53,wellness,79.70260869565217,72.88572581941357,0.0,399.9,115
+F,asian,nonhispanic,99,10.0,Body mass index 30+ - obesity (finding),0.0,141.0,136,wellness,58.144622425629294,58.02520884986467,0.1,423.8,437
+M,white,nonhispanic,33,2.0,Acute viral pharyngitis (disorder),0.0,2.0,9,ambulatory,48.21411764705882,59.930527543587154,0.0,319.1,85
+M,white,nonhispanic,88,7.0,Acute viral pharyngitis (disorder),0.0,5.0,14,wellness,63.13809523809524,71.29353377323541,0.0,385.9,105
+M,white,nonhispanic,61,7.0,Appendicitis,0.0,5.0,18,ambulatory,64.09596774193548,76.59496618836855,0.0,517.3,124
+M,white,nonhispanic,89,6.0,Viral sinusitis (disorder),0.0,3.0,21,wellness,69.2874251497006,75.93696988382824,0.0,505.5,167
+M,asian,nonhispanic,30,6.0,Chronic sinusitis (disorder),0.0,7.0,17,wellness,57.28794326241135,67.03224115003734,0.0,367.2,141
+F,white,nonhispanic,69,3.0,Body mass index 30+ - obesity (finding),0.0,3.0,25,wellness,61.3572033898305,123.68279499460549,0.0,1716.1,236
+M,white,nonhispanic,31,5.0,Concussion with no loss of consciousness,0.0,1.0,16,ambulatory,56.637142857142855,70.62399387594141,0.0,403.3,105
+M,white,nonhispanic,52,7.0,Acute viral pharyngitis (disorder),0.0,4.0,14,ambulatory,56.914457831325294,75.26682152561195,0.0,514.8,83
+F,white,nonhispanic,38,5.0,Normal pregnancy,0.0,8.0,53,outpatient,51.31818181818182,67.84892200577596,0.0,339.9,88
+F,white,nonhispanic,62,6.0,Body mass index 30+ - obesity (finding),0.0,1.0,17,wellness,55.44830917874397,58.48330011856645,0.2,383.2,207
+F,white,nonhispanic,47,12.0,Normal pregnancy,0.0,10.0,59,ambulatory,62.55809523809524,83.7593057757125,0.9,503.9,105
+F,white,nonhispanic,103,13.0,Viral sinusitis (disorder),0.0,128.0,76,wellness,66.00803858520901,64.8016803322443,0.0,443.7,311
+F,white,nonhispanic,69,9.0,Hypertension,0.0,49.0,57,wellness,64.48095238095239,66.88866473715585,0.0,456.3,147
+M,white,nonhispanic,88,12.0,Hypertension,0.0,165.0,96,wellness,59.79360730593607,59.84285642213925,0.0,431.0,438
+F,white,nonhispanic,32,6.0,Viral sinusitis (disorder),0.0,15.0,36,ambulatory,58.15289855072464,72.26504055508163,0.0,430.5,138
+M,white,nonhispanic,68,5.0,Viral sinusitis (disorder),0.0,6.0,20,wellness,66.25367231638418,70.33877115726962,0.0,411.1,177
+M,white,nonhispanic,55,5.0,Hypertension,0.0,34.0,40,wellness,67.83057324840765,73.72604057783565,0.0,441.5,157
+F,white,hispanic,62,10.0,Viral sinusitis (disorder),0.0,50.0,81,wellness,62.585542168674706,62.980312715199105,0.1,352.0,166
+F,white,nonhispanic,67,3.0,Body mass index 30+ - obesity (finding),0.0,2.0,18,wellness,63.72083333333333,62.68575626457369,0.0,359.3,144
+F,white,nonhispanic,72,2.0,Body mass index 30+ - obesity (finding),0.0,1.0,13,wellness,68.65743243243244,71.90024371602625,0.0,428.5,148
+M,white,hispanic,16,3.0,Acute bronchitis (disorder),0.0,4.0,19,wellness,49.05271739130435,48.361811394101046,0.0,309.2,184
+F,white,nonhispanic,22,3.0,Viral sinusitis (disorder),0.0,4.0,14,wellness,59.29034482758621,77.70222927244781,0.0,475.4,145
+F,black,nonhispanic,29,7.0,Perennial allergic rhinitis,0.0,75.0,110,ambulatory,55.277142857142856,55.44889376151724,0.0,227.0,175
+M,white,nonhispanic,68,6.0,Viral sinusitis (disorder),0.0,3.0,21,wellness,65.41614906832298,64.31833807381561,0.0,387.5,161
+F,white,nonhispanic,103,6.0,Body mass index 30+ - obesity (finding),0.0,5.0,18,wellness,79.9330985915493,138.25313751038485,0.0,1498.3,142
+M,white,hispanic,19,2.0,Fracture of ankle,0.0,4.0,18,wellness,50.57848101265822,63.06442095218721,0.0,404.7,158
+M,white,hispanic,46,2.0,Viral sinusitis (disorder),0.0,0.0,6,wellness,60.824,77.45119951989578,0.0,435.2,100
+F,white,nonhispanic,42,11.0,Normal pregnancy,0.0,6.0,55,ambulatory,54.68715596330275,72.11127859197822,0.2,414.3,109
+F,white,nonhispanic,8,2.0,Otitis media,0.0,3.0,14,wellness,45.21693548387096,50.10816709923228,0.0,352.3,124
+F,asian,nonhispanic,41,8.0,Normal pregnancy,0.0,7.0,36,ambulatory,59.538823529411765,88.25530618624593,0.0,436.1,85
+F,white,nonhispanic,54,5.0,Acute bronchitis (disorder),0.0,5.0,13,ambulatory,60.457264957264954,68.93186830717069,0.0,353.8,117
+F,white,nonhispanic,21,1.0,Viral sinusitis (disorder),0.0,2.0,13,wellness,51.2169014084507,68.33524782493421,0.0,484.6,142
+M,white,nonhispanic,85,6.0,Prediabetes,0.0,3.0,20,wellness,59.9579908675799,65.29920456671572,0.9,394.1,219
+M,white,hispanic,40,11.0,Acute bronchitis (disorder),0.0,4.0,62,outpatient,54.81818181818182,68.88536671660313,0.0,373.9,99
+F,white,nonhispanic,46,7.0,Hypertension,0.0,25.0,45,wellness,56.53739495798319,62.87887885326322,0.0,470.3,238
+M,black,nonhispanic,67,17.0,Acute bacterial sinusitis (disorder),0.0,100.0,56,wellness,62.97661141804789,59.47777768781234,0.0,395.1,543
+M,white,hispanic,33,2.0,Chronic sinusitis (disorder),0.0,0.0,6,wellness,50.21333333333333,76.23005602412636,0.0,419.0,75
+F,white,nonhispanic,16,6.0,Otitis media,0.0,8.0,21,wellness,42.94972972972973,48.985568110196816,0.0,359.9,185
+M,white,nonhispanic,22,5.0,Fracture of rib,0.0,4.0,50,ambulatory,52.425000000000004,65.63769533116697,0.0,470.7,156
+F,white,hispanic,21,3.0,Chronic sinusitis (disorder),0.0,3.0,16,wellness,50.89078947368421,67.21129808373799,0.0,508.4,152
+F,white,nonhispanic,103,11.0,Viral sinusitis (disorder),0.0,101.0,110,wellness,61.59591836734694,105.0874738735335,0.0,1932.5,441
+M,white,nonhispanic,33,5.0,Chronic sinusitis (disorder),1.0,2.0,10,ambulatory,46.722727272727276,72.36446662042151,0.0,518.2,88
+M,white,nonhispanic,15,5.0,Otitis media,0.0,5.0,25,wellness,50.39173553719008,59.29051632096078,0.0,432.2,242
+F,white,nonhispanic,75,8.0,Viral sinusitis (disorder),1.0,93.0,84,wellness,61.91860465116279,62.19114147942452,0.0,484.6,344
+F,white,nonhispanic,60,7.0,Sprain of ankle,1.0,3.0,16,wellness,62.5733870967742,72.84402549435966,0.0,444.4,124
+M,white,nonhispanic,46,6.0,Viral sinusitis (disorder),0.0,23.0,27,wellness,64.45960264900663,65.22598886824989,0.2,407.6,151
+F,white,nonhispanic,62,9.0,Seizure disorder,0.0,8.0,20,ambulatory,61.94622222222222,63.26423185765936,0.1,399.0,225
+F,black,hispanic,27,6.0,Viral sinusitis (disorder),0.0,10.0,23,wellness,55.37062146892656,61.88237500729429,0.0,267.7,177
+M,white,nonhispanic,26,3.0,Viral sinusitis (disorder),0.0,1.0,13,wellness,55.97744360902256,80.57384117251793,0.0,480.4,133
+F,white,nonhispanic,34,6.0,Normal pregnancy,0.0,5.0,33,ambulatory,50.48522727272727,83.24734304520284,0.0,460.0,88
+M,white,nonhispanic,87,5.0,Body mass index 30+ - obesity (finding),0.0,14.0,30,wellness,63.20133928571429,103.77327117462781,0.0,1846.6,448
+F,white,nonhispanic,26,10.0,Acute viral pharyngitis (disorder),0.0,4.0,33,ambulatory,56.321582733812946,62.23506486640853,0.0,382.4,139
+F,white,nonhispanic,67,6.0,Hypertension,0.0,45.0,57,wellness,67.31089743589743,68.62948352939858,0.0,397.2,156
+F,white,nonhispanic,24,0.0,0,0.0,2.0,12,wellness,53.45241379310345,63.33020725043573,0.0,389.1,145
+M,white,hispanic,30,6.0,Sinusitis (disorder),0.0,3.0,20,ambulatory,53.23478260869565,74.3152578646365,0.0,373.8,115
+M,asian,nonhispanic,14,2.0,Acute bronchitis (disorder),0.0,1.0,20,wellness,53.42636363636363,65.82833240670061,0.0,487.8,220
+F,white,nonhispanic,37,13.0,Normal pregnancy,0.0,3.0,54,ambulatory,50.76185567010309,65.6687892687281,0.0,355.5,97
+M,white,nonhispanic,46,2.0,Viral sinusitis (disorder),0.0,0.0,5,wellness,55.28333333333334,63.14807051307119,0.0,283.8,78
+M,white,nonhispanic,41,3.0,Acute bronchitis (disorder),0.0,2.0,8,ambulatory,60.53369565217392,84.61115360083798,0.0,476.3,92
+F,white,nonhispanic,103,14.0,Viral sinusitis (disorder),0.0,163.0,100,wellness,56.2709375,79.39384386877494,-3.6,1070.9,320
+F,white,nonhispanic,10,5.0,Otitis media,0.0,8.0,21,wellness,40.81746987951807,40.89247981077749,0.0,203.0,166
+M,white,nonhispanic,87,5.0,Body mass index 30+ - obesity (finding),0.0,7.0,20,wellness,75.11558441558441,89.86580636833673,0.0,821.0,154
+M,asian,nonhispanic,33,2.0,Sprain of wrist,0.0,1.0,6,wellness,44.01066666666667,62.00576384135228,0.0,331.8,75
+F,white,nonhispanic,34,14.0,Normal pregnancy,0.0,19.0,76,ambulatory,63.62119205298013,88.86568637314144,0.0,517.1,151
+F,white,nonhispanic,27,11.0,Viral sinusitis (disorder),0.0,64.0,166,ambulatory,51.560663507109,60.90910650137428,0.0,428.8,211
+F,white,nonhispanic,80,8.0,Hypertension,0.0,61.0,65,wellness,63.22393822393823,118.71837223176753,0.0,1691.1,259
+F,white,nonhispanic,60,5.0,Chronic sinusitis (disorder),0.0,1.0,16,wellness,57.3679347826087,67.81596523730057,0.0,429.8,184
+M,white,nonhispanic,40,3.0,Hypertension,0.0,16.0,19,wellness,58.71597222222223,61.3603476243953,0.0,329.6,144
+F,white,nonhispanic,101,7.0,Viral sinusitis (disorder),0.0,16.0,22,wellness,67.1515337423313,64.45915000399904,0.0,420.3,163
+F,white,nonhispanic,103,8.0,Viral sinusitis (disorder),1.0,17.0,19,wellness,58.72222222222222,65.784360445023,0.4,496.7,234
+M,white,nonhispanic,63,11.0,Viral sinusitis (disorder),0.0,5.0,50,outpatient,67.20642857142857,77.74978795290363,0.0,509.0,140
+M,white,nonhispanic,27,5.0,Acute viral pharyngitis (disorder),0.0,2.0,15,wellness,54.46608695652174,62.19149951357306,0.0,394.0,115
+F,white,nonhispanic,27,6.0,Fracture subluxation of wrist,0.0,10.0,22,wellness,59.525,61.697901313497425,0.0,348.8,152
+F,white,nonhispanic,48,15.0,Normal pregnancy,0.0,11.0,41,ambulatory,63.39807692307693,78.99471038057249,0.0,460.2,104
+M,white,nonhispanic,87,17.0,Hypertension,1.0,200.0,142,wellness,69.01532258064516,61.45185498770272,0.0,399.2,992
+F,white,nonhispanic,53,11.0,Viral sinusitis (disorder),0.0,40.0,73,outpatient,64.88628571428572,72.23916166113852,0.0,500.3,175
+M,white,nonhispanic,30,4.0,Chronic sinusitis (disorder),0.0,0.0,13,wellness,57.588596491228074,78.64568889699885,0.0,492.4,114
+M,white,hispanic,24,5.0,Viral sinusitis (disorder),0.0,6.0,80,ambulatory,43.936898395721926,52.60981016704204,0.0,193.1,187
+M,white,nonhispanic,36,1.0,Viral sinusitis (disorder),0.0,3.0,7,ambulatory,52.69605263157895,89.58163865553321,0.0,497.6,76
+F,white,nonhispanic,10,4.0,Otitis media,0.0,8.0,19,wellness,47.64518072289157,44.84849723130682,0.0,263.8,166
+F,white,nonhispanic,80,16.0,Viral sinusitis (disorder),0.0,69.0,123,wellness,54.31629392971246,56.800585917576534,-3.7,413.3,313
+M,white,nonhispanic,39,3.0,Chronic sinusitis (disorder),0.0,1.0,7,ambulatory,53.707692307692305,78.93448503077046,0.1,449.5,78
+F,black,nonhispanic,58,11.0,Acute viral pharyngitis (disorder),0.0,48.0,84,wellness,57.13181818181818,64.46939939123314,0.0,421.0,220
+F,black,nonhispanic,10,3.0,Whiplash injury to neck,0.0,4.0,19,wellness,46.224293785310735,57.34525350576519,0.0,506.9,177
+M,white,nonhispanic,31,2.0,Acute bronchitis (disorder),0.0,1.0,10,wellness,54.4965811965812,67.96584199335865,0.0,348.5,117
+M,white,nonhispanic,87,8.0,Prediabetes,1.0,4.0,18,wellness,59.22513661202186,56.246490702330824,-3.0,218.8,183
+F,white,hispanic,47,9.0,Viral sinusitis (disorder),1.0,8.0,38,ambulatory,58.8796992481203,83.03573870893885,0.4,504.1,133
+M,white,nonhispanic,50,5.0,Acute bronchitis (disorder),0.0,3.0,10,wellness,60.7152380952381,69.99862880655974,0.0,345.1,105
+M,white,nonhispanic,71,7.0,Acute viral pharyngitis (disorder),0.0,1.0,21,wellness,66.8920731707317,68.8186110374472,0.0,479.7,164
+F,white,nonhispanic,18,9.0,Viral sinusitis (disorder),0.0,42.0,40,ambulatory,51.667357512953366,53.353335003556495,0.0,394.7,193
+M,asian,nonhispanic,58,4.0,Acute bronchitis (disorder),0.0,2.0,15,wellness,66.11370967741935,74.52657444376155,0.0,431.0,124
+F,white,nonhispanic,9,1.0,Childhood asthma,0.0,4.0,13,wellness,54.496350364963504,54.15268095144768,0.0,435.6,137
+M,white,hispanic,51,9.0,Otitis media,0.0,18.0,20,wellness,65.72244897959185,70.00421102394274,0.0,462.3,147
+F,white,nonhispanic,17,5.0,Acute viral pharyngitis (disorder),0.0,5.0,19,wellness,51.85087719298246,61.87876131733071,0.0,440.1,171
+M,white,nonhispanic,32,6.0,Acute viral pharyngitis (disorder),0.0,1.0,12,ambulatory,46.90229885057471,61.02640293445906,0.0,346.9,87
+F,black,nonhispanic,58,2.0,Body mass index 30+ - obesity (finding),0.0,2.0,9,wellness,59.21666666666666,68.97041150777194,0.0,409.1,108
+F,white,nonhispanic,38,4.0,Concussion with no loss of consciousness,0.0,2.0,22,ambulatory,50.987912087912086,71.38169674388968,0.0,344.6,91
+M,white,nonhispanic,87,6.0,Chronic sinusitis (disorder),0.0,31.0,21,wellness,73.04654088050314,88.19976016778597,0.0,840.4,159
+M,white,nonhispanic,14,2.0,Viral sinusitis (disorder),0.0,1.0,19,wellness,47.40238095238095,45.13404855318821,0.0,227.2,210
+M,white,hispanic,51,5.0,Body mass index 30+ - obesity (finding),0.0,2.0,12,wellness,52.43259259259259,57.78290925037661,0.1,286.7,135
+M,white,nonhispanic,18,4.0,Viral sinusitis (disorder),0.0,2.0,15,wellness,46.574050632911394,55.87166160719593,0.0,364.0,158
+M,white,nonhispanic,6,1.0,Otitis media,0.0,2.0,6,wellness,49.544067796610165,65.26953471933197,0.0,402.8,59
+M,white,nonhispanic,32,6.0,Acute viral pharyngitis (disorder),0.0,13.0,19,wellness,60.06734693877551,68.91239243114615,0.0,504.1,147
+F,white,nonhispanic,49,6.0,Normal pregnancy,0.0,5.0,56,ambulatory,61.49375,81.74711688139865,0.0,492.0,96
+F,white,nonhispanic,56,17.0,Chronic intractable migraine without aura,0.0,29.0,88,outpatient,55.7160606060606,58.21191985850782,0.0,334.1,330
+F,white,nonhispanic,56,17.0,Normal pregnancy,0.0,62.0,114,outpatient,72.81115807269654,68.9764490124715,0.0,453.9,1183
+M,white,nonhispanic,87,7.0,Cardiac Arrest,0.0,0.0,18,wellness,58.543153526970954,63.786033973071476,0.0,384.4,241
+F,white,nonhispanic,43,10.0,Viral sinusitis (disorder),0.0,29.0,35,wellness,54.97601809954752,62.96873188322509,0.0,494.2,221
+F,white,nonhispanic,37,3.0,Normal pregnancy,0.0,7.0,46,outpatient,46.04736842105263,75.31345780347486,0.0,485.0,76
+M,white,nonhispanic,63,4.0,Chronic sinusitis (disorder),0.0,2.0,13,wellness,66.96569343065693,75.01115744258259,0.0,458.8,137
+F,white,nonhispanic,21,6.0,Viral sinusitis (disorder),0.0,2.0,17,wellness,49.58759124087591,62.73136639819532,0.0,376.8,137
+F,white,nonhispanic,19,6.0,Viral sinusitis (disorder),0.0,2.0,17,wellness,54.91987577639752,68.30101556700657,0.0,439.6,161
+M,white,nonhispanic,23,4.0,Appendicitis,0.0,3.0,18,wellness,46.5625,58.22162932159256,0.0,356.3,152
+M,white,hispanic,39,5.0,Viral sinusitis (disorder),0.0,18.0,22,wellness,61.758389261744966,69.67189621154515,0.0,402.9,149
+F,white,nonhispanic,31,10.0,Viral sinusitis (disorder),0.0,6.0,42,ambulatory,50.233333333333334,63.789482702466536,0.0,380.9,117
+F,white,nonhispanic,63,6.0,Hypertension,0.0,44.0,52,wellness,64.30486111111111,68.74550749961176,0.0,478.6,144
+M,asian,nonhispanic,9,4.0,Atopic dermatitis,0.0,5.0,17,wellness,48.297163120567376,45.730439914260316,0.0,296.7,141
+M,white,nonhispanic,103,23.0,Viral sinusitis (disorder),1.0,3313.0,1538,ambulatory,43.53792712550607,75.51245337740036,0.0,599.6,6175
+M,white,nonhispanic,67,3.0,Body mass index 30+ - obesity (finding),0.0,15.0,30,ambulatory,60.89098837209303,59.34996572596597,0.0,362.1,344
+M,white,nonhispanic,36,2.0,Viral sinusitis (disorder),0.0,0.0,5,wellness,50.16447368421053,78.9210942717638,0.0,433.4,76
+F,white,nonhispanic,61,10.0,Miscarriage in first trimester,0.0,9.0,25,ambulatory,58.635555555555555,65.27165539509377,0.0,403.0,225
+F,white,nonhispanic,59,6.0,Hypertension,0.0,43.0,47,wellness,58.37488584474886,61.95314343166851,0.0,404.3,219
+M,white,hispanic,72,13.0,Cardiac Arrest,1.0,23.0,66,outpatient,56.72666666666667,60.39587026429383,0.0,342.0,270
+F,black,hispanic,44,9.0,Normal pregnancy,0.0,8.0,35,ambulatory,61.59255319148936,79.77001921432719,0.0,516.6,94
+M,white,nonhispanic,77,8.0,Chronic sinusitis (disorder),0.0,79.0,60,wellness,60.4917808219178,72.90949716994206,0.7,539.4,292
+F,white,nonhispanic,71,9.0,Viral sinusitis (disorder),0.0,6.0,26,ambulatory,71.97926829268293,133.83060645458198,0.7,1551.1,164
+M,white,hispanic,66,5.0,Prediabetes,0.0,12.0,25,ambulatory,57.20936073059361,60.96990613827707,0.0,511.9,438
+M,white,nonhispanic,50,7.0,Viral sinusitis (disorder),0.0,0.0,11,wellness,57.27466666666667,69.28211094892497,0.0,489.8,150
+F,white,nonhispanic,51,3.0,Seizure disorder,0.0,1.0,10,wellness,59.2,58.6246126254106,0.0,393.4,74
+M,white,nonhispanic,63,3.0,Acute bacterial sinusitis (disorder),1.0,1.0,15,wellness,50.743650793650794,49.384148867476505,0.0,339.8,126
+F,asian,nonhispanic,55,6.0,Acute viral pharyngitis (disorder),1.0,0.0,11,wellness,55.14210526315789,63.97142178311782,0.0,434.4,171
+F,white,nonhispanic,59,8.0,Viral sinusitis (disorder),0.0,38.0,44,wellness,69.36753246753247,71.87762374465835,0.0,394.8,154
+M,white,nonhispanic,85,16.0,Acute bronchitis (disorder),0.0,242.0,169,outpatient,65.03947036569988,59.91316728907682,0.0,445.7,1586
+F,white,nonhispanic,71,10.0,Normal pregnancy,0.0,20.0,45,ambulatory,76.40672268907562,76.61594153174214,0.0,477.8,119
+F,white,nonhispanic,53,15.0,Normal pregnancy,0.0,6.0,60,ambulatory,61.18490566037736,90.56121086231212,0.9,503.0,106
+F,white,nonhispanic,51,4.0,Hypertension,0.0,29.0,30,wellness,63.42777777777778,67.60460989417274,0.0,382.9,144
+M,white,nonhispanic,77,6.0,Chronic sinusitis (disorder),0.0,4.0,18,wellness,60.00511811023622,65.93646430830263,0.0,438.5,254
+M,white,nonhispanic,63,5.0,Hypertension,0.0,45.0,45,wellness,67.29724137931035,66.76744252422773,0.0,355.2,145
+M,black,nonhispanic,15,7.0,Acute viral pharyngitis (disorder),0.0,6.0,26,wellness,53.25044642857143,54.64320634625871,0.0,464.9,224
+M,white,nonhispanic,26,3.0,Acute bronchitis (disorder),0.0,1.0,15,wellness,61.77887323943662,75.9515979045426,0.0,494.9,142
+M,asian,nonhispanic,63,14.0,Acute viral pharyngitis (disorder),1.0,46.0,51,wellness,68.2528384279476,68.89754186328224,0.5,328.2,229
+M,native,nonhispanic,84,13.0,Viral sinusitis (disorder),1.0,18.0,95,outpatient,67.65038167938931,61.65234461078546,0.0,306.8,131
+F,white,nonhispanic,71,7.0,Hypertension,1.0,48.0,63,wellness,61.24901315789474,77.19158070046326,0.0,428.5,304
+M,white,nonhispanic,85,7.0,Prediabetes,1.0,36.0,57,ambulatory,59.05095320623917,73.59024153556935,0.0,495.3,577
+M,white,nonhispanic,58,14.0,Hypertension,0.0,50.0,51,wellness,67.34475920679887,71.26058599199115,0.0,513.0,353
+M,white,nonhispanic,76,10.0,Viral sinusitis (disorder),0.0,37.0,25,ambulatory,65.85405405405405,70.7431421434162,0.0,423.7,148
+F,black,nonhispanic,52,8.0,Normal pregnancy,0.0,38.0,56,wellness,55.24,59.64378260616465,0.0,400.0,225
+F,white,nonhispanic,77,10.0,Seizure disorder,0.0,3.0,20,wellness,66.03673469387755,67.60936556833245,0.3,421.1,147
+F,asian,hispanic,28,3.0,Fracture of forearm,0.0,13.0,41,outpatient,58.56758620689655,67.36445225904329,0.0,510.0,145
+M,native,nonhispanic,84,10.0,Hypertension,0.0,93.0,99,wellness,72.6431506849315,74.14568874627773,1.0,483.2,146
+F,white,nonhispanic,51,6.0,Viral sinusitis (disorder),0.0,3.0,10,wellness,51.37416666666666,66.16563059148326,0.0,460.1,120
+F,white,nonhispanic,89,7.0,Hypertension,0.0,75.0,78,wellness,56.039834024896265,60.88504392135783,0.0,437.0,241
+F,white,nonhispanic,71,8.0,Chronic sinusitis (disorder),0.0,4.0,24,wellness,63.47435897435897,63.728736488535105,-3.1,348.3,156
+M,white,nonhispanic,66,7.0,Viral sinusitis (disorder),0.0,1.0,24,wellness,68.66585365853659,76.59624799715878,0.0,446.1,164
+M,white,nonhispanic,85,8.0,Hypertension,1.0,77.0,66,wellness,72.85714285714286,70.81070305822682,0.1,391.6,154
+M,white,nonhispanic,43,5.0,Viral sinusitis (disorder),0.0,6.0,9,ambulatory,60.01333333333333,90.84364004099261,0.0,503.3,105
+F,white,nonhispanic,12,6.0,Otitis media,0.0,8.0,25,wellness,47.896534653465345,63.828384941576246,0.0,518.7,202
+M,white,nonhispanic,39,8.0,Viral sinusitis (disorder),1.0,4.0,47,outpatient,53.61125,72.42197546368983,0.0,407.1,80
+M,white,nonhispanic,40,11.0,Hypertension,0.0,30.0,29,wellness,68.67548746518106,71.56535170775734,0.0,452.3,359
+M,white,nonhispanic,86,13.0,Viral sinusitis (disorder),0.0,89.0,90,wellness,57.358204334365325,60.3558414366276,0.0,387.8,323
+M,black,nonhispanic,113,8.0,Opioid abuse (disorder),1.0,2.0,20,wellness,74.29395973154362,79.60610565693584,0.8,418.3,149
+F,white,nonhispanic,34,2.0,Normal pregnancy,0.0,6.0,22,outpatient,44.836,55.745981893740975,0.1,252.8,75
+M,white,nonhispanic,50,1.0,Viral sinusitis (disorder),0.0,1.0,5,wellness,61.865625,80.61099941678981,0.0,502.3,96
+M,black,nonhispanic,113,4.0,Viral sinusitis (disorder),0.0,2.0,15,wellness,65.56692913385827,66.29331175429449,0.0,445.5,127
+M,white,nonhispanic,7,3.0,Viral sinusitis (disorder),0.0,1.0,11,wellness,54.83888888888889,65.9551595965262,0.0,430.9,90
+M,native,nonhispanic,84,13.0,Hypertension,0.0,64.0,107,wellness,68.14218749999999,81.36821768749796,0.0,745.0,192
+M,white,nonhispanic,68,19.0,Body mass index 30+ - obesity (finding),1.0,160.0,83,wellness,58.3353813559322,61.69753664353009,0.0,450.0,472
+M,white,nonhispanic,85,9.0,Acute bronchitis (disorder),0.0,25.0,21,wellness,57.31474103585657,60.70684295722082,0.0,394.7,251
+F,white,nonhispanic,53,8.0,Viral sinusitis (disorder),0.0,7.0,17,outpatient,52.36953125,60.922013603547505,0.0,314.8,128
+M,white,nonhispanic,29,6.0,Viral sinusitis (disorder),0.0,8.0,16,wellness,55.786013986013984,62.056043050376864,0.0,378.7,143
+F,white,nonhispanic,7,0.0,0,0.0,0.0,5,wellness,60.95762711864407,76.63631803882684,0.0,428.2,59
+F,white,nonhispanic,17,8.0,Acute viral pharyngitis (disorder),0.0,7.0,23,wellness,44.442372881355936,46.22632761524527,0.0,265.2,177
+M,white,nonhispanic,58,3.0,Body mass index 30+ - obesity (finding),0.0,1.0,11,wellness,64.79833333333333,79.02352801787677,0.0,517.0,120
+M,black,nonhispanic,113,9.0,Prediabetes,0.0,4.0,26,ambulatory,59.180448717948714,63.76337513652502,0.0,332.6,312
+F,white,hispanic,62,7.0,Viral sinusitis (disorder),0.0,52.0,73,wellness,65.47948717948718,73.77848424710173,0.0,508.7,156
+F,white,nonhispanic,79,5.0,Prediabetes,0.0,3.0,18,wellness,56.109523809523814,57.41006953692435,0.0,330.4,252
+M,native,nonhispanic,84,14.0,Acute bronchitis (disorder),0.0,17.0,79,outpatient,63.228512396694214,98.47127069472492,0.0,1774.5,484
+F,white,nonhispanic,70,10.0,Chronic sinusitis (disorder),0.0,55.0,61,wellness,59.08166189111748,63.785538271872234,0.0,459.9,349
+F,white,nonhispanic,39,11.0,Normal pregnancy,0.0,6.0,51,ambulatory,46.724657534246575,73.13142617693678,0.0,446.5,73
+F,white,nonhispanic,77,17.0,Viral sinusitis (disorder),1.0,217.0,144,ambulatory,67.3677145284622,61.79126064530585,0.0,442.0,1177
+F,native,hispanic,53,13.0,Viral sinusitis (disorder),0.0,5.0,103,outpatient,62.30540540540541,66.40092285214749,0.0,420.0,148
+F,white,nonhispanic,14,3.0,Otitis media,0.0,5.0,20,wellness,48.86161616161616,60.21165832619123,0.0,498.9,198
+M,asian,nonhispanic,28,2.0,Acute bronchitis (disorder),0.0,2.0,11,wellness,54.54032258064516,71.37423519941633,0.0,386.1,124
+F,asian,hispanic,37,5.0,Normal pregnancy,0.0,4.0,27,ambulatory,47.82763157894737,73.61116509277507,0.0,428.9,76
+M,native,nonhispanic,84,5.0,Acute bronchitis (disorder),0.0,6.0,8,wellness,79.18589743589743,77.52357115257968,0.0,442.3,78
+F,white,nonhispanic,17,2.0,Viral sinusitis (disorder),0.0,0.0,14,wellness,51.70769230769231,58.00128282653592,0.0,477.4,169
+M,white,nonhispanic,35,7.0,Hypertension,0.0,17.0,18,wellness,53.271578947368425,64.19440491064903,0.0,443.7,190
+F,white,nonhispanic,33,7.0,Normal pregnancy,0.0,15.0,35,ambulatory,56.26153846153846,68.06480954961178,0.0,434.8,143
+F,white,nonhispanic,13,7.0,Viral sinusitis (disorder),0.0,25.0,44,ambulatory,46.51681034482758,50.154731337096614,0.0,401.7,232
+M,black,nonhispanic,113,9.0,Acute viral pharyngitis (disorder),0.0,51.0,50,inpatient,72.92112676056338,77.15092773120254,0.0,434.4,142
+F,white,nonhispanic,61,4.0,Hypertension,0.0,45.0,49,wellness,65.94556962025317,64.18581266234536,0.0,337.3,158
+M,white,nonhispanic,46,2.0,Body mass index 30+ - obesity (finding),0.0,0.0,7,wellness,62.296938775510206,76.72725621447958,0.0,474.4,98
+M,white,nonhispanic,30,4.0,Acute bronchitis (disorder),0.0,2.0,10,wellness,50.950476190476195,73.52820380356613,0.0,401.6,105
+M,black,nonhispanic,74,7.0,Viral sinusitis (disorder),0.0,58.0,61,wellness,68.26178343949044,74.94641122677798,-0.1,473.2,157
+F,white,nonhispanic,25,10.0,Acute viral pharyngitis (disorder),0.0,54.0,106,ambulatory,45.340796019900495,51.93479592106994,0.0,237.2,201
+F,white,nonhispanic,31,7.0,Acute viral pharyngitis (disorder),0.0,17.0,61,outpatient,65.18068965517242,73.04185852470688,0.0,399.7,145
+M,white,nonhispanic,23,4.0,Acute viral pharyngitis (disorder),0.0,3.0,78,ambulatory,45.32316384180791,73.9569951447618,0.0,502.9,177
+M,white,nonhispanic,87,7.0,Body mass index 30+ - obesity (finding),0.0,42.0,58,ambulatory,67.81165311653116,98.05986026584782,0.0,1516.6,369
+M,white,nonhispanic,46,5.0,Viral sinusitis (disorder),0.0,25.0,27,wellness,59.86866359447004,66.7053140378706,0.4,398.8,217
+F,asian,nonhispanic,25,3.0,Acute bronchitis (disorder),0.0,8.0,20,wellness,52.8625,58.960342444155415,0.0,398.6,160
+M,black,nonhispanic,113,11.0,Body mass index 30+ - obesity (finding),0.0,109.0,84,inpatient,65.54514435695538,74.32205388352743,0.2,508.0,381
+F,white,nonhispanic,67,11.0,Viral sinusitis (disorder),0.0,59.0,68,wellness,60.00501138952164,62.070023959815096,-0.4,398.6,439
+M,white,nonhispanic,48,4.0,Viral sinusitis (disorder),0.0,85.0,50,wellness,65.36911764705881,73.87641583748812,0.0,498.8,136
+M,white,nonhispanic,75,9.0,Viral sinusitis (disorder),0.0,2.0,21,wellness,68.9205298013245,73.59086566314308,0.0,507.1,151
+M,black,nonhispanic,51,1.0,Hypertension,0.0,27.0,28,wellness,64.89779411764707,71.46128863150888,0.0,509.0,136
+F,white,nonhispanic,55,13.0,Viral sinusitis (disorder),0.0,23.0,25,ambulatory,65.32798353909466,70.38423029942646,0.2,435.6,243
+M,white,nonhispanic,90,9.0,Prediabetes,1.0,86.0,88,wellness,56.41495327102804,65.35930471785127,0.0,438.1,321
+M,white,nonhispanic,87,9.0,Body mass index 30+ - obesity (finding),0.0,22.0,43,ambulatory,59.067820773930755,61.823570757112094,0.0,420.6,491
+F,asian,nonhispanic,53,9.0,Viral sinusitis (disorder),0.0,11.0,27,outpatient,59.54190476190476,78.73826381528035,0.0,443.1,105
+M,white,nonhispanic,42,5.0,Acute bronchitis (disorder),0.0,3.0,10,wellness,61.30978260869565,88.267020037644,0.0,513.8,92
+M,asian,nonhispanic,33,6.0,Viral sinusitis (disorder),0.0,12.0,17,wellness,60.10575539568346,65.35059159416883,0.0,342.5,139
+M,black,nonhispanic,40,4.0,Body mass index 30+ - obesity (finding),0.0,3.0,9,wellness,61.71553398058252,87.01301543084763,0.0,515.1,103
+M,black,nonhispanic,113,8.0,Acute viral pharyngitis (disorder),0.0,19.0,39,ambulatory,68.28607242339834,111.25826276969742,-3.2,1848.3,359
+F,white,nonhispanic,38,18.0,Normal pregnancy,0.0,9.0,70,ambulatory,57.168794326241134,68.20616764607539,0.0,420.4,141
+M,black,nonhispanic,33,1.0,Chronic sinusitis (disorder),0.0,0.0,5,wellness,44.382051282051286,60.21033208050003,0.0,320.3,78
+F,white,nonhispanic,17,4.0,Viral sinusitis (disorder),1.0,2.0,17,wellness,46.49761904761905,53.16809852612698,0.0,349.8,168
+M,asian,nonhispanic,29,2.0,Acute bronchitis (disorder),0.0,1.0,11,wellness,58.574999999999996,75.7261048649359,0.0,480.4,132
+M,white,nonhispanic,17,7.0,Childhood asthma,0.0,30.0,34,ambulatory,45.688557213930345,60.19766206762487,0.0,495.3,201
+F,black,nonhispanic,15,5.0,Childhood asthma,0.0,28.0,37,wellness,52.570238095238096,55.362491321845425,0.0,459.0,252
+M,asian,nonhispanic,39,10.0,Acute viral pharyngitis (disorder),0.0,18.0,21,wellness,66.42114093959732,69.59595311225333,0.0,374.2,298
+M,white,nonhispanic,71,7.0,Body mass index 30+ - obesity (finding),0.0,3.0,17,wellness,65.61063829787234,74.52016668768998,-3.2,500.6,141
+M,white,nonhispanic,87,14.0,Prediabetes,1.0,193.0,68,ambulatory,65.99169960474309,64.90985195994566,0.0,372.9,506
+M,white,nonhispanic,47,11.0,Prediabetes,0.0,29.0,45,outpatient,68.58459422283356,65.9524506011456,0.0,456.8,727
+M,native,nonhispanic,84,20.0,Chronic sinusitis (disorder),1.0,421.0,299,outpatient,66.66322751322751,76.8373846963217,0.0,510.9,2646
+M,white,nonhispanic,28,3.0,Acute bronchitis (disorder),0.0,3.0,14,wellness,55.71555555555556,69.22994657290705,0.0,454.0,135
+F,white,nonhispanic,83,7.0,Body mass index 30+ - obesity (finding),0.0,44.0,20,wellness,56.272689075630254,61.70977849186249,0.0,436.7,238
+F,white,nonhispanic,9,1.0,Sprain of ankle,0.0,1.0,13,wellness,53.543065693430655,53.33475552034311,0.0,429.1,137
+F,white,hispanic,17,3.0,Acute viral pharyngitis (disorder),0.0,1.0,17,wellness,47.68238636363637,45.98241622917099,0.0,246.6,176
+M,white,nonhispanic,62,9.0,Acute viral pharyngitis (disorder),0.0,4.0,25,wellness,58.399324324324326,53.6051569970951,0.0,404.9,148
+M,white,nonhispanic,90,7.0,Viral sinusitis (disorder),0.0,15.0,33,ambulatory,62.54302325581395,61.65530825266579,0.0,462.3,344
+F,white,nonhispanic,71,5.0,Rupture of appendix,0.0,1.0,17,wellness,67.56711409395973,72.50065278639295,-3.6,482.1,149
+M,white,nonhispanic,40,5.0,Hypertension,0.0,19.0,32,wellness,57.949350649350656,65.50777157582519,0.0,393.0,154
+M,white,nonhispanic,18,4.0,Acute bronchitis (disorder),0.0,2.0,16,wellness,51.80643274853801,60.65545428769718,0.0,401.7,171
+F,white,nonhispanic,60,15.0,Viral sinusitis (disorder),1.0,134.0,119,wellness,66.04530386740332,74.45308472485233,0.0,451.7,181
+M,white,nonhispanic,28,2.0,Child attention deficit disorder,0.0,2.0,10,wellness,51.90975609756097,66.45548666074964,0.0,383.2,123
+M,white,nonhispanic,62,10.0,Hypertension,0.0,42.0,47,wellness,65.39728813559323,69.53410551201095,0.0,444.8,295
+F,white,nonhispanic,55,17.0,Normal pregnancy,0.0,44.0,62,wellness,56.96115702479339,63.772068668220314,0.0,446.2,242
+M,asian,nonhispanic,38,10.0,Acute bronchitis (disorder),0.0,6.0,12,ambulatory,54.472321428571426,78.16160921400468,0.1,452.7,112
+F,white,nonhispanic,21,3.0,Viral sinusitis (disorder),0.0,2.0,14,wellness,51.14087591240876,60.252930798554274,0.0,423.2,137
+M,white,nonhispanic,7,0.0,0,0.0,0.0,8,wellness,48.26516853932585,60.21912468251335,0.0,449.9,89
+M,black,nonhispanic,34,4.0,Streptococcal sore throat (disorder),0.0,2.0,8,wellness,48.165,66.57751948868193,0.0,407.5,80
+M,native,nonhispanic,84,10.0,Perennial allergic rhinitis,0.0,154.0,169,ambulatory,62.76829268292683,66.52408211783404,0.0,503.9,287
+F,white,nonhispanic,79,11.0,Viral sinusitis (disorder),0.0,18.0,55,inpatient,58.88765957446809,72.02641117598574,0.6,506.6,235
+F,asian,hispanic,7,3.0,Acute allergic reaction,0.0,5.0,14,wellness,50.63619047619048,59.87226487057761,0.0,483.4,105
+M,white,nonhispanic,31,5.0,Acute viral pharyngitis (disorder),0.0,11.0,18,wellness,61.86938775510204,68.96068128521657,0.0,368.1,147
+M,white,nonhispanic,52,4.0,Prediabetes,0.0,2.0,9,wellness,59.84476744186046,73.77191280330915,0.0,487.8,172
+F,white,nonhispanic,59,4.0,Hypertension,0.0,38.0,43,wellness,57.49308755760369,65.32172656364946,0.5,434.4,217
+M,white,nonhispanic,44,5.0,Acute viral pharyngitis (disorder),1.0,0.0,7,wellness,59.421794871794866,76.18617430464765,0.0,432.5,78
+F,white,nonhispanic,13,8.0,Otitis media,0.0,11.0,25,wellness,47.927918781725886,51.439867630767864,0.0,417.3,197
+F,black,hispanic,54,11.0,Normal pregnancy,0.0,5.0,41,ambulatory,51.52857142857143,63.316742928430344,0.1,436.5,133
+M,white,nonhispanic,67,10.0,Acute viral pharyngitis (disorder),1.0,30.0,45,wellness,66.81513157894737,82.4829853520706,0.4,422.5,304
+M,white,hispanic,39,2.0,Chronic sinusitis (disorder),0.0,2.0,7,ambulatory,48.11666666666667,72.63965277263911,0.0,453.1,72
+M,native,nonhispanic,84,17.0,Seizure disorder,1.0,29.0,80,outpatient,65.64159292035399,76.16082321946006,0.1,424.1,452
+F,white,hispanic,17,2.0,Acute bronchitis (disorder),0.0,1.0,16,wellness,50.63988764044944,49.06443398708662,0.0,352.1,178
+M,white,nonhispanic,35,4.0,Acute viral pharyngitis (disorder),0.0,3.0,7,ambulatory,46.46666666666667,69.48074733334408,0.0,343.1,81
+F,asian,nonhispanic,52,13.0,Diabetes,1.0,115.0,171,outpatient,69.80087719298245,64.17368055047771,0.0,398.5,1482
+F,white,nonhispanic,15,6.0,Otitis media,0.0,7.0,26,wellness,48.17056277056277,57.1176588785716,0.0,448.3,231
+M,black,nonhispanic,75,12.0,Viral sinusitis (disorder),0.0,17.0,22,wellness,57.382,66.37789977329241,-2.6,432.2,250
+M,native,nonhispanic,84,11.0,Coronary Heart Disease,0.0,40.0,41,wellness,69.49137931034483,69.25950641886864,0.0,432.6,116
+M,white,nonhispanic,67,2.0,Body mass index 30+ - obesity (finding),0.0,2.0,16,wellness,74.00573248407643,115.58604533932453,0.0,1194.2,157
+F,white,nonhispanic,21,6.0,Acute bronchitis (disorder),0.0,4.0,17,wellness,55.766447368421055,58.245933199795964,0.0,320.8,152
+F,white,nonhispanic,54,5.0,Viral sinusitis (disorder),0.0,34.0,37,wellness,57.855982905982906,70.59713536674928,0.0,484.4,234
+F,asian,nonhispanic,23,6.0,Viral sinusitis (disorder),0.0,5.0,19,wellness,56.464999999999996,69.79830348805996,0.0,518.1,160
+F,white,nonhispanic,64,8.0,Chronic sinusitis (disorder),0.0,7.0,35,ambulatory,62.941153846153846,63.12880531452785,0.0,410.8,260
+M,white,nonhispanic,64,5.0,Viral sinusitis (disorder),0.0,2.0,17,wellness,56.8915611814346,67.14072064822179,0.0,514.8,237
+M,white,nonhispanic,9,4.0,Otitis media,0.0,4.0,15,wellness,44.020472440944886,52.9474257638001,0.0,386.8,127
+M,white,nonhispanic,32,6.0,Appendicitis,0.0,2.0,17,ambulatory,58.889380530973455,71.1664527243197,0.0,420.3,113
+F,white,nonhispanic,45,20.0,Normal pregnancy,0.0,18.0,56,ambulatory,56.694871794871794,69.86494094662069,0.2,451.0,117
+F,white,nonhispanic,6,0.0,0,0.0,0.0,4,wellness,54.788000000000004,68.92215555632755,0.0,385.1,50
+F,white,nonhispanic,66,5.0,Chronic sinusitis (disorder),0.0,1.0,16,wellness,65.47697368421052,65.89236604769584,0.9,394.6,152
+F,white,nonhispanic,68,3.0,Hypertension,0.0,46.0,49,wellness,55.643459915611814,61.324432544959684,0.0,412.2,237
+F,other,hispanic,63,14.0,Brain damage - traumatic,1.0,149.0,71,outpatient,62.74969879518072,55.5572764337247,0.0,429.9,996
+M,native,nonhispanic,84,18.0,Polyp of colon,0.0,126.0,118,wellness,63.53396624472573,61.6317266657714,0.0,466.1,474
+F,white,nonhispanic,57,12.0,Normal pregnancy,0.0,3.0,100,outpatient,58.92260869565217,69.7211313091644,0.0,514.8,115
+F,white,nonhispanic,41,8.0,Normal pregnancy,0.0,9.0,30,ambulatory,55.0,75.95565881001338,0.0,428.5,96
+F,white,nonhispanic,36,14.0,Normal pregnancy,0.0,8.0,72,ambulatory,53.55416666666667,81.56855549544834,0.0,435.5,96
+F,asian,nonhispanic,32,4.0,Acute viral pharyngitis (disorder),0.0,6.0,38,ambulatory,49.300813008130085,76.31001749328462,0.0,472.2,123
+F,white,hispanic,24,4.0,Atopic dermatitis,0.0,6.0,82,ambulatory,51.32832369942196,67.21559512484906,0.0,503.2,173
+M,black,nonhispanic,31,2.0,Childhood asthma,0.0,15.0,22,ambulatory,53.17758620689656,72.09735939952175,0.0,385.6,116
+F,white,nonhispanic,33,6.0,Otitis media,1.0,8.0,20,wellness,63.06217948717949,60.26648385719472,0.0,391.4,156
+M,asian,nonhispanic,59,15.0,Rupture of appendix,1.0,90.0,114,urgentcare,67.22331288343558,60.985276335496984,0.0,445.1,1141
+M,white,nonhispanic,73,10.0,Appendicitis,0.0,15.0,31,ambulatory,62.580882352941174,66.51510986179845,0.1,467.4,340
+F,white,hispanic,24,2.0,Viral sinusitis (disorder),0.0,4.0,14,wellness,47.014084507042256,50.71640605142433,0.0,195.7,142
+M,asian,hispanic,8,3.0,Laceration of foot,0.0,1.0,12,wellness,55.628431372549024,62.93392476736181,0.0,488.7,102
+F,white,nonhispanic,33,6.0,Normal pregnancy,0.0,16.0,39,ambulatory,54.42700729927007,68.5400328529093,0.0,445.3,137
+F,white,nonhispanic,116,11.0,Body mass index 30+ - obesity (finding),0.0,2.0,47,outpatient,58.18671875,62.71083637926744,0.0,409.1,256
+F,white,nonhispanic,76,6.0,Prediabetes,1.0,3.0,20,ambulatory,56.910062893081765,75.11173228890962,0.0,500.2,318
+M,white,nonhispanic,57,7.0,Viral sinusitis (disorder),0.0,9.0,19,ambulatory,60.39072164948453,68.2725512971093,0.0,445.3,194
+F,white,hispanic,45,19.0,Normal pregnancy,0.0,172.0,142,outpatient,65.99459724950884,60.34943819577435,0.0,431.1,1018
+F,white,nonhispanic,42,16.0,Normal pregnancy,0.0,4.0,51,ambulatory,60.26238532110092,75.46940364710822,0.0,418.2,109
+M,asian,nonhispanic,50,7.0,Viral sinusitis (disorder),0.0,7.0,16,ambulatory,53.623333333333335,55.80770968848442,0.0,232.3,90
+M,white,nonhispanic,37,1.0,Acute bronchitis (disorder),0.0,67.0,44,wellness,58.24097222222221,63.080618207606136,0.0,337.9,144
+M,white,nonhispanic,73,14.0,Viral sinusitis (disorder),0.0,66.0,76,wellness,64.62525510204081,95.23899833053586,-3.0,1234.0,392
+M,white,hispanic,65,3.0,Localized  primary osteoarthritis of the hand,0.0,1.0,13,wellness,65.54228187919463,66.0229906529373,0.0,417.6,149
+M,white,nonhispanic,20,6.0,Atopic dermatitis,0.0,35.0,28,wellness,48.650993377483445,60.3353372052671,0.0,373.7,151
+M,white,hispanic,53,5.0,Prediabetes,0.0,3.0,10,wellness,57.294520547945204,75.49139962965583,0.0,438.8,146
+M,white,nonhispanic,49,5.0,Acute bronchitis (disorder),0.0,4.0,13,ambulatory,59.97575757575758,73.69836219334489,0.0,407.7,99
+F,white,nonhispanic,76,3.0,Body mass index 30+ - obesity (finding),0.0,2.0,15,wellness,66.76527777777778,67.70144075012422,0.0,455.5,144
+M,white,nonhispanic,14,3.0,Viral sinusitis (disorder),0.0,4.0,20,wellness,51.50047619047619,52.730128570887295,0.0,414.4,210
+F,white,nonhispanic,24,11.0,Acute viral pharyngitis (disorder),0.0,11.0,32,ambulatory,61.006410256410255,70.97469488121956,0.0,438.8,156
+F,white,nonhispanic,110,6.0,Viral sinusitis (disorder),0.0,4.0,23,wellness,75.26835443037974,110.51940031362138,0.0,1235.7,158
+F,white,nonhispanic,58,11.0,Normal pregnancy,1.0,17.0,44,ambulatory,73.19568965517242,69.3558942571999,2.0,391.9,116
+M,white,nonhispanic,43,4.0,Prediabetes,0.0,1.0,9,wellness,55.17919463087249,64.58979008427556,0.0,360.8,149
+F,white,nonhispanic,83,8.0,Body mass index 30+ - obesity (finding),0.0,7.0,22,wellness,62.265517241379314,87.16661967182556,0.0,1077.5,232
+M,white,nonhispanic,73,16.0,Hypertension,1.0,110.0,77,wellness,62.103007518797,62.169951673828095,0.0,443.0,532
+F,black,nonhispanic,59,8.0,Perennial allergic rhinitis,0.0,10.0,27,ambulatory,63.325429553264605,70.75607228288649,0.0,485.2,291
+F,white,nonhispanic,29,7.0,Viral sinusitis (disorder),0.0,14.0,27,ambulatory,65.41309523809524,71.97290704456759,0.0,459.6,168
+F,white,nonhispanic,57,6.0,Hypertension,0.0,39.0,81,outpatient,62.244,61.24104727197064,0.0,326.3,125
+F,white,nonhispanic,58,6.0,Hypertension,1.0,47.0,55,wellness,66.7641891891892,66.70332938496246,0.0,389.1,148
+F,white,nonhispanic,45,6.0,Hypertension,0.0,27.0,42,wellness,64.58321167883211,72.40476053708626,0.0,387.5,137
+M,white,hispanic,18,5.0,Viral sinusitis (disorder),0.0,2.0,19,wellness,44.53802083333333,54.251435788075014,0.0,401.0,192
+F,white,nonhispanic,83,13.0,Tubal pregnancy,0.0,8.0,32,ambulatory,64.38815789473684,109.47221557315255,0.0,1382.2,228
+F,asian,nonhispanic,68,10.0,Hypertension,0.0,49.0,55,wellness,55.93949579831933,62.168018856330626,0.0,415.5,238
+F,white,nonhispanic,110,11.0,Viral sinusitis (disorder),0.0,168.0,104,wellness,69.20261437908496,68.85977737756981,0.0,397.9,153
+F,white,nonhispanic,34,8.0,Normal pregnancy,0.0,4.0,38,ambulatory,44.26973684210526,67.51355225876128,0.0,449.8,76
+F,asian,nonhispanic,63,12.0,Viral sinusitis (disorder),0.0,4.0,33,ambulatory,54.573214285714286,59.98393803268533,0.3,393.8,224
+F,white,nonhispanic,33,3.0,Normal pregnancy,0.0,9.0,19,outpatient,42.445454545454545,60.411596014460294,0.0,352.0,77
+F,white,nonhispanic,69,8.0,Acute bronchitis (disorder),0.0,16.0,36,ambulatory,56.94634146341463,55.242580225028384,0.3,246.4,451
+M,white,nonhispanic,27,4.0,Acute viral pharyngitis (disorder),1.0,4.0,13,wellness,48.18888888888889,54.11429599145996,0.0,230.0,117
+F,white,nonhispanic,61,3.0,Localized  primary osteoarthritis of the hand,0.0,2.0,13,wellness,65.65390625,77.6434865796424,0.3,493.3,128
+M,white,nonhispanic,21,3.0,Sprain of ankle,0.0,2.0,14,wellness,49.11538461538461,58.115218616866954,0.0,388.7,143
+F,white,hispanic,19,2.0,Viral sinusitis (disorder),0.0,1.0,14,wellness,49.62151898734177,54.68404597597169,0.0,361.4,158
+F,white,nonhispanic,83,8.0,Viral sinusitis (disorder),0.0,2.0,21,wellness,67.50963855421686,71.80947116473895,-0.3,499.3,166
+F,white,nonhispanic,27,6.0,Acute bronchitis (disorder),0.0,6.0,25,wellness,56.19934640522876,59.54551719475662,0.0,446.1,153
+M,white,nonhispanic,43,2.0,Acute bronchitis (disorder),0.0,2.0,7,wellness,56.68369565217391,69.88847202833817,0.0,382.9,92
+F,white,nonhispanic,36,9.0,Normal pregnancy,0.0,6.0,40,ambulatory,50.56785714285714,72.88120910863081,0.0,410.8,84
+M,white,nonhispanic,25,2.0,Acute bronchitis (disorder),0.0,3.0,78,ambulatory,46.782967032967036,70.29745864325795,0.0,464.7,182
+F,white,nonhispanic,11,2.0,Childhood asthma,0.0,11.0,17,wellness,50.60132450331126,46.33117882773251,0.0,314.3,151
+F,white,nonhispanic,51,8.0,Normal pregnancy,0.0,8.0,44,ambulatory,51.63239436619718,58.02017080083671,0.0,370.7,142
+M,white,nonhispanic,33,3.0,Laceration of foot,0.0,1.0,8,wellness,53.688095238095244,72.02460490687066,0.0,429.4,84
+M,asian,hispanic,31,7.0,Viral sinusitis (disorder),0.0,10.0,18,wellness,60.41726618705036,75.68859248956751,0.0,441.6,139
+M,white,nonhispanic,59,7.0,Acute viral pharyngitis (disorder),1.0,17.0,29,ambulatory,59.9811320754717,64.0556458304201,0.1,518.2,318
+M,white,hispanic,53,7.0,Viral sinusitis (disorder),0.0,3.0,12,wellness,55.26849315068493,66.7277885074356,0.4,427.6,146
+F,white,hispanic,28,14.0,Viral sinusitis (disorder),0.0,44.0,83,inpatient,51.804060913705584,64.72462140544282,0.0,467.2,197
+M,asian,nonhispanic,33,2.0,Child attention deficit disorder,0.0,1.0,7,wellness,45.93095238095238,56.56743704660661,0.0,256.1,84
+F,white,nonhispanic,46,11.0,Viral sinusitis (disorder),0.0,126.0,89,ambulatory,64.15928143712576,64.6523391573476,0.0,349.5,167
+F,white,nonhispanic,21,7.0,Acute bronchitis (disorder),0.0,11.0,25,wellness,55.05568862275449,70.75563888703218,0.0,448.4,167
+M,white,nonhispanic,87,10.0,Viral sinusitis (disorder),0.0,6.0,24,wellness,67.82682926829268,71.91266268825997,-3.3,441.8,164
+F,native,hispanic,53,11.0,Viral sinusitis (disorder),0.0,15.0,50,ambulatory,62.80634146341463,72.19889065996715,0.0,519.5,205
+F,white,nonhispanic,46,23.0,Viral sinusitis (disorder),0.0,14.0,58,ambulatory,67.60987654320988,79.08634420515476,0.4,446.7,162
+F,white,nonhispanic,71,6.0,Body mass index 30+ - obesity (finding),1.0,1.0,19,wellness,65.64316546762589,70.21433753660507,0.0,458.8,139
+F,white,nonhispanic,51,5.0,Chronic sinusitis (disorder),0.0,1.0,14,ambulatory,51.68953488372093,60.36818801725792,0.1,325.6,86
+F,black,nonhispanic,49,11.0,Normal pregnancy,0.0,34.0,84,outpatient,60.36485355648536,65.05993502987772,0.0,354.2,239
+F,white,nonhispanic,46,5.0,Body mass index 30+ - obesity (finding),0.0,5.0,10,wellness,58.903773584905665,70.10262670783973,0.0,420.2,106
+M,asian,nonhispanic,36,6.0,Viral sinusitis (disorder),0.0,15.0,19,wellness,68.86912751677852,75.46958748426044,0.0,426.1,149
+M,white,nonhispanic,74,8.0,Hypertension,1.0,57.0,60,wellness,55.45102880658436,64.37989802413747,0.0,440.2,243
+F,white,nonhispanic,76,7.0,Acute viral pharyngitis (disorder),0.0,2.0,20,wellness,66.62838709677419,69.88312390786426,0.9,426.9,155
+F,white,nonhispanic,80,12.0,Viral sinusitis (disorder),1.0,6.0,26,wellness,56.89831223628692,66.28690783014211,0.0,517.3,237
+F,white,nonhispanic,8,3.0,Acute allergic reaction,0.0,3.0,16,wellness,46.56916666666667,46.84871557001562,0.0,293.9,120
+F,white,nonhispanic,38,11.0,Normal pregnancy,0.0,11.0,63,ambulatory,53.16516853932584,77.00010935813309,0.0,444.3,89
+M,white,nonhispanic,23,3.0,Sinusitis (disorder),0.0,1.0,13,wellness,48.940140845070424,56.67871635740602,0.0,257.7,142
+M,white,nonhispanic,40,1.0,Bullet wound,1.0,0.0,7,wellness,63.36615384615385,78.07012528194419,0.0,502.2,65
+M,asian,nonhispanic,34,0.0,0,0.0,0.0,4,wellness,53.31411764705882,85.3189368709873,0.0,445.8,85
+M,black,nonhispanic,13,8.0,Acute viral pharyngitis (disorder),0.0,6.0,31,wellness,51.168200836820084,56.3797529933375,0.0,475.9,239
+F,white,nonhispanic,16,1.0,Otitis media,0.0,2.0,19,wellness,49.41126126126126,60.04650241101215,0.0,439.7,222
+M,white,nonhispanic,27,2.0,Acute bronchitis (disorder),0.0,2.0,11,wellness,53.40619469026549,58.34066255804571,0.0,289.8,113
+F,other,nonhispanic,27,12.0,Normal pregnancy,0.0,8.0,38,ambulatory,62.36449704142012,70.84244116440674,0.0,414.0,169
+F,white,nonhispanic,48,5.0,Acute viral pharyngitis (disorder),0.0,4.0,14,outpatient,56.473267326732675,70.43051595876479,0.0,428.8,101
+M,white,nonhispanic,40,4.0,Sprain of wrist,0.0,19.0,20,wellness,62.149650349650344,72.98302124961637,0.0,387.3,143
+F,black,nonhispanic,98,8.0,Viral sinusitis (disorder),0.0,3.0,19,wellness,64.50939597315435,67.36635653054316,0.0,401.1,149
+M,white,nonhispanic,34,2.0,Acute viral pharyngitis (disorder),0.0,1.0,8,wellness,53.52325581395349,87.03056484655413,0.0,511.1,86
+F,white,nonhispanic,10,1.0,Concussion with no loss of consciousness,0.0,0.0,15,wellness,52.80331125827815,57.81507694620672,0.0,423.9,151
+F,black,nonhispanic,59,8.0,Viral sinusitis (disorder),1.0,40.0,44,wellness,64.00808823529412,66.9246995927314,0.0,400.2,136
+M,black,nonhispanic,17,3.0,Acute viral pharyngitis (disorder),0.0,2.0,15,wellness,53.23117647058823,54.655803286817154,0.0,333.0,170
+F,white,nonhispanic,54,13.0,Normal pregnancy,0.0,11.0,55,ambulatory,58.163888888888884,62.006754920437814,0.8,277.5,108
+M,white,nonhispanic,65,14.0,Viral sinusitis (disorder),0.0,71.0,58,wellness,60.47666666666667,69.3411054811249,0.3,515.7,240
+M,white,nonhispanic,68,6.0,Viral sinusitis (disorder),1.0,45.0,49,wellness,65.875,63.691361218496745,0.5,332.3,164
+M,asian,nonhispanic,64,9.0,Chronic sinusitis (disorder),0.0,2.0,18,wellness,61.46448598130841,71.12300163759342,0.0,448.4,214
+F,white,nonhispanic,25,8.0,Viral sinusitis (disorder),0.0,4.0,47,ambulatory,52.36490066225166,62.31193379407136,0.0,320.7,151
+F,white,nonhispanic,84,18.0,Viral sinusitis (disorder),1.0,35.0,63,ambulatory,58.12443438914027,62.981873649563006,0.0,476.8,442
+M,white,hispanic,56,6.0,Body mass index 30+ - obesity (finding),0.0,2.0,15,wellness,56.16027397260274,62.44803685874062,0.0,316.5,146
+F,white,hispanic,52,16.0,Viral sinusitis (disorder),0.0,148.0,74,wellness,55.847735191637625,59.83001608952057,0.5,466.1,287
+F,white,nonhispanic,15,4.0,Acute bronchitis (disorder),0.0,1.0,27,wellness,46.89123505976096,50.746768989449215,0.0,348.4,251
+F,white,nonhispanic,49,6.0,Hypertension,0.0,39.0,45,wellness,63.28551724137931,66.98648389715807,0.0,447.7,145
+M,white,nonhispanic,67,6.0,Localized  primary osteoarthritis of the hand,0.0,4.0,17,wellness,59.4126582278481,67.80044753943702,0.0,473.3,237
+F,white,nonhispanic,27,5.0,Viral sinusitis (disorder),0.0,5.0,18,wellness,59.46573426573427,69.811767143336,0.0,427.5,143
+F,white,nonhispanic,28,5.0,Normal pregnancy,0.0,5.0,100,ambulatory,45.13018867924528,73.45405500583081,0.0,482.5,159
+F,white,hispanic,61,5.0,Hypertension,0.0,44.0,68,wellness,65.75690607734806,68.8393090169419,0.8,396.9,181
+F,white,nonhispanic,11,3.0,Acute allergic reaction,0.0,5.0,20,wellness,48.992134831460675,55.439086997967046,0.0,435.8,178
+M,black,nonhispanic,12,3.0,Otitis media,0.0,4.0,18,wellness,53.22795698924731,60.916124640434504,0.0,453.4,186
+M,white,nonhispanic,78,9.0,Acute viral pharyngitis (disorder),1.0,4.0,26,ambulatory,61.88597122302158,79.11268742438344,0.0,455.6,278
+F,asian,nonhispanic,38,7.0,Normal pregnancy,0.0,3.0,43,ambulatory,50.64675324675325,70.67324660274579,0.0,462.6,77
+F,white,nonhispanic,25,6.0,Viral sinusitis (disorder),0.0,9.0,21,wellness,60.500680272108845,70.60829678498504,0.0,438.1,147
+F,white,nonhispanic,30,10.0,Normal pregnancy,0.0,4.0,26,ambulatory,51.29523809523809,72.70511823209462,0.0,439.1,126
+F,white,nonhispanic,31,7.0,Viral sinusitis (disorder),0.0,8.0,29,ambulatory,53.24857142857143,75.50596781595594,0.2,397.0,105
+F,black,nonhispanic,48,4.0,Prediabetes,0.0,3.0,11,wellness,54.47727272727273,62.49707973746703,0.0,350.1,132
+M,white,nonhispanic,12,2.0,Otitis media,0.0,3.0,21,wellness,51.831746031746036,61.24046558548233,0.0,423.1,189
+F,white,nonhispanic,67,6.0,Chronic sinusitis (disorder),0.0,2.0,20,wellness,62.92026143790849,58.947256040192755,0.9,293.6,153
+M,white,nonhispanic,78,11.0,Polyp of colon,1.0,5.0,26,wellness,58.437295081967214,68.10952117698257,-2.8,424.1,244
+M,white,nonhispanic,45,4.0,Seasonal allergic rhinitis,0.0,84.0,56,wellness,66.52896551724139,72.84565105340629,0.0,485.7,145
+F,white,nonhispanic,39,11.0,Normal pregnancy,0.0,23.0,80,ambulatory,58.488571428571426,66.78637918009682,0.8,373.2,140
+F,white,nonhispanic,75,10.0,Viral sinusitis (disorder),0.0,71.0,79,wellness,63.78463203463203,97.31474040661367,0.2,1661.3,462
+F,white,nonhispanic,57,11.0,Normal pregnancy,0.0,44.0,70,wellness,61.268789808917205,69.87555683325049,0.0,438.6,157
+F,white,nonhispanic,14,3.0,Acute bronchitis (disorder),0.0,2.0,22,wellness,48.31578947368421,57.72445725559731,0.0,399.9,228
+F,white,nonhispanic,16,6.0,Otitis media,0.0,7.0,26,wellness,47.92794117647058,44.744306445481556,0.0,276.4,204
+F,white,nonhispanic,60,13.0,Viral sinusitis (disorder),0.0,11.0,34,ambulatory,56.464678899082564,64.2049497075351,0.0,446.9,218
+F,white,nonhispanic,48,8.0,Normal pregnancy,0.0,5.0,34,ambulatory,57.17916666666667,60.978632869773875,0.0,268.8,96
+F,white,nonhispanic,67,12.0,Seizure disorder,0.0,3.0,24,wellness,64.2691823899371,69.06049352403282,-0.3,475.5,159
+F,white,nonhispanic,75,8.0,Body mass index 30+ - obesity (finding),0.0,4.0,20,wellness,57.18305785123967,64.81874506477718,0.6,477.6,242
+M,black,nonhispanic,101,13.0,Acute viral pharyngitis (disorder),0.0,104.0,114,wellness,67.77142857142857,106.72432372748278,0.4,1735.0,364
+F,white,nonhispanic,101,11.0,Streptococcal sore throat (disorder),0.0,7.0,33,ambulatory,69.12941176470589,81.40205501340125,0.0,777.5,187
+M,white,nonhispanic,41,7.0,Appendicitis,0.0,0.0,11,wellness,56.260416666666664,77.00470044322537,0.7,416.4,96
+F,white,nonhispanic,52,6.0,Laceration of forearm,0.0,4.0,10,wellness,58.80576923076923,62.829772836946844,0.0,326.0,104
+M,black,nonhispanic,101,13.0,Acute viral pharyngitis (disorder),0.0,32.0,26,wellness,69.22094017094017,67.5619844917873,0.6,391.0,234
+F,white,nonhispanic,45,10.0,Acute viral pharyngitis (disorder),1.0,9.0,61,ambulatory,56.91136363636363,65.95200175923515,0.0,393.8,88
+M,white,nonhispanic,114,11.0,Chronic sinusitis (disorder),0.0,83.0,86,wellness,81.33353658536585,137.63273271208487,0.0,1621.2,164
+F,white,nonhispanic,101,11.0,Viral sinusitis (disorder),0.0,4.0,21,wellness,68.04864864864865,71.14228579469031,0.0,403.9,148
+M,white,nonhispanic,33,3.0,Viral sinusitis (disorder),0.0,1.0,38,outpatient,50.11340206185567,73.68821794796695,0.0,481.4,97
+F,white,nonhispanic,21,2.0,Otitis media,0.0,3.0,13,wellness,54.975352112676056,68.21280030728587,0.1,490.1,142
+M,black,nonhispanic,101,9.0,Body mass index 30+ - obesity (finding),1.0,8.0,27,ambulatory,69.4845,67.03763969164737,-0.2,474.1,200
+M,white,nonhispanic,114,4.0,Body mass index 30+ - obesity (finding),0.0,7.0,20,wellness,71.90514705882353,76.29420085709435,0.6,468.1,136
+F,white,nonhispanic,64,10.0,Chronic sinusitis (disorder),0.0,125.0,112,inpatient,56.14698965192851,92.2737269489598,0.0,514.4,2126
+M,white,nonhispanic,48,5.0,Hypertension,0.0,28.0,30,wellness,67.55625,79.45498414900653,0.0,467.2,144
+M,white,nonhispanic,96,11.0,Viral sinusitis (disorder),0.0,97.0,104,wellness,59.37647058823529,71.71228509895761,0.0,451.8,340
+M,white,nonhispanic,74,20.0,Acute bronchitis (disorder),0.0,404.0,303,outpatient,68.309,60.799067704994954,0.0,371.0,1800
+F,white,hispanic,44,4.0,Seizure disorder,0.0,4.0,10,wellness,54.65675675675676,42.58592307478849,0.0,179.8,74
+F,white,nonhispanic,9,3.0,Viral sinusitis (disorder),0.0,2.0,14,wellness,53.99685039370079,62.97208998425712,0.0,484.1,127
+F,white,nonhispanic,27,4.0,Normal pregnancy,0.0,7.0,47,ambulatory,57.00810810810811,69.55039920122287,0.0,447.7,148
+F,asian,nonhispanic,8,0.0,0,0.0,0.0,10,wellness,51.019642857142856,55.62632541477623,0.0,384.5,112
+M,black,nonhispanic,101,13.0,Sprain of ankle,1.0,8.0,27,wellness,62.60900473933649,65.91887195965438,0.0,388.1,211
+F,white,nonhispanic,30,6.0,Chronic intractable migraine without aura,1.0,51.0,59,inpatient,41.06237113402062,58.92818037252624,0.0,321.2,194
+F,white,hispanic,44,8.0,Normal pregnancy,0.0,4.0,38,ambulatory,62.6562874251497,72.80837247045432,0.1,449.8,167
+F,white,hispanic,64,7.0,Body mass index 30+ - obesity (finding),0.0,2.0,23,wellness,62.1029197080292,65.1727556548587,0.0,368.9,137
+M,white,nonhispanic,56,8.0,Viral sinusitis (disorder),0.0,4.0,14,ambulatory,61.18070175438597,65.87275596378403,0.0,429.3,114
+F,white,nonhispanic,64,14.0,Seizure disorder,0.0,46.0,112,outpatient,58.62870813397129,65.86715096105875,0.0,393.1,209
+M,white,nonhispanic,17,6.0,Viral sinusitis (disorder),0.0,5.0,23,wellness,56.3005291005291,67.61631624928127,0.0,507.1,189
+M,white,nonhispanic,114,19.0,Viral sinusitis (disorder),0.0,9.0,30,ambulatory,70.45,65.13828515971531,0.7,445.9,156
+M,black,nonhispanic,101,8.0,Acute viral pharyngitis (disorder),0.0,32.0,38,wellness,62.93190476190477,63.58359588927779,0.0,414.3,210
+F,white,nonhispanic,37,9.0,Viral sinusitis (disorder),0.0,8.0,57,outpatient,51.23409090909092,79.93222687637899,0.2,456.1,88
+M,white,nonhispanic,47,9.0,Acute viral pharyngitis (disorder),0.0,5.0,15,ambulatory,54.58421052631579,78.71108543099376,0.1,484.5,114
+F,white,nonhispanic,9,1.0,Streptococcal sore throat (disorder),0.0,1.0,13,wellness,48.51521739130435,43.526278499607436,0.0,251.4,138
+M,white,hispanic,8,2.0,Atopic dermatitis,0.0,3.0,13,wellness,48.23173076923077,63.27491299441731,0.0,432.0,104
+F,white,nonhispanic,7,1.0,Otitis media,0.0,2.0,9,wellness,50.81460674157304,60.19479657095446,0.0,413.6,89
+F,white,nonhispanic,9,4.0,Facial laceration,0.0,6.0,17,wellness,43.07565789473684,53.694353294580694,0.0,368.3,152
+M,white,hispanic,20,4.0,Otitis media,0.0,3.0,15,wellness,53.36153846153846,69.91264964736396,0.0,472.4,143
+F,white,nonhispanic,19,9.0,Viral sinusitis (disorder),0.0,40.0,39,ambulatory,54.010429447852765,67.23152425401447,0.0,439.3,163
+F,white,nonhispanic,24,7.0,Viral sinusitis (disorder),0.0,5.0,89,ambulatory,50.4156976744186,67.13937531027722,0.0,427.3,172
+F,white,nonhispanic,64,2.0,Miscarriage in first trimester,0.0,3.0,26,outpatient,66.4470588235294,71.24493374183174,0.0,413.6,136
+F,black,nonhispanic,9,2.0,Viral sinusitis (disorder),0.0,3.0,14,wellness,50.24160583941606,52.91377231254162,0.0,393.4,137
+M,white,nonhispanic,39,5.0,Hypertension,0.0,19.0,22,wellness,58.56999999999999,64.28907254674671,0.0,400.8,140
+M,black,nonhispanic,101,11.0,Viral sinusitis (disorder),1.0,90.0,65,wellness,60.19250720461095,64.580961432406,0.0,408.3,347
+M,white,nonhispanic,69,5.0,Prediabetes,0.0,2.0,23,wellness,58.95079365079365,67.33668659740697,0.0,508.3,252
+M,white,nonhispanic,90,10.0,Viral sinusitis (disorder),0.0,253.0,206,wellness,61.730617977528084,58.358126418294546,0.1,340.1,356
+M,white,nonhispanic,54,9.0,Viral sinusitis (disorder),0.0,38.0,47,wellness,67.01686046511628,72.26605089336975,0.0,489.6,172
+M,white,nonhispanic,11,3.0,Concussion with no loss of consciousness,0.0,3.0,19,wellness,54.11256830601093,58.31063561465562,0.0,377.0,183
+M,white,nonhispanic,42,5.0,Hypertension,0.0,19.0,23,wellness,64.22937062937062,75.65015739831505,0.0,488.9,143
+M,white,nonhispanic,76,8.0,Body mass index 30+ - obesity (finding),0.0,6.0,27,wellness,60.50187265917603,78.3689454632466,0.0,710.4,267
+M,white,nonhispanic,75,6.0,Hypertension,0.0,53.0,182,ambulatory,77.41394495412844,56.84888175374585,-3.2,717.5,545
+F,white,nonhispanic,40,3.0,Hypertension,0.0,19.0,21,wellness,64.87730496453901,68.03329895698587,0.0,326.1,141
+F,white,nonhispanic,8,2.0,Viral sinusitis (disorder),0.0,0.0,10,wellness,48.46333333333333,46.55948339900285,0.0,249.4,90
+M,black,nonhispanic,101,10.0,Body mass index 30+ - obesity (finding),0.0,30.0,21,wellness,59.811344537815124,68.63657177250681,0.0,471.3,238
+F,white,nonhispanic,87,8.0,Acute bronchitis (disorder),0.0,69.0,73,wellness,63.599390243902434,62.985656656187956,0.0,418.4,164
+F,white,nonhispanic,58,11.0,Acute bronchitis (disorder),0.0,16.0,35,ambulatory,54.7215859030837,62.05773019632444,0.0,394.1,227
+M,white,nonhispanic,25,3.0,Childhood asthma,0.0,52.0,92,ambulatory,51.07182320441989,61.54869464715373,0.0,358.7,181
+M,white,nonhispanic,114,7.0,Viral sinusitis (disorder),0.0,2.0,23,wellness,61.28761061946903,64.82526137616192,0.0,463.3,226
+M,white,nonhispanic,75,9.0,Acute viral pharyngitis (disorder),0.0,4.0,25,wellness,58.90885608856088,64.58333344072796,-0.0,419.8,271
+F,white,nonhispanic,77,5.0,Viral sinusitis (disorder),0.0,190.0,121,wellness,61.81999999999999,62.6295896747285,0.0,500.2,355
+M,white,nonhispanic,22,8.0,Acute viral pharyngitis (disorder),0.0,7.0,25,ambulatory,56.73684210526316,63.84497541174167,0.0,475.7,152
+M,white,nonhispanic,26,10.0,Laceration of thigh,0.0,65.0,117,ambulatory,45.5699481865285,63.69363871705034,0.0,514.2,193
+F,white,nonhispanic,63,8.0,Normal pregnancy,1.0,9.0,52,ambulatory,78.216,70.58504175049356,1.0,345.9,75
+M,white,nonhispanic,54,6.0,Viral sinusitis (disorder),0.0,34.0,37,wellness,58.80393700787401,64.13990131704635,0.0,364.7,254
+M,white,nonhispanic,16,8.0,Sinusitis (disorder),0.0,4.0,28,wellness,51.3054054054054,52.26232793203558,0.0,422.4,222
+M,asian,nonhispanic,51,6.0,Body mass index 30+ - obesity (finding),0.0,33.0,72,outpatient,68.275,70.28360065447761,0.0,428.2,168
+F,white,nonhispanic,17,4.0,Viral sinusitis (disorder),0.0,3.0,17,wellness,50.023668639053255,59.1290792071849,0.0,444.2,169
+F,white,nonhispanic,55,10.0,Normal pregnancy,0.0,9.0,53,ambulatory,58.350420168067224,76.83565322006554,0.0,440.5,119
+M,white,nonhispanic,52,3.0,Chronic sinusitis (disorder),0.0,0.0,7,wellness,60.116190476190475,68.65263472423148,0.1,440.2,105
+M,white,nonhispanic,114,11.0,Acute viral pharyngitis (disorder),0.0,134.0,102,wellness,62.38590308370044,74.4409689182979,0.0,512.6,227
+M,asian,nonhispanic,43,4.0,Hypertension,0.0,24.0,25,wellness,66.01249999999999,69.852503822052,0.0,418.2,144
+F,white,nonhispanic,63,10.0,Viral sinusitis (disorder),0.0,2.0,25,ambulatory,54.68854166666667,60.30601781123974,0.8,483.1,192
+F,white,nonhispanic,57,4.0,Miscarriage in first trimester,0.0,1.0,13,ambulatory,58.80111111111111,67.45514280532205,0.0,379.8,90
+F,white,nonhispanic,11,4.0,Streptococcal sore throat (disorder),0.0,5.0,21,wellness,46.74860335195531,53.35165968116686,0.0,421.8,179
+F,white,hispanic,69,8.0,Viral sinusitis (disorder),0.0,1.0,53,ambulatory,57.82595744680851,66.4690022112221,0.0,438.6,235
+F,white,nonhispanic,36,11.0,Viral sinusitis (disorder),1.0,6.0,54,ambulatory,53.32345679012345,95.11449977738005,0.0,485.6,81
+M,white,hispanic,64,6.0,Hypertension,0.0,45.0,48,wellness,57.28242677824268,60.340782444535584,0.0,342.6,239
+M,white,nonhispanic,45,2.0,Otitis media,0.0,2.0,4,wellness,56.41428571428571,67.14394144061288,0.0,361.9,77
+M,white,nonhispanic,16,4.0,Acute viral pharyngitis (disorder),0.0,3.0,21,wellness,42.14410256410257,49.116080718478194,0.0,401.0,195
+M,white,nonhispanic,114,15.0,Body mass index 30+ - obesity (finding),1.0,25.0,25,wellness,60.89487179487179,74.75026787332764,0.0,475.1,273
+F,white,nonhispanic,82,6.0,Body mass index 30+ - obesity (finding),0.0,3.0,18,wellness,57.15966386554622,60.961675474676596,-0.5,353.1,238
+M,black,nonhispanic,113,20.0,Viral sinusitis (disorder),1.0,1551.0,2006,ambulatory,45.07050892267019,79.83531596093489,0.0,597.9,7565
+M,white,nonhispanic,27,7.0,Viral sinusitis (disorder),0.0,8.0,18,wellness,64.49440993788821,73.18905591723329,0.0,438.3,161
+F,white,nonhispanic,99,13.0,Sprain of ankle,1.0,14.0,39,ambulatory,60.24794238683128,69.78679243108509,0.0,466.5,486
+F,white,nonhispanic,51,4.0,Hypertension,0.0,30.0,35,wellness,67.29236111111112,75.39620854471158,0.1,474.8,144
+M,white,nonhispanic,41,5.0,Acute bronchitis (disorder),0.0,22.0,22,wellness,61.14265734265734,67.55948290889275,0.0,388.5,143
+F,white,nonhispanic,35,13.0,Normal pregnancy,0.0,22.0,63,ambulatory,59.358156028368796,71.74628029783482,0.0,412.7,141
+M,white,nonhispanic,10,3.0,Viral sinusitis (disorder),0.0,0.0,16,wellness,49.02037037037037,47.00695751184456,0.0,293.6,162
+F,white,nonhispanic,8,4.0,Otitis media,0.0,4.0,17,wellness,49.74765625,54.87435177432674,0.0,421.8,128
+F,white,nonhispanic,61,10.0,Normal pregnancy,0.0,4.0,43,ambulatory,64.10289855072465,75.56643419494225,0.0,486.8,138
+F,white,nonhispanic,69,11.0,Viral sinusitis (disorder),0.0,56.0,62,wellness,55.66653386454183,60.90710628110527,0.0,470.2,251
+F,white,nonhispanic,99,7.0,Body mass index 30+ - obesity (finding),0.0,6.0,28,ambulatory,73.30457142857142,128.01463943634107,0.8,1494.8,175
+M,white,hispanic,78,9.0,Viral sinusitis (disorder),0.0,33.0,48,ambulatory,57.93310502283105,56.71696863232555,0.0,341.7,438
+F,black,nonhispanic,74,8.0,Acute viral pharyngitis (disorder),1.0,5.0,67,ambulatory,72.13155080213905,96.26657723045992,-0.4,840.2,187
+M,black,nonhispanic,65,10.0,Body mass index 30+ - obesity (finding),0.0,5.0,58,outpatient,67.24157303370787,68.36317327083697,0.0,426.8,178
+F,white,nonhispanic,69,7.0,Chronic sinusitis (disorder),0.0,6.0,21,wellness,57.02727272727273,61.03299583752525,0.6,412.2,319
+M,black,nonhispanic,113,7.0,Pathological fracture due to osteoporosis (disorder),0.0,185.0,104,ambulatory,64.47616279069767,65.49077838930884,0.0,511.0,344
+F,asian,nonhispanic,57,6.0,Coronary Heart Disease,0.0,184.0,61,wellness,55.38270676691729,61.96291466801088,0.0,399.0,266
+F,white,nonhispanic,65,5.0,Miscarriage in first trimester,0.0,3.0,20,wellness,57.95225225225225,61.780519923056886,0.0,401.4,222
+M,white,nonhispanic,21,3.0,Seizure disorder,0.0,3.0,9,wellness,54.77230769230769,52.37983124403748,1.0,298.5,65
+F,white,nonhispanic,60,3.0,Prediabetes,0.0,1.0,9,wellness,54.669398907103826,60.622009777117434,0.0,327.8,183
+M,white,nonhispanic,114,21.0,Viral sinusitis (disorder),1.0,199.0,346,outpatient,77.44683972911963,70.22454656943164,0.0,432.5,1772
+F,black,nonhispanic,74,9.0,Acute viral pharyngitis (disorder),0.0,29.0,47,ambulatory,57.2017937219731,58.98931570684513,-0.3,451.3,446
+F,white,nonhispanic,99,7.0,Miscarriage in first trimester,0.0,47.0,61,ambulatory,59.231735159817354,62.18058569774489,0.0,494.6,438
+F,white,nonhispanic,40,13.0,Normal pregnancy,0.0,5.0,57,ambulatory,48.84927536231884,67.03274578010452,0.4,402.1,69
+M,white,hispanic,43,3.0,Acute bronchitis (disorder),0.0,3.0,9,wellness,55.562,68.34269378609095,0.0,467.5,100
+M,white,nonhispanic,21,6.0,Acute viral pharyngitis (disorder),0.0,47.0,89,ambulatory,50.783076923076926,58.45738399091311,0.0,440.6,195
+F,white,nonhispanic,6,1.0,Otitis media,0.0,2.0,4,wellness,52.91463414634146,62.566826517634766,0.0,308.6,41
+M,white,nonhispanic,89,8.0,Seizure disorder,0.0,25.0,28,wellness,63.13939393939394,60.1115947297243,-0.3,319.9,198
+M,white,nonhispanic,33,2.0,Viral sinusitis (disorder),0.0,0.0,9,wellness,52.164130434782614,62.93445322343119,0.0,316.2,92
+F,asian,nonhispanic,31,5.0,Normal pregnancy,0.0,3.0,38,ambulatory,51.6353982300885,74.95202741986986,0.0,442.0,113
+F,white,nonhispanic,33,5.0,Chronic sinusitis (disorder),0.0,14.0,34,ambulatory,69.88014184397163,82.52179990753798,0.1,475.8,141
+F,white,nonhispanic,62,13.0,Viral sinusitis (disorder),0.0,3.0,24,ambulatory,57.90161290322581,64.15786903838564,0.8,389.0,186
+M,asian,nonhispanic,70,7.0,Hypertension,0.0,52.0,57,wellness,58.14041666666667,62.65199953593475,0.0,411.1,240
+F,white,nonhispanic,42,12.0,Normal pregnancy,0.0,7.0,59,ambulatory,51.35,61.860262899411055,0.8,311.0,128
+F,white,nonhispanic,39,5.0,Viral sinusitis (disorder),0.0,9.0,45,outpatient,48.59855072463768,66.90235310368305,0.0,311.9,69
+F,white,nonhispanic,6,0.0,0,0.0,0.0,2,wellness,55.68125,89.18854417070796,0.0,441.8,32
+M,white,nonhispanic,72,6.0,Viral sinusitis (disorder),0.0,30.0,19,wellness,80.12545454545455,76.85965099859844,0.0,437.8,110
+M,white,nonhispanic,114,14.0,Hyperlipidemia,0.0,72.0,89,ambulatory,58.989066059225514,59.632841758959074,0.0,380.5,439
+F,white,hispanic,11,11.0,Otitis media,0.0,13.0,30,wellness,44.7300518134715,47.94131860602919,0.0,425.1,193
+F,white,nonhispanic,32,5.0,Normal pregnancy,0.0,6.0,35,ambulatory,55.00865384615384,78.89286961342057,0.0,470.0,104
+F,white,nonhispanic,75,9.0,Acute viral pharyngitis (disorder),0.0,160.0,100,wellness,67.80121951219512,77.93076287439155,0.0,494.4,164
+M,white,nonhispanic,28,4.0,Acute viral pharyngitis (disorder),0.0,5.0,14,wellness,57.840140845070415,73.51775687455749,0.0,454.2,142
+M,black,nonhispanic,61,10.0,Body mass index 30+ - obesity (finding),0.0,77.0,58,inpatient,55.83946800862689,90.93674884267905,0.0,510.8,1391
+M,white,nonhispanic,72,5.0,Pulmonary emphysema (disorder),0.0,13.0,16,wellness,66.76230366492146,70.35585071194889,1.0,488.3,191
+F,white,nonhispanic,14,5.0,Seizure disorder,0.0,7.0,23,wellness,44.60240384615384,55.934428000467676,-0.1,420.5,208
+F,white,nonhispanic,34,10.0,Injury of medial collateral ligament of knee,0.0,23.0,52,outpatient,53.77,63.192475988702455,0.0,385.6,140
+M,white,nonhispanic,22,5.0,Acute viral pharyngitis (disorder),0.0,11.0,22,wellness,52.12727272727273,67.80341853522128,0.0,433.4,154
+F,white,nonhispanic,52,6.0,Cystitis,0.0,42.0,50,wellness,61.3712,58.977727912131535,0.0,323.6,125
+M,white,nonhispanic,61,4.0,Viral sinusitis (disorder),0.0,2.0,12,wellness,65.33083333333333,77.37609427779533,0.0,446.5,120
+M,white,nonhispanic,72,9.0,Viral sinusitis (disorder),1.0,13.0,33,ambulatory,59.5,67.23372929444497,0.0,407.3,125
+M,white,hispanic,35,3.0,Chronic sinusitis (disorder),0.0,1.0,6,ambulatory,48.91948051948052,77.12980521405565,0.3,440.2,77
+M,black,nonhispanic,61,7.0,Seasonal allergic rhinitis,0.0,26.0,16,wellness,79.74105263157894,76.50667679768128,0.0,443.7,95
+F,white,nonhispanic,40,7.0,Viral sinusitis (disorder),0.0,26.0,72,outpatient,63.575886524822685,73.66718003552892,0.0,442.7,141
+M,white,nonhispanic,72,2.0,Sprain of ankle,0.0,2.0,11,wellness,65.6021582733813,69.4534057841532,0.0,384.8,139
+F,white,nonhispanic,75,10.0,Prediabetes,0.0,21.0,42,ambulatory,57.58938053097346,58.47499454258287,0.0,368.7,452
+F,white,nonhispanic,49,15.0,Normal pregnancy,0.0,9.0,95,outpatient,62.29907407407408,74.27155717192232,0.0,389.1,108
+M,white,nonhispanic,69,18.0,Chronic intractable migraine without aura,1.0,69.0,86,outpatient,65.4,66.66276134394674,0.0,466.4,353
+M,white,nonhispanic,89,25.0,Polyp of colon,0.0,436.0,367,outpatient,78.14864864864865,72.58436998361296,-3.8,428.8,2072
+F,white,nonhispanic,15,6.0,Viral sinusitis (disorder),0.0,18.0,31,wellness,43.50905172413793,51.29033439703902,0.0,338.5,232
+F,white,nonhispanic,14,4.0,Otitis media,0.0,7.0,22,wellness,54.97853881278539,59.063009781593784,0.0,457.4,219
+M,asian,nonhispanic,72,18.0,Hypertension,0.0,367.0,110,wellness,81.60844709897611,87.73050724382318,0.0,497.4,1172
+M,white,nonhispanic,31,5.0,Acute bronchitis (disorder),0.0,3.0,13,wellness,53.53577235772357,67.38328115120139,0.0,475.3,123
+M,white,nonhispanic,52,8.0,Acute viral pharyngitis (disorder),0.0,2.0,20,wellness,62.66142857142857,57.70299742312844,1.0,363.0,140
+F,white,nonhispanic,88,10.0,Cardiac Arrest,0.0,24.0,44,ambulatory,60.50722543352601,57.36445528592143,-2.7,323.1,346
+M,white,nonhispanic,53,7.0,Chronic sinusitis (disorder),0.0,35.0,37,wellness,67.85421686746987,73.53765525012349,0.1,479.0,166
+M,white,nonhispanic,52,5.0,Hypertension,0.0,122.0,55,wellness,64.57905405405405,63.7524381322517,0.8,361.4,148
+M,white,nonhispanic,54,2.0,Body mass index 30+ - obesity (finding),0.0,0.0,7,wellness,56.19708737864078,63.012024150251655,0.0,291.9,103
+M,asian,nonhispanic,72,6.0,Viral sinusitis (disorder),0.0,22.0,40,ambulatory,62.83956043956044,60.64506525927827,0.0,425.2,364
+F,white,nonhispanic,109,11.0,Miscarriage in first trimester,0.0,136.0,59,ambulatory,58.154252873563216,55.82159203571098,0.0,213.1,435
+M,white,nonhispanic,89,17.0,Body mass index 30+ - obesity (finding),0.0,129.0,50,wellness,62.96964856230032,61.44252373782779,-3.8,432.8,313
+F,asian,nonhispanic,66,22.0,Viral sinusitis (disorder),1.0,79.0,74,wellness,60.1596875,65.24299037697016,0.0,433.8,640
+F,black,hispanic,53,5.0,Hypertension,0.0,42.0,43,wellness,64.00344827586207,74.02218456294885,0.0,475.2,145
+F,asian,nonhispanic,57,4.0,Miscarriage in first trimester,0.0,0.0,9,wellness,63.51709401709402,79.33055819730664,0.0,486.2,117
+F,white,hispanic,23,10.0,Viral sinusitis (disorder),0.0,14.0,93,ambulatory,45.855232558139534,64.02911003227008,0.0,440.9,172
+F,white,nonhispanic,26,6.0,Acute viral pharyngitis (disorder),0.0,7.0,24,wellness,48.495862068965515,58.37827063864278,0.0,381.0,145
+F,white,nonhispanic,60,3.0,Sprain of ankle,0.0,1.0,13,wellness,60.24745762711864,73.68846128048797,0.0,493.9,177
+F,black,hispanic,63,7.0,Chronic sinusitis (disorder),0.0,3.0,25,ambulatory,64.33401360544218,70.64611546059024,0.0,402.4,147
+F,asian,nonhispanic,77,9.0,Miscarriage in first trimester,0.0,29.0,45,ambulatory,63.660224089635854,63.28407940049082,-0.3,436.1,357
+F,white,nonhispanic,19,9.0,Acute bronchitis (disorder),0.0,6.0,22,wellness,51.94740259740259,61.49344318950522,0.0,382.5,154
+F,white,nonhispanic,24,6.0,Acute viral pharyngitis (disorder),0.0,6.0,21,wellness,55.714012738853505,67.96139030078199,0.0,484.3,157
+M,white,nonhispanic,37,6.0,Contact dermatitis,1.0,6.0,65,ambulatory,50.614423076923075,81.71650427856412,0.0,429.0,104
+F,white,nonhispanic,83,6.0,Hypertension,0.0,65.0,67,wellness,57.91799163179916,70.41036594795042,0.0,517.0,239
+F,white,hispanic,38,7.0,Normal pregnancy,0.0,13.0,73,ambulatory,55.21282051282052,78.28966752574725,0.0,478.5,78
+M,black,nonhispanic,61,12.0,Viral sinusitis (disorder),0.0,162.0,115,inpatient,56.0248670212766,90.99302757080436,0.0,518.7,2256
+M,white,nonhispanic,26,4.0,Viral sinusitis (disorder),0.0,6.0,15,wellness,58.05244755244755,59.2724312233118,0.0,339.5,143
+F,white,nonhispanic,54,5.0,Viral sinusitis (disorder),0.0,5.0,17,outpatient,60.155789473684216,83.59912668253699,0.0,436.7,95
+M,white,nonhispanic,38,8.0,Chronic intractable migraine without aura,0.0,4.0,75,outpatient,48.85357142857143,69.19862009632706,0.0,387.5,84
+F,white,nonhispanic,18,4.0,Fracture of ankle,0.0,2.0,16,wellness,53.58092485549133,62.97012151640517,0.0,488.1,173
+M,black,nonhispanic,74,7.0,Body mass index 30+ - obesity (finding),0.0,2.0,19,wellness,69.60337837837838,72.45521573930097,0.0,467.8,148
+M,white,nonhispanic,15,4.0,Otitis media,0.0,5.0,31,wellness,48.291739130434784,50.45506082546212,0.0,326.0,230
+F,white,hispanic,38,15.0,Normal pregnancy,1.0,7.0,67,outpatient,52.34683544303797,76.6367034571573,0.0,423.9,79
+F,white,nonhispanic,67,8.0,Acute viral pharyngitis (disorder),0.0,7.0,29,ambulatory,57.65570469798658,64.6470478232585,0.0,444.1,298
+F,white,nonhispanic,35,8.0,Viral sinusitis (disorder),0.0,6.0,30,ambulatory,51.01132075471698,71.63813206566768,0.1,426.5,106
+M,white,nonhispanic,10,1.0,Otitis media,0.0,2.0,14,wellness,51.00067567567568,51.926401993881235,0.0,363.1,148
+F,white,nonhispanic,28,4.0,Normal pregnancy,0.0,1.0,19,ambulatory,53.068292682926824,65.85554026144457,0.0,432.3,123
+M,white,nonhispanic,33,4.0,Seasonal allergic rhinitis,0.0,61.0,37,wellness,57.54666666666667,66.58108041070463,0.0,396.0,135
+M,black,nonhispanic,61,8.0,Viral sinusitis (disorder),0.0,44.0,47,wellness,57.062396694214875,60.79958600979379,0.7,381.2,242
+F,white,nonhispanic,33,6.0,Perennial allergic rhinitis with seasonal variation,0.0,17.0,25,ambulatory,58.7731884057971,67.16048710153962,0.0,424.7,138
+M,white,nonhispanic,79,10.0,Acute bronchitis (disorder),0.0,224.0,103,wellness,67.91645569620253,67.94518478250389,0.0,499.8,158
+M,white,nonhispanic,80,6.0,Acute bronchitis (disorder),0.0,3.0,28,ambulatory,66.63202614379085,64.00557917046511,-0.3,371.7,153
+F,white,hispanic,52,9.0,Viral sinusitis (disorder),0.0,3.0,13,ambulatory,52.977647058823536,58.87854402733402,0.0,273.6,85
+M,white,nonhispanic,62,8.0,Viral sinusitis (disorder),0.0,4.0,22,wellness,65.26623376623377,66.77137974494038,0.0,385.1,154
+F,white,nonhispanic,75,11.0,Acute bronchitis (disorder),1.0,7.0,31,ambulatory,61.76569343065693,76.89928805736659,0.0,484.4,274
+M,white,nonhispanic,74,5.0,Body mass index 30+ - obesity (finding),0.0,70.0,24,wellness,61.485915492957744,59.59347814232016,0.0,281.5,142
+F,white,nonhispanic,35,9.0,Normal pregnancy,0.0,6.0,44,ambulatory,52.69711538461539,70.43710333040953,0.0,321.3,104
+M,white,nonhispanic,92,5.0,Hypertension,0.0,68.0,73,wellness,68.43941605839417,65.51199301706727,0.0,413.7,137
+M,black,nonhispanic,106,13.0,Acute viral pharyngitis (disorder),1.0,181.0,114,wellness,64.8893063583815,66.99320256311378,0.0,486.5,346
+F,white,hispanic,13,4.0,Acute bronchitis (disorder),0.0,4.0,21,wellness,47.840865384615384,56.48125860106638,0.0,424.8,208
+F,white,nonhispanic,57,13.0,Hypertension,0.0,47.0,64,wellness,64.9603305785124,73.82119474277873,0.0,409.2,242
+F,white,hispanic,17,4.0,Otitis media,0.0,4.0,17,wellness,40.28855421686747,47.442034057076434,0.0,316.9,166
+F,white,nonhispanic,75,9.0,Body mass index 30+ - obesity (finding),0.0,4.0,59,ambulatory,57.04117647058824,64.26499737571406,0.0,476.4,221
+M,white,nonhispanic,7,0.0,0,0.0,0.0,5,wellness,56.213559322033895,70.68383334068328,0.0,464.9,59
+M,white,nonhispanic,82,10.0,Viral sinusitis (disorder),1.0,5.0,28,ambulatory,61.22822085889571,127.46769147655957,0.0,1995.0,326
+F,white,nonhispanic,30,11.0,Acute viral pharyngitis (disorder),0.0,7.0,50,ambulatory,54.24864864864865,64.63254428284833,0.0,433.4,148
+F,white,nonhispanic,40,9.0,Normal pregnancy,1.0,29.0,56,ambulatory,59.17315436241611,59.52102925093682,0.0,359.7,149
+F,white,nonhispanic,75,4.0,Recurrent urinary tract infection,0.0,1.0,15,wellness,56.497520661157026,59.858743767687194,0.0,369.7,242
+F,white,nonhispanic,41,8.0,Normal pregnancy,0.0,7.0,60,outpatient,56.11578947368421,79.50858820972826,0.0,438.7,95
+M,white,nonhispanic,92,18.0,Viral sinusitis (disorder),0.0,300.0,84,ambulatory,66.10359848484848,64.78552095311693,0.0,428.4,528
+M,white,nonhispanic,38,6.0,Viral sinusitis (disorder),0.0,1.0,15,ambulatory,52.8984251968504,71.86625031270415,0.0,403.0,127
+F,white,nonhispanic,17,8.0,Otitis media,0.0,46.0,21,wellness,53.17315789473684,66.8330880376001,0.0,481.1,190
+F,white,nonhispanic,24,7.0,Viral sinusitis (disorder),0.0,5.0,32,ambulatory,51.693377483443705,57.33250929897065,0.0,347.2,151
+M,asian,nonhispanic,78,8.0,Acute bronchitis (disorder),0.0,19.0,35,ambulatory,65.40355987055017,98.63238164043993,0.0,1437.7,309
+M,white,nonhispanic,10,5.0,Acute viral pharyngitis (disorder),0.0,3.0,18,wellness,44.91360544217687,56.77712813605058,0.0,424.4,147
+M,white,nonhispanic,80,21.0,Viral sinusitis (disorder),0.0,490.0,375,outpatient,77.56216755319149,71.66037366110614,0.0,412.3,1504
+M,white,nonhispanic,67,8.0,Viral sinusitis (disorder),1.0,2.0,13,wellness,69.04558823529412,77.99230623750019,1.0,498.7,136
+M,white,nonhispanic,45,4.0,Streptococcal sore throat (disorder),0.0,3.0,10,ambulatory,59.74747474747475,71.47954944217254,0.0,444.8,99
+M,white,nonhispanic,22,5.0,Viral sinusitis (disorder),0.0,2.0,15,wellness,53.894366197183096,70.29263833073952,0.0,402.2,142
+M,asian,nonhispanic,78,3.0,Acute bronchitis (disorder),1.0,1.0,7,wellness,82.83870967741936,82.690347435257,0.0,433.8,62
+M,white,hispanic,33,4.0,Injury of anterior cruciate ligament,1.0,3.0,11,wellness,51.13225806451613,70.40045108750357,0.0,433.9,93
+F,white,nonhispanic,61,4.0,Miscarriage in first trimester,0.0,129.0,90,wellness,66.96209150326798,74.1304176209029,0.0,519.0,153
+F,black,nonhispanic,19,5.0,Acute bacterial sinusitis (disorder),0.0,40.0,16,wellness,51.880838323353295,67.97900892712885,0.0,407.8,167
+F,white,nonhispanic,29,3.0,Viral sinusitis (disorder),0.0,8.0,23,outpatient,57.186086956521734,75.42698210382423,0.0,417.3,115
+M,white,nonhispanic,20,5.0,Viral sinusitis (disorder),0.0,1.0,14,wellness,56.971830985915496,74.445499476922,0.0,507.8,142
+M,white,nonhispanic,67,12.0,Viral sinusitis (disorder),0.0,18.0,42,ambulatory,57.41912087912088,59.163223479128476,-3.2,419.8,455
+M,asian,nonhispanic,78,12.0,Viral sinusitis (disorder),0.0,6.0,22,wellness,56.8525641025641,58.868451713384346,0.0,314.1,234
+F,black,nonhispanic,53,12.0,Acute bronchitis (disorder),0.0,45.0,75,wellness,62.28819875776397,57.58809271334003,0.0,321.2,161
+M,white,nonhispanic,72,6.0,Acute viral pharyngitis (disorder),1.0,1.0,11,wellness,77.1974025974026,78.85021605621696,1.0,433.7,77
+M,black,nonhispanic,106,19.0,Pathological fracture due to osteoporosis (disorder),0.0,487.0,385,outpatient,68.57290192113247,61.84077751822142,-3.6,432.0,1978
+F,white,hispanic,52,9.0,Acute bronchitis (disorder),0.0,12.0,26,outpatient,65.075,76.61927684927376,0.0,462.5,160
+F,white,nonhispanic,43,13.0,Normal pregnancy,0.0,27.0,66,ambulatory,57.301587301587304,67.34875631776818,0.0,480.4,252
+F,black,hispanic,66,9.0,Streptococcal sore throat (disorder),0.0,14.0,21,ambulatory,72.15344827586206,83.01184036135996,0.0,496.2,116
+M,white,nonhispanic,72,4.0,Prediabetes,1.0,1.0,16,wellness,58.51809954751131,62.904787634018405,0.9,508.6,221
+M,asian,nonhispanic,78,5.0,Body mass index 30+ - obesity (finding),1.0,24.0,40,ambulatory,65.20610465116279,66.03010792153047,0.0,498.4,344
+F,white,nonhispanic,88,16.0,Hypertension,0.0,136.0,78,wellness,58.7859375,61.072162696047926,0.0,362.7,256
+M,white,hispanic,54,15.0,Streptococcal sore throat (disorder),0.0,11.0,29,ambulatory,71.50625000000001,68.72089364730505,0.0,461.5,96
+F,black,hispanic,40,15.0,Normal pregnancy,1.0,85.0,94,ambulatory,62.67751479289941,63.484760758381114,0.0,350.5,169
+M,white,nonhispanic,109,10.0,Hypertension,0.0,125.0,91,wellness,57.30393184796855,91.35726272925916,0.0,520.0,1526
+M,white,nonhispanic,38,4.0,Seizure disorder,0.0,0.0,14,ambulatory,43.36153846153846,62.56777567923086,0.2,339.3,78
+M,white,hispanic,54,6.0,Acute viral pharyngitis (disorder),0.0,2.0,12,wellness,65.43363636363637,84.69850932612916,0.0,496.9,110
+M,white,nonhispanic,22,7.0,Viral sinusitis (disorder),0.0,4.0,42,ambulatory,55.056291390728475,60.21019357346833,0.0,418.8,151
+F,black,hispanic,66,3.0,Body mass index 30+ - obesity (finding),0.0,0.0,16,wellness,66.83379310344827,72.2983903892304,0.0,445.7,145
+M,white,nonhispanic,72,4.0,Body mass index 30+ - obesity (finding),0.0,2.0,16,wellness,71.77862068965517,78.51157132179706,0.0,493.7,145
+M,white,nonhispanic,62,7.0,Acute bronchitis (disorder),0.0,48.0,52,wellness,57.32462686567164,60.12255702443244,0.0,394.5,268
+M,white,nonhispanic,22,3.0,Viral sinusitis (disorder),0.0,1.0,14,wellness,52.23267973856209,64.97345999680152,0.0,444.8,153
+F,black,nonhispanic,26,4.0,Viral sinusitis (disorder),0.0,2.0,15,wellness,54.96544117647059,64.62913272542777,0.0,399.1,136
+F,black,nonhispanic,85,15.0,Streptococcal sore throat (disorder),0.0,20.0,35,wellness,64.54175257731958,71.91084836778619,0.0,415.3,194
+F,black,nonhispanic,58,9.0,Viral sinusitis (disorder),0.0,37.0,42,wellness,65.03823529411764,72.7492565475987,0.0,469.0,170
+M,white,nonhispanic,32,6.0,Child attention deficit disorder,0.0,14.0,20,wellness,71.38543046357617,83.23828237644105,0.2,505.5,151
+M,white,nonhispanic,76,10.0,Viral sinusitis (disorder),0.0,26.0,17,wellness,81.5322033898305,75.33339559942507,0.0,477.9,118
+F,black,nonhispanic,85,4.0,Seizure disorder,0.0,3.0,19,wellness,66.18839285714286,75.40964254248136,1.0,494.8,112
+F,white,nonhispanic,44,11.0,Normal pregnancy,0.0,46.0,62,ambulatory,64.35521472392638,66.11461256215401,0.0,443.2,163
+M,asian,nonhispanic,85,12.0,Viral sinusitis (disorder),0.0,7.0,27,wellness,57.77937062937063,61.37029306742349,-3.6,402.5,286
+F,white,nonhispanic,9,2.0,Otitis media,0.0,1.0,15,wellness,55.26418918918919,59.37753533163197,0.0,508.4,148
+M,asian,nonhispanic,51,5.0,Viral sinusitis (disorder),0.0,28.0,32,wellness,56.49915611814345,66.03851661909846,0.0,468.2,237
+M,white,nonhispanic,67,9.0,Body mass index 30+ - obesity (finding),0.0,13.0,16,wellness,63.94285714285714,65.72579799647494,0.0,493.5,280
+M,white,nonhispanic,76,9.0,Viral sinusitis (disorder),0.0,0.0,21,wellness,57.83723849372385,67.35658398246916,0.8,510.3,239
+M,white,nonhispanic,38,4.0,Perennial allergic rhinitis,0.0,18.0,21,wellness,59.94772727272728,73.07605727915976,0.0,445.5,132
+F,white,nonhispanic,80,8.0,Hypertension,0.0,73.0,122,wellness,63.189189189189186,67.51857366421565,-3.7,459.4,259
+M,white,nonhispanic,28,1.0,Acute viral pharyngitis (disorder),0.0,0.0,10,wellness,56.101612903225806,66.8880717596109,0.0,396.0,124
+M,white,nonhispanic,20,3.0,Acute bronchitis (disorder),0.0,3.0,14,wellness,51.32260273972603,67.73534071771208,0.0,465.9,146
+M,white,nonhispanic,56,8.0,Coronary Heart Disease,0.0,34.0,19,wellness,68.34444444444445,66.73881667921071,0.0,363.8,135
+F,white,nonhispanic,75,8.0,Fracture of rib,1.0,15.0,21,wellness,58.49959349593496,63.391067740036014,-0.1,410.1,246
+F,white,nonhispanic,26,4.0,Closed fracture of hip,0.0,5.0,16,wellness,58.97676056338029,67.13604021548042,0.0,501.2,142
+M,white,nonhispanic,15,4.0,Viral sinusitis (disorder),0.0,5.0,26,wellness,48.74810126582278,60.65206172685735,0.0,407.6,237
+M,white,nonhispanic,56,8.0,Acute bronchitis (disorder),1.0,11.0,20,wellness,64.36446280991736,69.27280353729995,0.0,474.4,121
+M,white,hispanic,29,6.0,Viral sinusitis (disorder),0.0,2.0,15,wellness,53.560683760683766,69.30545079482039,0.0,392.6,117
+M,white,nonhispanic,57,6.0,Hypertension,0.0,38.0,41,wellness,65.65704697986577,71.69821726366925,0.0,441.4,149
+M,white,nonhispanic,56,5.0,Seizure disorder,0.0,0.0,10,wellness,56.771126760563384,70.36296735220832,0.7,514.7,142
+F,white,nonhispanic,45,10.0,Normal pregnancy,0.0,8.0,44,ambulatory,51.87009345794393,64.99935009102269,0.2,361.9,107
+M,white,nonhispanic,46,4.0,Viral sinusitis (disorder),1.0,1.0,8,wellness,55.355294117647055,57.8364041435643,0.0,216.1,85
+M,white,hispanic,61,10.0,Streptococcal sore throat (disorder),0.0,47.0,51,wellness,66.37078651685393,70.32241944926677,0.0,453.3,267
+M,white,nonhispanic,17,9.0,Acute bronchitis (disorder),0.0,31.0,35,ambulatory,49.105291005291,58.3995744077411,0.0,449.8,189
+M,white,nonhispanic,60,7.0,Hypertension,0.0,42.0,47,wellness,68.32266666666666,73.4379591573061,0.6,432.6,150
+F,white,nonhispanic,51,9.0,Normal pregnancy,0.0,12.0,39,ambulatory,54.28395061728395,60.32177354983466,0.0,295.5,81
+M,white,nonhispanic,11,3.0,Sprain of ankle,0.0,2.0,16,wellness,43.35986842105263,47.857019746902544,0.0,338.0,152
+F,black,nonhispanic,41,14.0,Normal pregnancy,0.0,22.0,67,ambulatory,62.093421052631584,77.91076970420077,0.0,478.9,152
+M,white,nonhispanic,10,2.0,Acute bronchitis (disorder),0.0,5.0,18,wellness,46.84759036144578,47.95702584076482,0.0,301.1,166
+F,white,nonhispanic,78,7.0,Prediabetes,0.0,21.0,19,wellness,60.231640625,74.07932191996173,0.4,664.3,256
+F,asian,nonhispanic,13,8.0,Acute bronchitis (disorder),0.0,8.0,28,wellness,51.09644444444445,55.975745590786424,0.0,470.1,225
+M,black,nonhispanic,31,3.0,Rupture of appendix,0.0,0.0,8,wellness,53.390654205607476,76.29972617066801,0.0,439.7,107
+M,white,nonhispanic,18,3.0,Otitis media,0.0,2.0,16,wellness,55.02095808383233,67.90178576385104,0.0,471.0,167
+M,white,nonhispanic,47,4.0,Viral sinusitis (disorder),0.0,108.0,65,wellness,65.58552631578948,67.1652222053448,0.0,360.2,152
+M,black,nonhispanic,35,4.0,Drug overdose,0.0,10.0,47,outpatient,52.53775510204081,80.50635694347707,0.2,452.5,98
+F,white,nonhispanic,78,9.0,Body mass index 30+ - obesity (finding),0.0,5.0,28,wellness,59.72525252525253,74.59098879995902,0.0,732.8,297
+F,white,nonhispanic,71,6.0,Chronic sinusitis (disorder),0.0,5.0,19,wellness,57.67573221757322,62.57690123571256,0.0,354.9,239
+M,white,nonhispanic,76,14.0,Body mass index 30+ - obesity (finding),0.0,69.0,91,outpatient,69.63303491495077,67.11382517470098,0.0,413.1,1117
+M,white,nonhispanic,62,7.0,Prediabetes,0.0,8.0,19,ambulatory,61.43022598870056,63.29480434132021,0.0,346.5,354
+F,black,nonhispanic,85,21.0,Acute bronchitis (disorder),1.0,1563.0,367,outpatient,80.48698453608247,70.35890168612755,0.0,459.5,1552
+M,white,nonhispanic,67,8.0,Viral sinusitis (disorder),0.0,48.0,52,wellness,60.70510638297873,73.75257880099059,0.0,519.8,235
+M,white,nonhispanic,76,5.0,Acute viral pharyngitis (disorder),0.0,2.0,19,ambulatory,62.96170212765958,59.87249268185859,0.0,305.3,141
+M,white,nonhispanic,79,5.0,Hyperlipidemia,0.0,122.0,58,ambulatory,63.898579545454545,67.1674127610101,0.0,504.2,352
+F,white,nonhispanic,77,12.0,Cardiac Arrest,0.0,77.0,108,wellness,56.324716553287985,57.44150345805504,0.0,458.1,441
+F,white,nonhispanic,78,16.0,Viral sinusitis (disorder),1.0,164.0,107,wellness,62.497956577266926,59.10934897699384,0.0,508.4,783
+M,white,nonhispanic,81,9.0,Acute viral pharyngitis (disorder),0.0,2.0,74,outpatient,66.7239263803681,66.28135580763455,0.0,380.6,163
+F,white,nonhispanic,49,7.0,Normal pregnancy,0.0,10.0,32,ambulatory,60.95257731958763,77.73670450735116,0.0,383.5,97
+M,white,nonhispanic,109,15.0,Body mass index 30+ - obesity (finding),0.0,1237.0,826,outpatient,77.22575107296137,73.87996060774863,0.0,1963.6,2563
+F,white,nonhispanic,74,9.0,Body mass index 30+ - obesity (finding),0.0,5.0,24,wellness,59.25485074626865,75.4310525198164,0.7,861.3,268
+F,white,nonhispanic,28,9.0,Sprain of wrist,0.0,7.0,20,wellness,58.86693548387097,70.9763039832151,0.0,474.0,124
+M,white,nonhispanic,57,5.0,Hypertension,0.0,39.0,44,wellness,66.07133333333334,65.43837650045774,0.0,381.1,150
+F,white,nonhispanic,22,9.0,Viral sinusitis (disorder),0.0,7.0,61,ambulatory,49.81895424836601,67.03083319562131,0.0,432.4,153
+M,white,nonhispanic,78,8.0,Polyp of colon,0.0,13.0,31,ambulatory,61.20333333333333,57.310807217796466,0.0,283.0,360
+M,white,nonhispanic,81,15.0,Laceration of thigh,0.0,26.0,56,outpatient,55.88214285714286,62.877145803907695,-0.2,411.0,224
+F,asian,nonhispanic,50,9.0,Normal pregnancy,0.0,10.0,60,outpatient,58.81699346405229,70.95430589549726,0.7,451.6,153
+F,white,nonhispanic,89,9.0,Viral sinusitis (disorder),0.0,23.0,77,ambulatory,62.43350515463918,61.87702379446343,-3.5,433.6,194
+M,black,nonhispanic,47,6.0,Viral sinusitis (disorder),0.0,2.0,10,wellness,57.47314814814815,63.40193783188066,0.0,298.1,108
+F,white,nonhispanic,13,5.0,Otitis media,0.0,7.0,24,wellness,50.850467289719624,63.02095839451917,0.0,514.8,214
+M,white,nonhispanic,109,9.0,Viral sinusitis (disorder),0.0,162.0,93,wellness,70.94013157894737,74.07005656439567,0.0,505.0,152
+M,white,nonhispanic,16,4.0,Otitis media,1.0,6.0,26,wellness,48.01548117154812,47.32497220939957,0.0,332.6,239
+F,white,nonhispanic,61,9.0,Viral sinusitis (disorder),0.0,127.0,82,wellness,56.73927272727273,62.80024919328917,0.0,483.4,275
+F,white,nonhispanic,89,4.0,Miscarriage in first trimester,0.0,1.0,15,wellness,70.38926174496645,76.12425488113531,0.0,489.2,149
+F,white,nonhispanic,89,14.0,Viral sinusitis (disorder),0.0,9.0,30,ambulatory,81.3075,156.1027663242649,-0.5,1831.4,160
+F,asian,nonhispanic,71,3.0,Hypertension,0.0,53.0,53,wellness,63.94,66.72609788447761,-2.9,438.7,145
+M,white,nonhispanic,63,6.0,Perennial allergic rhinitis with seasonal variation,0.0,2.0,15,wellness,66.48062015503876,74.54423506121988,0.9,431.0,129
+M,black,nonhispanic,53,4.0,Body mass index 30+ - obesity (finding),0.0,2.0,9,wellness,62.56633663366336,81.24366224786733,0.0,503.5,101
+F,white,nonhispanic,58,7.0,Miscarriage in first trimester,0.0,37.0,17,wellness,62.441605839416056,67.8990325694918,0.0,436.8,137
+F,white,nonhispanic,66,10.0,Acute bronchitis (disorder),0.0,15.0,35,ambulatory,63.918461538461536,67.83006747144945,0.0,438.0,325
+M,white,nonhispanic,23,5.0,Viral sinusitis (disorder),0.0,37.0,15,wellness,60.16206896551724,77.55217336033773,0.0,440.2,145
+F,white,hispanic,29,5.0,Coronary Heart Disease,0.0,32.0,34,outpatient,58.20148148148148,66.51858003840842,0.0,438.9,135
+M,black,nonhispanic,28,7.0,Viral sinusitis (disorder),0.0,10.0,21,wellness,62.22397260273973,78.22785667063877,0.0,440.0,146
+M,white,nonhispanic,71,10.0,Hypertension,0.0,120.0,105,wellness,59.58271954674221,58.63550992701636,0.1,422.6,353
+M,white,nonhispanic,15,6.0,Otitis media,0.0,7.0,25,wellness,53.666382978723405,60.348327377012936,0.0,453.5,235
+M,white,nonhispanic,19,1.0,Viral sinusitis (disorder),0.0,0.0,11,wellness,53.42847222222222,63.1138505774486,0.0,440.2,144
+F,black,nonhispanic,61,10.0,Miscarriage in first trimester,0.0,78.0,66,inpatient,56.63787878787878,88.87773665060425,0.0,516.3,1452
+F,white,hispanic,34,7.0,Normal pregnancy,0.0,70.0,118,outpatient,58.482068965517236,68.84391531751525,0.0,410.6,145
+F,white,nonhispanic,9,1.0,Concussion with no loss of consciousness,0.0,0.0,12,wellness,53.517857142857146,61.20335504889149,0.0,517.8,112
+F,white,hispanic,29,4.0,Fracture of forearm,0.0,14.0,31,ambulatory,52.825547445255474,59.98746441254732,0.0,332.6,137
+F,white,nonhispanic,89,7.0,Hyperlipidemia,0.0,206.0,128,wellness,60.28039772727273,61.021389336334536,-2.8,443.1,352
+F,white,nonhispanic,47,7.0,Viral sinusitis (disorder),0.0,9.0,37,outpatient,52.12792792792793,66.58245355971137,0.2,367.5,111
+M,white,nonhispanic,37,3.0,Viral sinusitis (disorder),0.0,2.0,8,ambulatory,59.05568181818182,86.82683765668777,0.0,513.3,88
+F,asian,nonhispanic,34,16.0,Normal pregnancy,0.0,23.0,55,ambulatory,61.80069444444444,76.71970097046058,0.2,483.1,144
+F,white,nonhispanic,52,10.0,Cardiac Arrest,0.0,10.0,56,outpatient,58.720264317180614,69.81086733568002,0.1,499.7,227
+F,white,nonhispanic,63,12.0,Acute viral pharyngitis (disorder),0.0,48.0,63,wellness,57.66916666666667,69.16160542218938,0.8,515.9,240
+F,white,nonhispanic,67,9.0,Viral sinusitis (disorder),0.0,52.0,58,wellness,67.8993710691824,71.5533177293894,0.0,438.9,159
+M,white,hispanic,33,7.0,Fracture of forearm,0.0,15.0,22,wellness,61.93150684931507,70.54842675576646,0.0,393.3,146
+F,black,nonhispanic,59,8.0,Normal pregnancy,1.0,4.0,39,ambulatory,74.79629629629629,68.21018560292902,2.0,303.7,54
+M,white,hispanic,44,6.0,Viral sinusitis (disorder),0.0,23.0,30,wellness,68.66387096774193,69.59453430907867,0.0,332.9,155
+M,white,hispanic,23,4.0,Chronic sinusitis (disorder),0.0,1.0,14,wellness,57.44405594405595,57.7638631886383,0.0,302.7,143
+F,white,nonhispanic,49,5.0,Normal pregnancy,0.0,10.0,33,outpatient,61.67663551401869,75.84942578785306,0.0,376.7,107
+F,white,nonhispanic,57,10.0,Hypertension,0.0,49.0,58,wellness,56.858995815899576,66.55204755889557,0.0,412.5,239
+M,white,nonhispanic,6,0.0,0,0.0,0.0,5,wellness,54.742372881355934,68.21690609395134,0.0,449.7,59
+M,white,nonhispanic,52,9.0,Appendicitis,0.0,32.0,38,wellness,63.838750000000005,62.589884033550774,0.7,439.0,160
+M,white,nonhispanic,49,5.0,Pulmonary emphysema (disorder),0.0,16.0,15,wellness,60.04093567251462,71.32854776439927,0.0,517.9,171
+M,black,nonhispanic,13,7.0,Acute viral pharyngitis (disorder),0.0,7.0,27,wellness,51.78403755868545,58.44247234834665,0.0,498.3,213
+F,black,nonhispanic,59,6.0,Prediabetes,0.0,2.0,17,wellness,55.189130434782605,65.06047956651965,0.6,452.5,184
+M,white,nonhispanic,12,6.0,Viral sinusitis (disorder),0.0,2.0,22,wellness,53.756122448979596,63.693033981025,0.0,447.7,196
+F,white,nonhispanic,65,8.0,Acute viral pharyngitis (disorder),0.0,5.0,24,wellness,65.78253012048192,64.00007667312401,0.0,432.9,166
+F,white,nonhispanic,28,3.0,Childhood asthma,0.0,51.0,99,ambulatory,47.66449704142012,62.97276560726605,0.0,425.5,169
+M,asian,nonhispanic,30,2.0,Acute viral pharyngitis (disorder),0.0,1.0,9,wellness,53.22869565217391,65.74683070904446,0.0,432.8,115
+M,white,nonhispanic,48,3.0,Prediabetes,0.0,1.0,7,wellness,55.083333333333336,65.59172490939943,0.0,315.2,132
+F,white,hispanic,25,6.0,Acute bronchitis (disorder),0.0,5.0,30,ambulatory,57.64567901234568,69.50018284864946,0.0,386.5,162
+M,white,nonhispanic,49,3.0,Viral sinusitis (disorder),0.0,0.0,7,wellness,65.56868686868687,91.54174763736485,0.0,494.2,99
+M,white,nonhispanic,58,4.0,Chronic sinusitis (disorder),0.0,0.0,9,wellness,60.687421383647795,78.37950983704857,0.1,453.6,159
+M,white,nonhispanic,111,13.0,Chronic sinusitis (disorder),1.0,1614.0,1606,ambulatory,41.619354838709675,72.9278677641406,0.0,598.0,7130
+F,white,nonhispanic,57,7.0,Viral sinusitis (disorder),0.0,2.0,19,wellness,60.033928571428575,60.67937826469092,0.0,322.4,112
+F,white,nonhispanic,33,5.0,Normal pregnancy,0.0,8.0,29,ambulatory,45.62528735632184,65.14569578027039,0.0,386.2,87
+M,white,nonhispanic,17,11.0,Viral sinusitis (disorder),0.0,3.0,29,wellness,47.60251256281407,60.61523164012868,0.0,455.0,199
+M,white,nonhispanic,48,5.0,Acute bronchitis (disorder),0.0,30.0,32,wellness,56.36732283464567,64.60879168933162,0.6,425.6,254
+F,asian,nonhispanic,27,4.0,Viral sinusitis (disorder),0.0,9.0,95,ambulatory,42.88461538461539,65.85789364998705,0.0,497.3,143
+F,white,nonhispanic,33,4.0,Appendicitis,0.0,13.0,19,wellness,53.3235294117647,53.06967919323803,0.0,209.9,136
+M,white,nonhispanic,17,8.0,Acute bronchitis (disorder),0.0,6.0,27,wellness,46.5719298245614,59.92150005587807,0.0,502.1,228
+M,white,nonhispanic,108,9.0,Hypertension,1.0,104.0,66,wellness,62.41785714285714,65.11323418099727,0.0,485.4,252
+F,white,nonhispanic,39,10.0,Normal pregnancy,0.0,5.0,68,ambulatory,48.332857142857144,71.48347680049244,0.0,471.7,70
+M,white,nonhispanic,41,2.0,Acute bronchitis (disorder),0.0,87.0,51,wellness,62.96891891891892,64.31135769111872,0.0,292.4,148
+F,white,nonhispanic,52,7.0,Impacted molars,0.0,88.0,95,wellness,64.74341085271317,70.6755934324233,0.0,447.6,129
+M,white,nonhispanic,22,5.0,Acute viral pharyngitis (disorder),0.0,1.0,15,wellness,47.27361111111111,60.65174230153115,0.0,361.1,144
+F,white,nonhispanic,73,12.0,Viral sinusitis (disorder),0.0,6.0,25,ambulatory,65.47464788732394,63.91392734729749,0.0,389.2,213
+M,white,nonhispanic,111,9.0,Hypertension,0.0,89.0,77,wellness,71.02995951417005,68.97819433633204,0.3,436.3,247
+F,white,nonhispanic,32,12.0,Normal pregnancy,0.0,19.0,56,outpatient,63.89795918367347,78.78320388880248,0.0,461.1,147
+F,white,nonhispanic,52,9.0,Escherichia coli urinary tract infection,0.0,4.0,44,outpatient,56.484105960264905,67.22741612637435,0.0,408.9,151
+M,white,nonhispanic,63,6.0,Viral sinusitis (disorder),0.0,2.0,21,wellness,70.28039215686275,76.5064437076549,0.0,502.1,153
+F,white,nonhispanic,10,3.0,Acute viral pharyngitis (disorder),0.0,3.0,16,wellness,49.17236842105263,58.57584679256477,0.0,434.6,152
+M,white,nonhispanic,108,11.0,Acute viral pharyngitis (disorder),1.0,7.0,37,ambulatory,59.32659090909091,78.6453954195531,0.5,574.4,440
+F,white,nonhispanic,59,17.0,Normal pregnancy,1.0,48.0,54,ambulatory,59.623125,61.37552453663704,0.0,437.3,320
+M,white,nonhispanic,8,4.0,Acute viral pharyngitis (disorder),0.0,6.0,16,wellness,45.551587301587304,51.327783874431184,0.0,377.4,126
+F,white,nonhispanic,38,9.0,Normal pregnancy,0.0,3.0,84,ambulatory,50.066233766233765,64.22688117830417,0.0,357.3,77
+M,white,nonhispanic,25,3.0,Sprain of ankle,0.0,4.0,13,wellness,58.987500000000004,70.07354266139883,0.0,467.6,144
+M,white,nonhispanic,44,5.0,Viral sinusitis (disorder),0.0,2.0,8,wellness,59.690909090909095,76.05526869391689,0.0,443.8,99
+F,white,nonhispanic,24,7.0,Viral sinusitis (disorder),0.0,9.0,86,ambulatory,48.248514851485155,58.0918163525345,0.0,332.7,202
+M,white,nonhispanic,64,9.0,Acute viral pharyngitis (disorder),0.0,3.0,25,ambulatory,66.5325153374233,70.42110801986244,0.7,468.1,163
+M,white,nonhispanic,35,7.0,Viral sinusitis (disorder),0.0,100.0,57,wellness,61.31490683229814,66.44492664152408,0.0,371.5,161
+F,white,nonhispanic,84,14.0,Viral sinusitis (disorder),0.0,9.0,32,ambulatory,72.46904761904761,127.2175067097398,0.4,1562.2,210
+F,white,nonhispanic,80,17.0,Normal pregnancy,0.0,135.0,160,urgentcare,65.13022185014651,83.13054943121908,0.0,513.4,2389
+M,white,nonhispanic,87,12.0,Viral sinusitis (disorder),1.0,72.0,33,wellness,61.603780068728526,72.69175843438164,0.0,391.3,291
+F,white,nonhispanic,37,6.0,Acute viral pharyngitis (disorder),0.0,7.0,31,ambulatory,46.26219512195122,74.81507182981068,0.0,429.3,82
+M,white,nonhispanic,20,2.0,Sprain of ankle,0.0,2.0,13,wellness,52.28543046357616,62.66141119524945,0.0,488.6,151
+M,white,nonhispanic,111,14.0,Viral sinusitis (disorder),0.0,201.0,121,outpatient,87.59342581423401,91.452949072132,0.0,498.6,1658
+M,white,nonhispanic,108,14.0,Chronic sinusitis (disorder),1.0,53.0,88,ambulatory,58.91532091097308,60.35663935442636,0.0,433.7,483
+F,white,nonhispanic,55,7.0,Normal pregnancy,0.0,9.0,44,ambulatory,57.55714285714286,73.39849853990262,0.1,392.8,105
+F,white,nonhispanic,43,7.0,Normal pregnancy,0.0,94.0,106,ambulatory,61.00616438356164,59.309959880686606,0.3,272.3,146
+F,white,nonhispanic,80,5.0,Hypertension,0.0,62.0,74,wellness,69.51962025316456,71.67863388255167,0.0,438.0,158
+F,white,nonhispanic,84,10.0,Viral sinusitis (disorder),0.0,75.0,82,wellness,67.16066176470588,67.80465345253785,0.1,412.0,272
+F,white,nonhispanic,66,14.0,Hypertension,0.0,92.0,76,wellness,63.81925343811395,64.32924555208007,0.0,440.1,509
+F,white,nonhispanic,52,10.0,Normal pregnancy,0.0,9.0,42,outpatient,59.191588785046726,69.48585728438765,0.8,438.0,107
+M,black,nonhispanic,44,8.0,Acute viral pharyngitis (disorder),1.0,3.0,15,ambulatory,52.53615023474179,73.70872211141686,0.0,501.0,213
+M,white,nonhispanic,37,5.0,Chronic sinusitis (disorder),0.0,1.0,9,wellness,48.53457943925233,78.10892624418526,0.1,459.1,107
+F,white,hispanic,24,5.0,Viral sinusitis (disorder),0.0,9.0,17,wellness,51.991176470588236,68.23439175272925,0.0,404.7,136
+M,white,nonhispanic,108,7.0,Acute viral pharyngitis (disorder),0.0,84.0,47,ambulatory,62.95609065155807,58.349046435231905,0.1,311.6,353
+M,white,nonhispanic,111,18.0,Chronic sinusitis (disorder),1.0,113.0,112,ambulatory,58.9875,64.13234627899116,0.0,416.6,480
+M,white,nonhispanic,87,17.0,Hypertension,0.0,296.0,161,inpatient,59.5593984962406,67.80897038868999,0.0,511.2,532
+F,white,nonhispanic,31,5.0,Viral sinusitis (disorder),0.0,14.0,21,wellness,54.2,69.78342402502702,0.0,497.3,135
+M,white,nonhispanic,25,3.0,Viral sinusitis (disorder),0.0,2.0,14,wellness,46.423943661971826,58.342543057673794,0.0,358.8,142
+M,white,hispanic,53,4.0,Body mass index 30+ - obesity (finding),0.0,2.0,10,wellness,67.48260869565217,83.52279892642147,0.0,426.2,115
+F,white,nonhispanic,63,11.0,Acute bronchitis (disorder),0.0,48.0,54,wellness,59.18571428571428,64.09015775453909,0.0,393.2,252
+M,white,nonhispanic,18,3.0,Seizure disorder,0.0,2.0,11,wellness,54.52558139534884,58.283734359034284,0.0,447.9,86
+M,white,nonhispanic,59,8.0,Chronic sinusitis (disorder),0.0,25.0,18,ambulatory,63.105223880597016,73.35952287580696,0.0,504.1,134
+M,white,nonhispanic,35,5.0,Body mass index 30+ - obesity (finding),0.0,1.0,11,wellness,49.204651162790704,62.967677809336514,0.1,315.6,86
+F,white,nonhispanic,22,4.0,Acute viral pharyngitis (disorder),0.0,1.0,14,wellness,52.20763888888889,68.90537859979128,0.0,483.4,144
+M,white,nonhispanic,28,1.0,Viral sinusitis (disorder),0.0,1.0,10,wellness,52.6716814159292,69.43825812113664,0.0,404.4,113
+M,white,nonhispanic,18,9.0,Streptococcal sore throat (disorder),0.0,30.0,34,ambulatory,46.7104938271605,62.47994024223995,0.0,439.9,162
+F,white,nonhispanic,75,6.0,Osteoarthritis of knee,0.0,24.0,43,ambulatory,61.05168539325843,62.19873756675394,0.1,489.1,356
+F,white,nonhispanic,85,12.0,Viral sinusitis (disorder),1.0,1.0,24,wellness,57.52510460251046,67.58416754865975,0.0,481.9,239
+M,white,nonhispanic,87,16.0,Viral sinusitis (disorder),0.0,40.0,66,ambulatory,60.71431578947368,78.09907997227694,0.0,1065.6,475
+F,white,nonhispanic,44,10.0,Normal pregnancy,0.0,6.0,29,outpatient,49.08653846153846,54.05270002631164,0.0,198.7,104
+M,white,nonhispanic,26,4.0,Perennial allergic rhinitis,0.0,7.0,78,ambulatory,47.589595375722546,69.29878104198579,0.0,503.3,173
+F,white,nonhispanic,85,8.0,Acute viral pharyngitis (disorder),0.0,2.0,20,wellness,55.64852320675105,57.78435554448278,-3.7,303.3,237
+F,white,nonhispanic,44,6.0,Viral sinusitis (disorder),0.0,24.0,29,wellness,60.564864864864866,72.40581014088914,0.0,494.2,148
+F,black,nonhispanic,24,2.0,Acute bronchitis (disorder),0.0,2.0,12,wellness,48.69022556390978,52.86354341054365,0.0,293.9,133
+M,white,hispanic,18,4.0,Concussion with no loss of consciousness,0.0,0.0,18,wellness,48.40535714285714,59.178442485093385,0.0,359.5,168
+M,white,nonhispanic,34,7.0,Hypertension,0.0,14.0,18,wellness,62.65223880597015,75.54048032599738,0.0,458.1,134
+F,black,nonhispanic,71,13.0,Escherichia coli urinary tract infection,0.0,13.0,32,ambulatory,69.0838888888889,127.01379468647485,-0.1,1542.4,180
+M,white,nonhispanic,19,7.0,Acute viral pharyngitis (disorder),0.0,2.0,19,wellness,47.013375796178345,51.68288921770844,0.0,288.9,157
+M,white,nonhispanic,111,13.0,Chronic sinusitis (disorder),0.0,169.0,169,wellness,58.46578366445916,58.59935024192763,0.0,393.9,453
+M,white,hispanic,21,5.0,Viral sinusitis (disorder),0.0,3.0,83,ambulatory,43.81094890510949,51.04779144677034,0.0,261.0,137
+F,white,nonhispanic,15,5.0,Otitis media,0.0,6.0,23,wellness,51.98197424892704,66.15906785829624,0.0,510.5,233
+M,white,nonhispanic,63,7.0,Body mass index 30+ - obesity (finding),1.0,5.0,16,wellness,57.66478873239437,62.79096144529102,0.0,457.1,213
+M,white,nonhispanic,9,3.0,Acute viral pharyngitis (disorder),0.0,1.0,16,wellness,53.713043478260865,55.851409781770386,0.0,489.5,138
+M,white,hispanic,35,7.0,Acute viral pharyngitis (disorder),1.0,7.0,73,ambulatory,40.52281879194631,59.05066894465752,0.0,392.4,149
+M,white,nonhispanic,11,4.0,Otitis media,0.0,7.0,17,wellness,45.78834355828221,41.6967734083989,0.0,212.1,163
+F,white,nonhispanic,48,4.0,Normal pregnancy,0.0,1.0,29,ambulatory,62.1949494949495,83.15158566571003,0.0,443.2,99
+F,asian,nonhispanic,25,6.0,Viral sinusitis (disorder),0.0,8.0,30,ambulatory,59.68137931034482,68.69224542419342,0.0,503.5,145
+F,black,nonhispanic,71,3.0,Polyp of colon,0.0,1.0,16,wellness,66.92038216560509,71.97956061276602,0.0,517.5,157
+M,white,hispanic,35,4.0,Prediabetes,0.0,1.0,8,wellness,53.61654135338346,79.27385042165172,0.0,445.3,133
+F,white,nonhispanic,56,9.0,Acute bronchitis (disorder),0.0,40.0,84,outpatient,57.449999999999996,65.98710455935682,0.6,411.8,252
+F,white,nonhispanic,46,15.0,Normal pregnancy,1.0,135.0,103,ambulatory,66.49329268292682,74.79450878034397,0.3,472.6,164
+F,white,nonhispanic,80,2.0,Body mass index 30+ - obesity (finding),0.0,0.0,13,wellness,63.82517985611511,64.32169500516123,0.0,375.8,139
+M,white,nonhispanic,65,7.0,Rupture of appendix,0.0,2.0,18,wellness,67.33172413793103,70.5306096900963,0.0,411.9,145
+F,white,nonhispanic,68,6.0,Acute bronchitis (disorder),0.0,51.0,54,wellness,64.35,61.016960215683156,0.0,343.5,160
+M,white,nonhispanic,79,7.0,Acute viral pharyngitis (disorder),0.0,36.0,41,wellness,63.75412844036697,71.3471302948522,0.0,494.1,218
+F,white,nonhispanic,23,8.0,Viral sinusitis (disorder),0.0,12.0,28,wellness,53.663953488372094,65.96559339355561,0.0,411.1,172
+M,white,nonhispanic,15,5.0,Viral sinusitis (disorder),0.0,4.0,24,wellness,53.93648648648649,60.50718346566615,0.0,517.0,222
+M,asian,nonhispanic,48,9.0,Impacted molars,0.0,125.0,105,outpatient,56.81750972762646,66.8690695736775,0.0,481.3,257
+M,white,nonhispanic,36,2.0,Viral sinusitis (disorder),0.0,1.0,5,wellness,53.9671052631579,95.03170753407571,0.0,460.5,76
+F,white,nonhispanic,7,2.0,Otitis media,0.0,3.0,9,wellness,52.39753086419753,58.6371191637785,0.0,413.9,81
+M,white,nonhispanic,79,9.0,Sprain of ankle,1.0,5.0,23,ambulatory,59.30565476190476,81.27463152252521,0.0,518.6,336
+F,asian,hispanic,104,19.0,Cardiac Arrest,1.0,354.0,108,ambulatory,63.00904471544715,66.53601621846504,0.0,1051.5,984
+M,white,nonhispanic,37,7.0,Viral sinusitis (disorder),0.0,3.0,12,ambulatory,57.10079365079365,83.1806078323853,0.0,441.6,126
+F,white,nonhispanic,54,1.0,Viral sinusitis (disorder),0.0,0.0,6,wellness,63.151,84.08520870059263,0.0,505.1,100
+M,black,nonhispanic,66,6.0,Viral sinusitis (disorder),0.0,2.0,21,wellness,66.95889570552147,72.67170873610209,0.0,514.4,163
+F,white,nonhispanic,53,4.0,Acute viral pharyngitis (disorder),0.0,35.0,38,wellness,64.89575757575757,65.1813533409326,0.0,402.9,165
+M,white,nonhispanic,79,8.0,Viral sinusitis (disorder),0.0,4.0,20,wellness,56.903749999999995,63.85420588582735,-0.1,443.4,240
+M,white,nonhispanic,50,5.0,Body mass index 30+ - obesity (finding),0.0,4.0,11,wellness,57.58111111111111,70.62157084357783,0.0,424.3,90
+F,white,nonhispanic,17,6.0,Streptococcal sore throat (disorder),0.0,6.0,20,wellness,50.0740932642487,58.46589597373918,0.0,443.8,193
+M,white,nonhispanic,79,10.0,Acute viral pharyngitis (disorder),0.0,6.0,26,wellness,70.91222222222223,81.49056953051956,0.4,651.0,180
+F,black,nonhispanic,50,9.0,Concussion with no loss of consciousness,0.0,39.0,49,wellness,64.43205128205128,73.50992031993042,0.0,512.2,156
+M,asian,nonhispanic,60,9.0,Viral sinusitis (disorder),0.0,10.0,27,ambulatory,57.460059171597635,60.10403519632241,0.0,365.6,338
+F,white,nonhispanic,70,15.0,Normal pregnancy,0.0,14.0,54,ambulatory,73.85145631067961,65.87499579800956,1.0,385.3,103
+F,white,nonhispanic,71,3.0,Chronic sinusitis (disorder),0.0,1.0,15,wellness,68.53783783783784,71.51664893970748,0.0,460.9,148
+F,white,nonhispanic,60,6.0,Hypertension,0.0,44.0,48,wellness,54.16708860759494,57.68203033974268,0.7,389.9,237
+M,white,hispanic,7,1.0,Sprain of wrist,0.0,1.0,7,wellness,51.18732394366197,62.90381984671396,0.0,447.9,71
+M,white,hispanic,63,5.0,Perennial allergic rhinitis with seasonal variation,0.0,2.0,17,wellness,66.65693430656934,70.40858779048237,0.0,388.8,137
+M,white,nonhispanic,79,2.0,Body mass index 30+ - obesity (finding),1.0,0.0,12,wellness,68.81972789115646,72.40908010821039,0.7,456.6,147
+F,white,nonhispanic,111,8.0,Viral sinusitis (disorder),1.0,29.0,117,ambulatory,60.49148351648352,62.84361156113297,0.0,435.1,364
+F,white,nonhispanic,8,1.0,Otitis media,0.0,2.0,9,wellness,48.79775280898876,63.69139726683532,0.0,466.0,89
+M,white,nonhispanic,57,12.0,Viral sinusitis (disorder),0.0,15.0,72,outpatient,57.814438502673795,61.510646913620874,0.0,392.5,374
+M,white,nonhispanic,8,3.0,Acute bronchitis (disorder),0.0,3.0,13,wellness,49.28613861386138,45.11687274114413,0.0,228.6,101
+F,white,nonhispanic,70,7.0,Chronic sinusitis (disorder),0.0,12.0,50,ambulatory,63.25890410958904,61.485458523338856,0.0,313.8,146
+F,white,nonhispanic,39,15.0,Normal pregnancy,0.0,8.0,77,ambulatory,55.00987654320988,90.07993756233722,0.5,501.1,81
+M,white,nonhispanic,37,9.0,Coronary Heart Disease,1.0,122.0,41,wellness,55.13630952380952,71.11190255997954,0.0,477.5,168
+F,black,nonhispanic,24,1.0,Sprain of ankle,0.0,5.0,15,wellness,53.4264705882353,75.16286143144161,0.0,508.2,136
+F,white,nonhispanic,28,3.0,Viral sinusitis (disorder),0.0,5.0,22,ambulatory,45.93364485981308,52.012418589535535,0.0,223.1,107
+F,asian,hispanic,104,17.0,Hypertension,0.0,482.0,144,wellness,68.46435768261965,61.66708120681563,0.0,441.4,794
+M,white,hispanic,30,3.0,Sprain of ankle,0.0,2.0,10,wellness,50.03904761904762,69.8545528707797,0.0,447.2,105
+F,white,nonhispanic,41,13.0,Normal pregnancy,0.0,4.0,76,ambulatory,56.22934782608696,70.49268770128016,0.0,406.6,92
+M,white,nonhispanic,45,3.0,Injury of anterior cruciate ligament,1.0,4.0,7,wellness,58.779999999999994,82.59448965590249,0.0,493.8,80
+M,black,nonhispanic,40,3.0,Sprain of ankle,0.0,3.0,9,wellness,53.755434782608695,63.42763353155532,0.0,334.1,92
+F,white,nonhispanic,111,10.0,Acute viral pharyngitis (disorder),0.0,185.0,98,wellness,64.5623595505618,56.139562400588,0.0,228.9,356
+F,white,nonhispanic,93,14.0,Body mass index 30+ - obesity (finding),0.0,56.0,128,ambulatory,59.17527114967462,59.13828043865946,0.0,441.7,461
+M,white,nonhispanic,23,7.0,Streptococcal sore throat (disorder),0.0,3.0,18,wellness,53.26815286624204,64.43139865860965,0.0,399.0,157
+F,white,nonhispanic,59,7.0,Miscarriage in first trimester,0.0,8.0,51,outpatient,56.70982142857143,65.61738667610939,0.0,352.4,112
+M,white,nonhispanic,47,3.0,Acute bronchitis (disorder),0.0,3.0,10,ambulatory,55.95238095238095,70.59813041688251,0.1,398.9,84
+M,asian,nonhispanic,37,3.0,Viral sinusitis (disorder),0.0,2.0,7,wellness,50.86436781609195,78.95670284964028,0.0,474.9,87
+F,white,nonhispanic,61,8.0,Seasonal allergic rhinitis,0.0,158.0,98,wellness,57.80989010989011,64.79294803496295,0.0,512.9,273
+F,asian,hispanic,104,20.0,Acute viral pharyngitis (disorder),0.0,90.0,61,wellness,67.034375,63.36328303722039,-2.9,412.2,256
+M,white,nonhispanic,60,9.0,Viral sinusitis (disorder),0.0,123.0,86,outpatient,69.76925343811395,65.01934654701469,0.0,466.5,1018
+M,white,hispanic,20,2.0,Streptococcal sore throat (disorder),0.0,2.0,13,wellness,49.28251748251748,70.50475792024463,0.0,451.6,143
+F,white,nonhispanic,21,8.0,Otitis media,0.0,6.0,21,wellness,48.044736842105266,63.65776437712217,0.0,413.5,152
+M,white,nonhispanic,27,4.0,Seizure disorder,0.0,1.0,11,wellness,49.72212389380531,63.547345587074574,0.7,410.1,113
+F,white,nonhispanic,54,7.0,Viral sinusitis (disorder),0.0,11.0,25,outpatient,59.94174757281554,77.85593473452509,0.0,489.0,103
+M,white,nonhispanic,20,4.0,Acute viral pharyngitis (disorder),0.0,1.0,13,wellness,53.7530612244898,68.1663952339777,0.0,431.1,147
+F,white,nonhispanic,33,6.0,Normal pregnancy,0.0,6.0,38,ambulatory,55.95428571428571,77.75469319074453,0.0,438.1,105
+M,white,hispanic,83,11.0,Viral sinusitis (disorder),0.0,71.0,80,wellness,75.48251748251748,76.85857170362895,0.0,504.9,143
+M,white,nonhispanic,52,4.0,Viral sinusitis (disorder),0.0,7.0,12,wellness,65.34148148148148,70.81468920177551,0.0,398.3,135
+F,white,nonhispanic,41,10.0,Normal pregnancy,0.0,3.0,58,ambulatory,53.80446428571429,77.62701464898691,0.2,509.0,112
+F,white,nonhispanic,111,13.0,Viral sinusitis (disorder),0.0,92.0,122,wellness,65.31942028985507,75.13669055198544,-3.6,826.8,345
+F,asian,nonhispanic,72,7.0,Miscarriage in first trimester,0.0,5.0,25,ambulatory,64.54212765957446,66.77580723099611,0.0,393.2,235
+M,white,nonhispanic,13,6.0,Otitis media,0.0,6.0,24,wellness,45.198076923076925,49.02507192695722,0.0,319.4,208
+M,white,nonhispanic,46,7.0,Viral sinusitis (disorder),0.0,1.0,37,outpatient,56.680373831775704,62.50964822020395,0.0,265.7,107
+F,white,nonhispanic,27,4.0,Atopic dermatitis,0.0,6.0,36,outpatient,49.76814159292036,64.48879922885658,0.3,479.0,113
+M,white,nonhispanic,33,7.0,Viral sinusitis (disorder),0.0,2.0,15,ambulatory,51.590425531914896,59.32616074046992,0.1,282.4,94
+F,asian,hispanic,104,11.0,Tubal pregnancy,0.0,5.0,73,ambulatory,63.02874396135266,59.40875983921934,0.0,513.2,414
+F,asian,nonhispanic,64,11.0,Viral sinusitis (disorder),0.0,9.0,32,ambulatory,66.30163551401868,69.59269304114689,0.0,518.5,428
+M,white,hispanic,54,7.0,Viral sinusitis (disorder),0.0,3.0,14,wellness,56.343971631205676,74.83737451376467,0.1,518.0,141
+F,white,nonhispanic,111,8.0,Chronic sinusitis (disorder),0.0,6.0,28,wellness,63.326436781609196,72.68313653709522,0.0,568.0,261
+F,white,hispanic,59,10.0,Hypertension,0.0,54.0,43,wellness,61.8872131147541,61.547310646362355,0.0,414.1,305
+M,white,nonhispanic,48,7.0,Viral sinusitis (disorder),0.0,26.0,32,wellness,63.05878378378379,67.684889067166,0.0,417.4,148
+M,black,nonhispanic,18,9.0,Viral sinusitis (disorder),0.0,7.0,22,wellness,48.64624277456647,56.75725391902863,0.0,447.8,173
+F,white,nonhispanic,63,4.0,Recurrent urinary tract infection,0.0,7.0,30,ambulatory,57.33393501805054,63.7491097127613,0.2,442.4,277
+M,white,nonhispanic,74,12.0,Acute bronchitis (disorder),0.0,15.0,32,wellness,53.935795454545456,43.733847270482855,0.0,275.2,176
+F,white,nonhispanic,46,7.0,Acute bronchitis (disorder),0.0,11.0,35,outpatient,69.7827067669173,66.52838595721718,0.0,408.7,133
+M,white,nonhispanic,8,0.0,0,0.0,0.0,10,wellness,48.160714285714285,56.98431640901133,0.0,401.3,112
+F,white,nonhispanic,75,12.0,Viral sinusitis (disorder),0.0,29.0,47,ambulatory,58.24922394678492,62.67622812214072,0.0,477.2,451
+F,white,nonhispanic,111,12.0,Hypertension,0.0,60.0,70,wellness,72.43377483443709,81.07285027464883,0.0,597.8,151
+F,white,nonhispanic,85,9.0,Viral sinusitis (disorder),0.0,43.0,61,ambulatory,57.32091954022988,60.97741478908295,0.1,484.2,435
+M,white,nonhispanic,74,8.0,Body mass index 30+ - obesity (finding),0.0,3.0,22,wellness,58.56245487364621,66.53741863049494,0.0,503.8,277
+F,white,nonhispanic,46,16.0,Normal pregnancy,0.0,25.0,83,outpatient,68.44941176470587,79.28530752800351,0.0,463.4,255
+M,black,nonhispanic,60,11.0,Hypertension,1.0,58.0,43,wellness,67.51829652996845,70.94966422789493,0.0,449.8,317
+F,white,nonhispanic,39,6.0,Normal pregnancy,0.0,69.0,61,wellness,56.75801526717557,67.11417591193552,0.0,488.7,131
+M,asian,nonhispanic,69,6.0,Hypertension,1.0,51.0,57,wellness,70.29527027027028,69.17364951338976,0.0,351.3,148
+F,asian,hispanic,104,9.0,Viral sinusitis (disorder),0.0,172.0,102,ambulatory,58.03470319634703,60.147802935490716,0.0,512.3,438
+M,white,nonhispanic,48,3.0,Viral sinusitis (disorder),0.0,1.0,8,wellness,58.10285714285715,60.028894416232305,0.0,196.3,105
+F,white,nonhispanic,111,11.0,Miscarriage in first trimester,1.0,200.0,151,wellness,63.44122807017544,71.0304306709778,0.0,489.0,228
+F,white,nonhispanic,111,10.0,Miscarriage in first trimester,0.0,6.0,30,wellness,61.66678700361011,82.2111789896674,-0.2,931.7,277
+F,white,nonhispanic,111,7.0,Viral sinusitis (disorder),0.0,0.0,17,wellness,69.5358108108108,69.76465979621038,0.0,424.2,148

@@ -1,29 +1,189 @@
 {
+  "gan_comparison": {
+    "ctgan_ks": 0.3410190720182181,
+    "wgan_gp_ks": 0.23654995730145176,
+    "winner": "WGAN-GP"
+  },
   "privacy": {
-    "mia_auc": 1.0,
-    "status": "FAIL",
-    "interpretation": "Privacy concern detected"
+    "mia": {
+      "ctgan_auc": 0.9982934556210947,
+      "wgan_gp_auc": 0.9989483602588114,
+      "ctgan_status": "FAIL",
+      "wgan_gp_status": "FAIL"
+    },
+    "attribute_disclosure": {
+      "ctgan_rate": 0.0,
+      "wgan_gp_rate": 0.0,
+      "ctgan_status": "PASS",
+      "wgan_gp_status": "PASS"
+    },
+    "dp_sgd": {
+      "ctgan_epsilon": 6.016890556926192,
+      "ctgan_delta": 0.0008539709649871904,
+      "wgan_gp_epsilon": 8.78823115751546,
+      "wgan_gp_delta": 0.0008539709649871904
+    }
   },
   "fidelity": {
-    "pearson_correlation": -1.4077250998394748,
-    "kl_divergence": 0.9437293271324649,
-    "pearson_status": "FAIL",
-    "kl_status": "FAIL"
+    "ctgan": {
+      "pearson_r": 0.9837943951585497,
+      "pearson_status": "PASS",
+      "kl_divergence": 0.2501007425973587,
+      "kl_status": "FAIL",
+      "ks_statistic": 0.3410190720182181,
+      "ks_status": "FAIL",
+      "correlation_distance": 0.2855610664680665,
+      "corr_status": "PASS"
+    },
+    "wgan_gp": {
+      "pearson_r": 0.9884862238522776,
+      "pearson_status": "PASS",
+      "kl_divergence": 2.215748397712349,
+      "kl_status": "FAIL",
+      "ks_statistic": 0.23654995730145176,
+      "ks_status": "FAIL",
+      "correlation_distance": 0.09208990623563294,
+      "corr_status": "PASS"
+    }
   },
   "ml_tasks": {
-    "task1_eligibility": {
-      "task": "Patient Eligibility",
-      "auroc": 0.9998000000000001,
-      "target": 0.8,
-      "status": "PASS"
+    "ctgan_tasks": {
+      "task1_eligibility": {
+        "auroc": 1.0,
+        "f1": 1.0,
+        "status": "PASS",
+        "target": 0.8
+      },
+      "task2_disease_onset": {
+        "auroc": 1.0,
+        "f1": 0.9983050847457626,
+        "status": "PASS",
+        "target": 0.75
+      },
+      "task3_adverse_events": {
+        "auroc": 0.9991452991452991,
+        "f1": 0.9982905670715002,
+        "status": "PASS",
+        "target": 0.75
+      },
+      "task4_treatment_response": {
+        "auroc": 1.0,
+        "f1": 1.0,
+        "status": "PASS",
+        "target": 0.78
+      },
+      "task5_dropout": {
+        "auroc": 0.9991452991452991,
+        "f1": 0.9974467156470503,
+        "status": "PASS",
+        "target": 0.72
+      },
+      "task6_mortality": {
+        "auroc": 0.9971150905527264,
+        "f1": 0.9658196244664221,
+        "status": "PASS",
+        "target": 0.8
+      },
+      "task7_lab_trajectory": {
+        "auroc": 1.0,
+        "f1": 0.9991489361702127,
+        "status": "PASS",
+        "target": 0.75
+      },
+      "task8_comorbidity": {
+        "auroc": 0.9988902749878446,
+        "f1": 0.9802116820737877,
+        "status": "PASS",
+        "target": 0.7
+      }
     },
-    "task2_disease_onset": {
-      "task": "Disease Onset",
-      "auroc": 0.9998000000000001,
-      "target": 0.75,
-      "status": "PASS"
+    "wgan_gp_tasks": {
+      "task1_eligibility": {
+        "auroc": 0.9991452991452991,
+        "f1": 0.9982832618025752,
+        "status": "PASS",
+        "target": 0.8
+      },
+      "task2_disease_onset": {
+        "auroc": 0.9999565406345067,
+        "f1": 0.9991489361702127,
+        "status": "PASS",
+        "target": 0.75
+      },
+      "task3_adverse_events": {
+        "auroc": 1.0,
+        "f1": 0.9982905670715002,
+        "status": "PASS",
+        "target": 0.75
+      },
+      "task4_treatment_response": {
+        "auroc": 0.9999853897289794,
+        "f1": 0.9991489361702127,
+        "status": "PASS",
+        "target": 0.78
+      },
+      "task5_dropout": {
+        "auroc": 1.0,
+        "f1": 0.9982758620689655,
+        "status": "PASS",
+        "target": 0.72
+      },
+      "task6_mortality": {
+        "auroc": 0.9991108783373017,
+        "f1": 0.9804297725668704,
+        "status": "PASS",
+        "target": 0.8
+      },
+      "task7_lab_trajectory": {
+        "auroc": 0.9982905982905983,
+        "f1": 0.9974247982391782,
+        "status": "PASS",
+        "target": 0.75
+      },
+      "task8_comorbidity": {
+        "auroc": 0.9992340751141271,
+        "f1": 0.9856873838322693,
+        "status": "PASS",
+        "target": 0.7
+      }
     },
-    "overall_status": "PASS"
+    "tstr": {
+      "task1_eligibility": 0.870940170940171,
+      "task2_disease_onset": 0.7989826068415121,
+      "task3_adverse_events": 0.976893700511527,
+      "task4_treatment_response": 0.921792618629174,
+      "task5_dropout": 0.8205346985210467,
+      "task6_mortality": 0.9953471140438391,
+      "task7_lab_trajectory": 0.6561783495230594,
+      "task8_comorbidity": 0.9979521467453135
+    },
+    "trts": {
+      "task1_eligibility": 0.9090909090909091,
+      "task2_disease_onset": 0.8387372013651877,
+      "task3_adverse_events": 0.9666666666666667,
+      "task4_treatment_response": 0.9234006734006733,
+      "task5_dropout": 0.8286835273183395,
+      "task6_mortality": 0.9720413640208863,
+      "task7_lab_trajectory": 0.6833260406639247,
+      "task8_comorbidity": 0.9828942762121478
+    },
+    "tstr_trts_gaps": {
+      "task1_eligibility": 0.038150738150738106,
+      "task2_disease_onset": 0.03975459452367558,
+      "task3_adverse_events": 0.010227033844860345,
+      "task4_treatment_response": 0.0016080547714992788,
+      "task5_dropout": 0.00814882879729284,
+      "task6_mortality": 0.023305750022952876,
+      "task7_lab_trajectory": 0.027147691140865238,
+      "task8_comorbidity": 0.015057870533165763
+    },
+    "avg_gap": 0.020425070223131253,
+    "gap_status": "PASS"
   },
-  "overall_status": "FAIL"
+  "overall": {
+    "total": 20,
+    "passes": 14,
+    "failures": 6,
+    "pass_rate": 70.0
+  }
 }
