@@ -6,8 +6,8 @@
 ![Status](https://shields.io)
 
 ## 👥 The Team
-- **Aamna Khan**
 - **Aikel Indurkhya**
+- **Aamna Khan**
 
 ## 📊 Dataset Overview: SYNTHEA
 Our pipeline focuses on high-fidelity synthesis of rare disease data, ensuring patient privacy while maintaining clinical utility.
